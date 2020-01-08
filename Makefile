@@ -36,6 +36,7 @@ G3MEDLEY = 2020_g3_medley_p1.abc 2020_g3_medley_harmonies.abc
 G3MSR = 2020_g3_msr.abc
 G4MEDLEY = 2020_g4_medley.abc
 G4MSR = 2020_g4_msr_p1.abc 2020_g4_msr_p2.abc
+G4MARCH = maclean_lewis.abc
 PARADE = banks_of_the_lossie.abc Moonstar.abc Moonstar_seconds.abc grans.abc al_walker_hana.abc irish_set.abc \
    dovecote_park.abc leaving_port_askaig.abc
 WUSPBA = amazing_grace.abc green_hills.abc battles_oer.abc bonnie_dundee.abc \
@@ -44,7 +45,7 @@ WUSPBA = amazing_grace.abc green_hills.abc battles_oer.abc bonnie_dundee.abc \
 CHRISTMAS = we_wish_merry.abc jingle_bells.abc scotland_the_brave.abc auld_lang_syne.abc amazing_grace.abc \
     highland_cathedral.abc hector_hero.abc grans.abc
 
-ABCFILES = $(G3MEDLEY) $(G3MSR) $(G4MEDLEY) $(G4MSR) $(PARADE) $(WUSPBA)
+ABCFILES = $(G3MEDLEY) $(G3MSR) $(G4MARCH) $(G4MEDLEY) $(G4MSR) $(PARADE) $(WUSPBA)
 PSFILES = $(ABCFILES:.abc=.ps)
 PDFFILES = $(PSFILES:.ps=.pdf)
 
@@ -78,7 +79,7 @@ G3_FILES = $(G3MEDLEY) $(G3MSR)
 G3_PS = $(G3_FILES:.abc=.ps)
 G3_PDFS = $(G3_PS:.ps=.pdf)
 
-G4_FILES = $(G4MEDLEY) $(G4MSR)
+G4_FILES = $(G4MARCH) $(G4MEDLEY) $(G4MSR)
 G4_PS = $(G4_FILES:.abc=.ps)
 G4_PDFS = $(G4_PS:.ps=.pdf)
 

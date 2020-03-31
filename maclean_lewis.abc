@@ -1,0 +1,21 @@
+%abc-2.2
+I:abc-include style.abh
+%%landscape 0
+
+X:1
+T:Pipe Major Donald MacLean of Lewis
+C:Pipe Major Donald MacLeod
+R:March
+M:6/8
+L:1/8
+K:D
+[|: e | {g}A>{d}B{e}G {d}A3 | {gef}e>dg {ef}e>dB | {g}A>{d}B{e}A {g}G2 {g}B | {Gdc}d2 e {gef}e>dB |
+{g}A>{d}B{e}G {d}A3 | {gef}e>dg {ef}e>dB | {g}G>{d}Bg {ef}e>dB | {g}A3 {GAG}A2 :|]
+[|: {gf}g | {ag}a2 e {A}e2 {gf}g | a>e{A}e {gef}e>dB | {g}A>{d}B{e}A {g}G2 {g}B | {Gdc}d2 e {gef}e>dB |
+[1 {ag}a2 e {A}e2 {gf}g | a>e{A}e {gef}e>dB | {g}G>{d}Bg {ef}e>dB | {g}A3 {GAG}A2 :|]
+[2 {g}A>{d}B{e}G {d}A3 | {gef}e>dg {ef}e>dB | {g}G>{d}Bg {ef}e>dB | {g}A3 {GAG}A2 |]
+[|: e | {g}A>e{A}e {g}d>e{A}e | {g}A>e{A}e {gef}e>dB | {g}A>{d}B{e}A {g}G>{d}G{e}G | {g}B<de {gef}e>dB |
+{g}A>e{A}e {g}d>e{A}e | {g}A>e{A}e {gef}e>dB | {g}G>{d}Bg {ef}e>dB | {g}A3 {GAG}A2 :|]
+[|: e | {gAGAG}A2 a {g}a>ga | g>e{A}e {gef}e>dB | {g}A>{d}B{e}A {g}G2 {g}B | {Gdc}d2 e {gef}e>dB |
+[1 {gAGAG}A2 a {g}a>ga | g>e{A}e {gef}e>dB | {g}G>{d}Bg {ef}e>dB | {g}A3 {GAG}A2 :|]
+[2 {g}A>{d}B{e}G {d}A3 | {gef}e>dg {ef}e>dB | {g}G>{d}Bg {ef}e>dB | {g}A3 {GAG}A2 |]

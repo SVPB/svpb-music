@@ -43,12 +43,50 @@ L:1/8
 C:Unknown
 M:6/8
 K:D
-[|: {e}A | {Gdc}d>{g}fa A>df | {a}g>f{g}e {Gdc}d2 {e}A | {gBd}B e {A}e>g{a}f | {gef}e2 B {gcd}c>B{G}A | 
-{Gdc}d>{g}fa A>df | {a}g>f{g}e {Gdc}d2 {e}A | {gBd}B e {a}g>f{g}e | {gfg}f2 d {gdG}d2 :|] 
-[|: {gf}g | a2 {AGAG}A {gfg}f3 | {a}g>f{g}e {Gdc}d2 {e}A | {gBd}B e {A}e>g{a}f | {gef}e2 B {gcd}c>B{G}A | 
- a2 {AGAG}A {gfg}f3 | {a}g>f{g}e {Gdc}d2 {e}A | {gBd}B e {a}g>f{g}e | {gfg}f2 d {gdG}d2 :|] 
- [|: f | {gAGAG}A2 f {g}A>df | {a}g>f{g}e {Gdc}d2 {e}A | {gBd}B e {A}e>g{a}f | {gef}e2 B {gcd}c>B{G}A | 
- {gAGAG}A2 f {g}A>df | {a}g>f{g}e {Gdc}d2 {e}A | {gBd}B e {a}g>f{g}e | {gfg}f2 d {gdG}d2 :|] 
+[|: {e}A | {Gdc}d>{g}fa A>df | {a}g>f{g}e {Gdc}d2 {e}A | {gBd}B2 e {A}e>g{a}f | {gef}e2 B {gcd}c>B{G}A | 
+{Gdc}d>{g}fa A>df | {a}g>f{g}e {Gdc}d2 {e}A | {gBd}B2 e {a}g>f{g}e | {gfg}f2 d {gdG}d2 :|] 
+[|: {gf}g | a2 {AGAG}A {gfg}f3 | {a}g>f{g}e {Gdc}d2 {e}A | {gBd}B2 e {A}e>g{a}f | {gef}e2 B {gcd}c>B{G}A | 
+ a2 {AGAG}A {gfg}f3 | {a}g>f{g}e {Gdc}d2 {e}A | {gBd}B2 e {a}g>f{g}e | {gfg}f2 d {gdG}d2 :|] 
+ [|: f | {gAGAG}A2 f {g}A>df | {a}g>f{g}e {Gdc}d2 {e}A | {gBd}B2 e {A}e>g{a}f | {gef}e2 B {gcd}c>B{G}A | 
+ {gAGAG}A2 f {g}A>df | {a}g>f{g}e {Gdc}d2 {e}A | {gBd}B2 e {a}g>f{g}e | {gfg}f2 d {gdG}d2 :|] 
  [|: {gf}g | {ag}a2 f a2 {GdG}a | f>ga {fg}f>ed | {gf}g2 e {a}g2 {GdG}g | {a}e<ge {gcd}c>B{G}A | 
- ["1"  {ag}a2 f a2 {GdG}a | f>ga {fg}f>ed | {gBd}B e {a}g>f{g}e | {gfg}f2 d {gdG}d2 ] :|] 
- ["2" {Gdc}d2 f {g}A>df | a2 {GdG}a {fg}f>ed | {gBd}B e {a}g>f{g}e | {gfg}f2 d {gdG}d2 ] :|] 
+ ["1"  {ag}a2 f a2 {GdG}a | f>ga {fg}f>ed | {gBd}B2 e {a}g>f{g}e | {gfg}f2 d {gdG}d2 ] :|] 
+ ["2" {Gdc}d2 f {g}A>df | a2 {GdG}a {fg}f>ed | {gBd}B2 e {a}g>f{g}e | {gfg}f2 d {gdG}d2 ] :|] 
+
+X:4
+T:Pipe Sergeant John Barclay
+T:Seconds
+R:March
+L:1/8
+C:Ian Duncan
+M:6/8
+K:D
+[|: A | {g}f3 {gfg}f>ed | {gf}g>ag {afg}f2 a | {g}a>fd {e}A>df | {g}c<ea c<eA |
+{g}f3 {gfg}f>ed | {gf}g>ag {afg}f2 a | {g}A>df {g}f<ad | {g}e<gc {Gdc}d2 :|]
+[|: {e}A | {g}f3 a2 f | {g}e3 {g}d3 | a>fd {e}A>df | {g}c<(e(e) e3) |
+["1"  {g}f3 a2 f | {g}e3 {g}d3 | {g}f>dA {g}d3 | {g}e3 {g}f2 ] :|]
+["2" {g}(d3 d3) |  {g}e3 {g}d3 | {g}f>dA {g}d3 | {g}e3 {g}f2 ] |
+[|: f | {gAGAG}A3 {g}B>{d}A{e}A | {g}B<de {Gdc}d2 a | {g}a>fd {e}A>df | {g}c<ea c<eA |
+{gAGAG}A3 {g}B>{d}A{e}A | {g}B<de {Gdc}d2 f | {g}A>df {g}f<ad | {g}e<gc {Gdc}d2  :|]
+[|: {e}A | {g}(d3 d3) |  {g}(e3 e2) g| {ag}(a3 a3)  | {g}c<(e(e) e3) |
+["1" {g}(d3 d3) |  {g}(e3 {g}d3) | {g}f>dA {g}d3 | {g}e3 {g}f2 ] :|]
+["2"  {gAGAG}A3 {g}B>{d}A{e}A | {g}B<de {g}f2 a | f>dA {g}d3 | {g}e3 {g}f2 ] |]
+
+X:5
+T:Pipe Sergeant John Barclay
+T:Thirds
+R:March
+L:1/8
+C:Ian Duncan
+M:6/8
+K:D
+[|: A | {g}f3 {gfg}f>ed | {gf}g>ag {afg}f2 a | {g}a>fd {e}A>df | {g}c<ea c<eA |
+{g}f3 {gfg}f>ed | {gf}g>ag {afg}f2 a | {g}A>df {g}f<ad | {g}e<gc {Gdc}d2 :|]
+[|: {e}A | {g}(A3 A3) | {g}(B3 B3) | {g}(d3 d)>ed | {g}(c3 c3) |
+ {g}(A3 A3) | {g}B3 {G}(A3 | A3) {g}B3 | d2 c {G}A2  :|]
+[|: f | {gAGAG}A3 {g}B>{d}A{e}A | {g}B<de {Gdc}d2 a | {g}a>fd {e}A>df | {g}c<ea c<eA |
+{gAGAG}A3 {g}B>{d}A{e}A | {g}B<de {Gdc}d2 f | {g}A>df {g}f<ad | {g}e<gc {Gdc}d2  :|]
+[|: {e}A | {g}(A3 A3) | {g}(B3 B3) | {g}(d3 d)>ed | {g}(c3 c3) |
+["1" {g}(A3 A3) | {g}B3 {G}(A3 | A3) {g}B3 | d2 c {G}A2  ] :|]
+["2" {g}A3 {g}B>{d}A{e}A | {g}B<de (A3 | A3) {g}B3 | d2 c {G}A2 :|]
+

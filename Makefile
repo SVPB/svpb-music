@@ -76,7 +76,7 @@ G3_DIR = $(LOCAL_FOLDER)/$(YEAR)/g3/
 G4_DIR = $(LOCAL_FOLDER)/$(YEAR)/g4/
 FULL_DIR = $(LOCAL_FOLDER)/$(YEAR)/full_band/
 
-G3_FILES = $(G3MEDLEY) $(G3MSR)
+G3_FILES = $(G3MEDLEY) $(G3MSR) $(G368)
 G3_PS = $(G3_FILES:.abc=.ps)
 G3_PDFS = $(G3_PS:.ps=.pdf)
 

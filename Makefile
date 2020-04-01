@@ -34,6 +34,7 @@ JOIN = gs -dBATCH -dNOPAUSE -q -sDEVICE=pdfwrite -sOutputFile=
 # The source files for all the music
 G3MEDLEY = 2020_g3_medley_p1.abc 2020_g3_medley_harmonies.abc
 G3MSR = 2020_g3_msr.abc
+G368 = 2020_g3_68s.abc
 G4MEDLEY = 2020_g4_medley.abc
 G4MSR = 2020_g4_msr_p1.abc 2020_g4_msr_p2.abc
 G4MARCH = maclean_lewis.abc
@@ -45,7 +46,7 @@ WUSPBA = amazing_grace.abc green_hills.abc battles_oer.abc bonnie_dundee.abc \
 CHRISTMAS = we_wish_merry.abc jingle_bells.abc scotland_the_brave.abc auld_lang_syne.abc amazing_grace.abc \
     highland_cathedral.abc hector_hero.abc grans.abc
 
-ABCFILES = $(G3MEDLEY) $(G3MSR) $(G4MARCH) $(G4MEDLEY) $(G4MSR) $(PARADE) $(WUSPBA)
+ABCFILES = $(G3MEDLEY) $(G3MSR) $(G368) $(G4MARCH) $(G4MEDLEY) $(G4MSR) $(PARADE) $(WUSPBA)
 PSFILES = $(ABCFILES:.abc=.ps)
 PDFFILES = $(PSFILES:.ps=.pdf)
 

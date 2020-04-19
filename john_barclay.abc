@@ -1,0 +1,57 @@
+I:abc-include style.abh
+%%footer "		Generated: $D"
+%%scale 0.65
+%%landscape 0
+X:1
+T:Pipe Sergeant John Barclay
+R:March
+L:1/8
+C:Ian Duncan
+M:6/8
+K:D
+[|: A | {g}f3 {gfg}f>ed | {gf}g>ag {afg}f2 a | {g}a>fd {e}A>df | {g}c<ea c<eA |
+["2 of 2"{g}f3 {gfg}f>ed | {gf}g>ag {afg}f2 a | A>df {g}f<ad | {g}e<gc {Gdc}d2 ] :|]
+[|: {e}A | {ag}a3 {fg}f>ed | {gf}g3 {afg}f>ed | a>fd {e}A>df | {g}c<ea c<eA |
+["1"  {ag}a3 {fg}f>ed | {gf}g3 {afg}f>ed | {g}A>df {g}f<ad | {g}e<gc {Gdc}d2 ] :|]
+[|: f | {gAGAG}A3 {g}B>{d}A{e}A | {g}B<de {Gdc}d2 a | {g}a>fd {e}A>df | {g}c<ea c<eA |
+["2 of 4" {gAGAG}A3 {g}B>{d}A{e}A | {g}B<de {Gdc}d2 f | {g}A>df {g}f<ad | {g}e<gc {Gdc}d2 ] :|]
+[|: {e}A | {g}f3 {gfg}f>ed | {gf}g3 {a}g>fe | {g}f3 {gfg}f>ed | {g}c<ea c<eA |
+["1" {g}f3 {gfg}f>ed | {gf}g>ag {afg}f2 a | A>df {g}f<ad | {g}e<gc {Gdc}d2 ] :|]
+
+X:4
+T:Pipe Sergeant John Barclay
+T:Seconds
+R:March
+L:1/8
+C:Ian Duncan
+M:6/8
+K:D
+[|: A | {g}f3 {gfg}f>ed | {gf}g>ag {afg}f2 a | {g}a>fd {e}A>df | {g}c<ea c<eA |
+{g}f3 {gfg}f>ed | {gf}g>ag {afg}f2 a | A>df {g}f<ad | {g}e<gc {Gdc}d2 :|]
+[|: {e}A | {g}f3 a2 f | {g}e3 {g}d3 | a>fd {e}A>df | {g}c<(e(e) e3) |
+["1"  {g}f3 a2 f | {g}e3 {g}d3 | {g}f>dA {g}d3 | {g}e3 {g}f2 ] :|]
+["2" {g}(d3 d3) |  {g}e3 {g}d3 | {g}f>dA {g}d3 | {g}e3 {g}f2 ] |
+[|: f | {gAGAG}A3 {g}B>{d}A{e}A | {g}B<de {Gdc}d2 a | {g}a>fd {e}A>df | {g}c<ea c<eA |
+{gAGAG}A3 {g}B>{d}A{e}A | {g}B<de {Gdc}d2 f | {g}A>df {g}f<ad | {g}e<gc {Gdc}d2  :|]
+[|: {e}A | {g}(d3 d3) |  {g}(e3 e2) g| {ag}(a3 a3)  | {g}c<(e(e) e3) |
+["1" {g}(d3 d3) |  {g}(e3 {g}d3) | {g}f>dA {g}d3 | {g}e3 {g}f2 ] :|]
+["2"  {gAGAG}A3 {g}B>{d}A{e}A | {g}B<de {g}f2 a | f>dA {g}d3 | {g}e3 {g}f2 ] |]
+
+X:5
+T:Pipe Sergeant John Barclay
+T:Thirds
+R:March
+L:1/8
+C:Ian Duncan
+M:6/8
+K:D
+[|: A | {g}f3 {gfg}f>ed | {gf}g>ag {afg}f2 a | {g}a>fd {e}A>df | {g}c<ea c<eA |
+{g}f3 {gfg}f>ed | {gf}g>ag {afg}f2 a | {g}A>df {g}f<ad | {g}e<gc {Gdc}d2 :|]
+[|: {e}A | {g}(A3 A3) | {g}(B3 B3) | {g}(d3 d)>ed | {g}(c3 c3) |
+ {g}(A3 A3) | {g}B3 {G}(A3 | A3) {g}B3 | d2 c {G}A2  :|]
+[|: f | {gAGAG}A3 {g}B>{d}A{e}A | {g}B<de {Gdc}d2 a | {g}a>fd {e}A>df | {g}c<ea c<eA |
+{gAGAG}A3 {g}B>{d}A{e}A | {g}B<de {Gdc}d2 f | {g}A>df {g}f<ad | {g}e<gc {Gdc}d2  :|]
+[|: {e}A | {g}(A3 A3) | {g}(B3 B3) | {g}(d3 d)>ed | {g}(c3 c3) |
+["1" {g}(A3 A3) | {g}B3 {G}(A3 | A3) {g}B3 | d2 c {G}A2  ] :|]
+["2" {g}A3 {g}B>{d}A{e}A | {g}B<de (A3 | A3) {g}B3 | d2 c {G}A2 :|]
+

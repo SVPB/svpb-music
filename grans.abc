@@ -5,14 +5,14 @@ I:abc-include style.abh
 X:1
 T:Gran's Tune
 R:March
-C:Ali Hutton
+C:Ali Hutton, arr. Adam Blaine
 L:1/8
 M:3/4
 K:D
-{Gdc}d>c [|: {gBd}B2 {G}A>G {g}A<d | {G}A3 {d}A {Gdc}d>c | {g}B<{G}A {GAG}A>G {g}f<g | {ef}e2- e{A}e {g}f>d |
-{g}B<{G}A {GAG}AG {gde}d<c | {G}A2- A{d}A {g}A/B/d | {gef}e2 {AGAG}A>G {a}g<a |1 {Gdc}d4 {g}d>c :]2 {Gdc}d4 {g}f>g ||
-[|: {ag}a2 {Gdc}d>G {a}g<f | {gA}B4 {gef}e>f | {gf}g2 {a}f>d {gde}d<c | {G}A4 {gef}e{g}f/g/ |
-{ag}a2 {Gdc}d>G {a}g<f | {gA}B2- B{G}A {g}A/B/d | {gef}e2 {AGAG}A>G {a}g<a |1 {Gdc}d4 {g}f>g :]2 {Gdc}d4 ||
+[|: {Gdc}d>c {gBd}B2 {G}A>G | {g}A<d  {G}A3 {d}A | {Gdc}d>c {g}B<{G}A {GAG}A>G | {g}f<g  {ef}e2- e{A}e | 
+{g}f>d {g}B<{G}A {GAG}AG | {gde}d<c  {G}A2- A{d}A | {g}A/B/d  {gef}e2 {AGAG}A>G  | {a}g<a {Gdc}d4 :|]
+[|: {g}f>g {ag}a2 {Gdc}d>G | {a}g<f {gA}B4 | {gef}e>f {gf}g2 {a}f>d | {gde}d<c {G}A4 | 
+{gef}e{g}f/g/ {ag}a2 {Gdc}d>G | {a}g<f {gA}B2- B{G}A | {g}A/B/d {gef}e2 {AGAG}A>G | {a}g<a {Gdc}d4 {g}f>g :|]
 
 X:2
 T:Gran's Tune (seconds)

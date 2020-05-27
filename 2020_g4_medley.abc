@@ -87,6 +87,7 @@ N:Probably composed by Alexander MacDonald, but unknown which or when. See histo
 H:https://tunearch.org/wiki/Annotation:Mrs._MacLeod_of_Raasay_(1)
 M:C|
 L:1/8
+Q:"76 bpm"
 K:D
 [| {g}A2 {ag}a2 fe{g}fa | c{g}c{G}cB c{g}c{G}cB | {g}A2 {ag}a2 fe{g}fa | B{g}B{G}BA {g}Bd{g}cB |
  {g}A2 {ag}a2 fe{g}fa | c{g}c{G}cB {g}cd{g}ec | {g}f3 e {g}fe{g}fg | af{g}ec {g}Bd{g}cB  ||
@@ -100,9 +101,10 @@ L:1/8
 C:Terry Tully
 M:C|
 L:1/8
+Q:"76 bpm"
 K:D
 {g}ce{A}ec {g}A2 {g}ec | {g}Ae{g}c{d}A {g}fe{A}ef | {g}cd{g}dc {g}B{G}B{g}fe | {g}ef{g}fe {g}ef{g}dB |
-{g}ce{A}ec {g}A2 {g}ec | {g}Ae{g}c{d}A {g}fe{A}ef | {g}cd{g}dc {g}B{G}B{g}fe | {g}ef{g}dB {G}A2 |
+{g}ce{A}ec {g}A2 {g}ec | {g}Ae{g}c{d}A {g}fe{A}ef | {g}cd{g}dc {g}B{G}B{g}fe | {g}ef{g}dB {G}A4 |
 ae{A}ea Bc{g}c{G}c | ae{A}ea Bc{g}ec | af{e}fa cd{g}d{G}d | {g}fa{g}af {g}ef{g}dB |
 ae{A}ea Bc{g}c{G}c | ae{A}ef {ag}a4 | {g}ce{A}ec {g}A2 {g}ec | {g}Ae{g}c{d}A {g}fe{A}ef |
 cd{g}dc {g}B{G}B{g}fe | {g}ef{g}dB {G}(A4 | A4) z4 |]
@@ -115,9 +117,10 @@ L:1/8
 C:Terry Tully
 M:C|
 L:1/8
+Q:"76 bpm"
 K:D
 {g}ce{A}ec {g}A2 {g}ec | {g}Ae{g}c{d}A {g}fe{A}ef | {g}cd{g}dc {g}B{G}B{g}fe | {g}ef{g}fe {g}ef{g}dB |
-{g}ce{A}ec {g}A2 {g}ec | {g}Ae{g}c{d}A {g}fe{A}ef | {g}cd{g}dc {g}B{G}B{g}fe | {g}ef{g}dB {G}A2 |
+{g}ce{A}ec {g}A2 {g}ec | {g}Ae{g}c{d}A {g}fe{A}ef | {g}cd{g}dc {g}B{G}B{g}fe | {g}ef{g}dB {G}A4 |
 ae{A}ea Bc{g}c{G}c | ae{A}ea Bc{g}ec | af{e}fa cd{g}d{G}d | {g}fa{g}af {g}ef{g}dB |
 ae{A}ea Bc{g}c{G}c | ae{A}ef {ag}(a4 | (a8) | a8) |
 cd{g}dc {g}B{G}B{g}fe | {g}ef{g}dB {G}(A4 | A4) z4 |]

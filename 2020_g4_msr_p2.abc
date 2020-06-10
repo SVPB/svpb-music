@@ -30,6 +30,7 @@ C:Roderick Campbell
 R:Reel
 M:C|
 L:1/8
+Q:"148 bpm"
 K:D
 [|: {gcd}c2 {g}e>c {g}A>{d}A{e}A>a | {cd}c2 {g}e>c {g}e>fa>e | {gcd}c2 {g}e>c {g}A>{d}A{e}A>g | {a}B>{d}G{e}G>{d}B {a}g>e{g}d>B :|]
 [|: {gAd}A2 a>g {ag}a2 e>f | {ag}a2 e>c {gAd}A2 {g}e>c | {gAd}A2 a>g {ag}a2 e>f | {gf}g2 {a}d>B {gGd}G2 {g}d>B :|]

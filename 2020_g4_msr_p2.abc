@@ -35,6 +35,6 @@ K:D
 [|: {gcd}c2 {g}e>c {g}A>{d}A{e}A>a | {cd}c2 {g}e>c {g}e>fa>e | {gcd}c2 {g}e>c {g}A>{d}A{e}A>g | {a}B>{d}G{e}G>{d}B {a}g>e{g}d>B :|]
 [|: {g}A<{d}A a>g {ag}a2 e>f | {ag}a2 e>c {g}A<{d}A {g}e>c | {g}A<{d}A a>g {ag}a2 e>f | {gf}g2 {a}d>B {g}G<{d}G {g}d>B :|]
 || {gef}e2 {g}A>{d}c {g}A>{d}A{e}A>{d}c | {gef}e2 {g}A>{d}c {gef}e>Aa>f | {gef}e2 {g}A>{d}c {g}A>{d}A{e}A>g | {a}B>{d}G{e}G>{d}B {a}g>e{g}d>B |
-{gef}e2 {g}A>{d}c {g}A>{d}A{e}A>{d}c | {gef}e2 {g}A>{d}c {gef}e>Aa>f | {gef}e2 {g}A>{d}c {gAd}A2 {g}c<{d}A | {g}B>{d}G{e}G>{d}B {a}g>e{g}d>B ||
+{gef}e2 {g}A>{d}c {g}A>{d}A{e}A>{d}c | {gef}e2 {g}A>{d}c {gef}e>Aa>f | {gef}e2 {g}A>{d}c {g}A<{d}A {g}c<{d}A | {g}B>{d}G{e}G>{d}B {a}g>e{g}d>B ||
 || {ag}a2 {ef}e>c {g}e>fa>e | {g}c>{d}A{e}A>{d}c a>f{gef}e>c | {ag}a2 {ef}e>c {g}e>f{a}g>d | {g}B>{d}G{e}G>{d}B {a}g>e{g}d>B |
 {ag}a2 {ef}e>c {g}e>fa>e | {g}c>{d}A{e}A>{d}c a>f{gef}e>c | a>e{A}e>a g>e{g}f>d | {g}B>{d}G{e}G>{d}B {a}g>e{g}d>B ||

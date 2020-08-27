@@ -1,6 +1,6 @@
 %abc-2.2
 I:abc-include style.abh
-%%footer "Page $P	SVPB G3 Medley 2020	Generated: $D"
+%%footer "Page $P	SVPB G3 Jig 2020	Generated: $D"
 %%landscape 1
 X:1
 T:Donald MacLean
@@ -10,12 +10,12 @@ R:Jig
 M:6/8
 K:D
 a [|: A{d}A{e}A {g}ce{A}e | {g}Ad{e}A {g}c{d}G{d}B | {g}A{d}B{e}B {g}B{d}c{e}c | {g}cd{e}B {g}cfe |
-{g}A{d}A{e}A {g}ce{A}e | {g}Ad{e}A {g}c{d}G{d}B | {gef}ec{G}c d{e}B{d}c | {g}A{d}c {ag}a3 :|]
+{g}A{d}A{e}A {g}ce{A}e | {g}Ad{e}A {g}c{d}G{d}B | {gef}ec{G}c d{e}B{d}c | {g}A{d}ce {ag}a3 :|]
 [|: f | {g}efe {g}A2 {d}c | {g}efe {g}c{d}A{d}c | {g}fe{A}e {gcd}c2 e | {g}fe{A}e {g}faf | 
-{g}efe {g}A2 {d}c | {g}efe {g}c{d}A{d}c |  {gef}ec{G}c d{e}B{d}c | {g}A{d}c {ag}a2 :|]
+{g}efe {g}A2 {d}c | {g}efe {g}c{d}A{d}c |  {gef}ec{G}c d{e}B{d}c | {g}A{d}ce {ag}a2 :|]
 [|: A{d}A{e}A {g}c{d}c{e}c | d{e}c{d}c d{e}G{d}B | {gAGAG}A2 e {g}cd{e}B | {g}A{d}ce aga |
-A{d}A{e}A {g}c{d}c{e}c | d{e}c{d}c d{e}G{d}B |  {gef}ec{G}c d{e}B{d}c | {g}A{d}c {ag}a2 :|]
+A{d}A{e}A {g}c{d}c{e}c | d{e}c{d}c d{e}G{d}B |  {gef}ec{G}c d{e}B{d}c | {g}A{d}ce {ag}a2 :|]
 e | ae{A}e {ag}a2 e | {g}fe{A}e {g}ce{A}e | {g}fe{A}e {gfg}f2 e | {g}ce{A}e {g}Be{A}e | 
-ae{A}e {ag}a2 e | {g}fe{A}e {g}caf | {gef}ec{G}c d{e}B{d}c | {g}A{d}c {ag}a2 e ||
+ae{A}e {ag}a2 e | {g}fe{A}e {g}caf | {gef}ec{G}c d{e}B{d}c | {g}A{d}ce {ag}a2 e ||
 ae{A}e {ag}a2 e | {g}fe{A}e {g}ce{A}e | {g}fe{A}e {g}fe{A}e | {g}ce{A}e {g}Be{A}e | 
-ae{A}e ae{A}e | {g}fe{A}e {g}caf | {gef}ec{G}c d{e}B{d}c | {g}A{d}c {ag}a2 |]
+ae{A}e ae{A}e | {g}fe{A}e {g}caf | {gef}ec{G}c d{e}B{d}c | {g}A{d}ce {ag}a2 |]

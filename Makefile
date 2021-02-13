@@ -34,6 +34,7 @@ JOIN = gs -dBATCH -dNOPAUSE -q -sDEVICE=pdfwrite -sOutputFile=
 # The source files for all the music
 G3MEDLEY = 2021_g3_medley_p1.abc 2021_g3_medley_harmonies.abc
 G3MSR = 2021_g3_msr.abc
+G3OLDMSR = 2020_g3_msr.abc
 G368 = john_barclay.abc 2021_g3_68s.abc
 G3MISC = grans.abc banks_of_the_lossie.abc
 G3HORNPIPES = 2021_g3_hornpipes.abc
@@ -49,7 +50,7 @@ WUSPBA = amazing_grace.abc green_hills.abc battles_oer.abc bonnie_dundee.abc \
 CHRISTMAS = we_wish_merry.abc jingle_bells.abc scotland_the_brave.abc auld_lang_syne.abc amazing_grace.abc \
     highland_cathedral.abc hector_hero.abc
 
-ABCFILES = $(G3MEDLEY) $(G3MSR) $(G368) $(G3HORNPIPES) $(G3JIG) $(G4MARCH) $(G4MEDLEY) $(G4MSR) $(PARADE) $(WUSPBA) 
+ABCFILES = $(G3MEDLEY) $(G3MSR) $(G3OLDMSR) $(G368) $(G3HORNPIPES) $(G3JIG) $(G4MARCH) $(G4MEDLEY) $(G4MSR) $(PARADE) $(WUSPBA) 
 PSFILES = $(ABCFILES:.abc=.ps)
 PDFFILES = $(PSFILES:.ps=.pdf)
 
@@ -79,7 +80,7 @@ G3_DIR = $(LOCAL_FOLDER)/$(YEAR)/g3/
 G4_DIR = $(LOCAL_FOLDER)/$(YEAR)/g4/
 FULL_DIR = $(LOCAL_FOLDER)/$(YEAR)/full_band/
 
-G3_FILES = $(G3MEDLEY) $(G3MSR) $(G368) $(G3HORNPIPES) $(G3JIG) $(G3MISC) 
+G3_FILES = $(G3MEDLEY) $(G3MSR) $(G3OLDMSR) $(G368) $(G3HORNPIPES) $(G3JIG) $(G3MISC) 
 G3_PS = $(G3_FILES:.abc=.ps)
 G3_PDFS = $(G3_PS:.ps=.pdf)
 

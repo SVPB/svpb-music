@@ -50,7 +50,7 @@ WUSPBA = amazing_grace.abc green_hills.abc battles_oer.abc bonnie_dundee.abc \
 CHRISTMAS = we_wish_merry.abc jingle_bells.abc scotland_the_brave.abc auld_lang_syne.abc amazing_grace.abc \
     highland_cathedral.abc hector_hero.abc
 
-ABCFILES = $(G3MEDLEY) $(G3MSR) $(G3OLDMSR) $(G368) $(G3HORNPIPES) $(G3JIG) $(G4MARCH) $(G4MEDLEY) $(G4MSR) $(PARADE) $(WUSPBA) 
+ABCFILES = $(G3MEDLEY) $(G3MSR) $(G3OLDMSR) $(G368) $(G3HORNPIPES) $(G3JIG) $(G3MISC) $(G4MARCH) $(G4MEDLEY) $(G4MSR) $(PARADE) $(WUSPBA) 
 PSFILES = $(ABCFILES:.abc=.ps)
 PDFFILES = $(PSFILES:.ps=.pdf)
 

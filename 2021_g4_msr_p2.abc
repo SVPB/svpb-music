@@ -4,37 +4,33 @@ I:abc-include style.abh
 %%newpage 2
 %%landscape 1
 X:2
-T:Captain Colin Campbell
+T:Under the Triboro
 R:Strathspey
-C:Donald MacLeod
+C:Bruce Gandy
 M:C
 L:1/8
 Q:"112 bpm"
 K:D
-[|: {gBG}B2 {Gdc}d>c {g}B2 {GdGe}B>{d}c | {g}A2 {GdGe}A>{d}c {gef}e>A {g}f/e/c | {gBG}B2 {Gdc}d>c {g}B2 {GdGe}B>{d}c | {g}A>{d}c {gef}e>c {ag}a>f {g}f/e/c :|]
-[|: {gfg}f2 {g}f<a g/f/e {ag}a2 | A2 {GdGe}A>{d}c {gef}e>A {g}f/e/c | {gfg}f2 {g}f<a g/f/e {ag}a2 | A>{d}c {gef}e>c {ag}a>f {g}f/e/c :|]
+[|{Gdc}d2 {g}f/e/d {gBd}B>A {g}B<d | {g}A>{d}B | {ag}a>f {g}e>d {g}e<f | {Gdc}d2 {g}f/e/d {gBd}B>A {g}B<d | {ag}a>f {g}e>d {g}e<f {Gdc}d2 |
+{Gdc}d2 {g}f/e/d {gBd}B>A {g}B<d | {g}A>{d}B | {ag}a>f {g}e>d {g}e<f | {Gdc}d2 {g}f/e/d {gBd}B>A {g}B<d | {ag}a>f {g}e>d {g}e<f {Gdc}d2 ||
+{g}f>e {g}f<a {ef}e>d {e}e<f | {ag}a>f {g}e>d {g}e<f {gBd}B2 | {Gdc}d<e {gdc}d>A {g}B<d {g}e>f | {ag}a>f {g}e>d {g}e<f {Gdc}d2 |
+{g}f>e {g}f<a {ef}e>d {e}e<f | {ag}a>f {g}e>d {g}e<f {gBd}B2 | {Gdc}d<e {gdc}d>A {g}B<d {g}e>f | {ag}a>f {g}e>d {g}e<f {Gdc}d2 ||
+{g}A>B {Gdc}d>A {g}B<{d}A {gfg}f2 | {Gdc}d>f {ag}a>f {g}e>d {g}e<f | {g}A>B {Gdc}d>A {g}B<{d}A {gfg}f2 | {ag}a>f {g}e>d {g}e<f {Gdc}d2 |
+{g}A>B {Gdc}d>A {g}B<{d}A {gfg}f2 | {Gdc}d>f {ag}a>f {g}e>d {g}e<f | {g}A>B {Gdc}d>A {g}B<{d}A {gfg}f2 | {ag}a>f {g}e>d {g}e<f {Gdc}d2 ||
+{ag}a2 f/e/d {ag}a>d {gfg}f2 | {g}e2 {GdG}e>d {g}f/e/d {gBd}B2 | {Gdc}d<e {gdc}d>A {g}B<d {g}e>f | {ag}a>f {g}e>d {g}e<f {Gdc}d2 |
+{ag}a2 f/e/d {ag}a>d {gfg}f2 | {g}e2 {GdG}e>d {g}f/e/d {gBd}B2 | {Gdc}d<e {gdc}d>A {g}B<d {g}e>f | {ag}a>f {g}e>d {g}e<f {Gdc}d2 |]
+
 X:3
-T:The Campbeltown Kiltie Ball
-R:Strathspey
-C:Pipe-Major John McLellan, Dunoon
-M:C
-L:1/8
-K:D
-[| {g}A>B {G}A>B {g}c<e {A}e2 | {g}f>g {fg}f>e {g}f<a {g}a2 | A>B {G}A>B {g}c<e {A}e>c | {g}e>f {gef}e>c {g}B2 {GdGe}B>{d}c | 
-{g}A>B {G}A>B {g}c<e {A}e2 | {g}f>g {fg}f>e {g}f<a {g}a>e | {ag}a>g {fg}f>e {g}f>g {ag}a>f | {gef}e>c {g}B<{d}c {g}A2 {GAG}A>e |]
-{ag}a2 {g}a>e {g}f2 {g}f<a | e>f {gef}e>B {g}c<e {A}e>f | {ag}a2 {g}a>f {gf}g>a {f}g>e | {g}f>g {ag}a>f {gef}e>d {gcd}c>B |
-{g}A>B {G}A>B {g}c<e {A}e2 | {g}d>c {Gdc}d>e {g}f<a {g}a>e | {ag}a>g {fg}f>e {g}f>g {ag}a>f | {gef}e>c {g}B<{d}c {g}A4 |]
-X:4
-T:MacKay from Skye
-C:Roderick Campbell
+T:The Sound of Sleat 
+C:D MacKinnon
 R:Reel
 M:C|
 L:1/8
-Q:"148 bpm"
+Q:"74 bpm"
 K:D
-[|: {gcd}c2 {g}e>c {g}A>{d}A{e}A>a | {cd}c2 {g}e>c {g}e>fa>e | {gcd}c2 {g}e>c {g}A>{d}A{e}A>g | {a}B>{d}G{e}G>{d}B {a}g>e{g}d>B :|]
-[|: {g}A<{d}A a>g {ag}a2 e>f | {ag}a2 e>c {g}A<{d}A {g}e>c | {g}A<{d}A a>g {ag}a2 e>f | {gf}g2 {a}d>B {g}G<{d}G {g}d>B :|]
-|| {gef}e2 {g}A>{d}c {g}A>{d}A{e}A>{d}c | {gef}e2 {g}A>{d}c {gef}e>Aa>f | {gef}e2 {g}A>{d}c {g}A>{d}A{e}A>g | {a}B>{d}G{e}G>{d}B {a}g>e{g}d>B |
-{gef}e2 {g}A>{d}c {g}A>{d}A{e}A>{d}c | {gef}e2 {g}A>{d}c {gef}e>Aa>f | {gef}e2 {g}A>{d}c {g}A<{d}A {g}c<{d}A | {g}B>{d}G{e}G>{d}B {a}g>e{g}d>B ||
-|| {ag}a2 {ef}e>c {g}e>fa>e | {g}c>{d}A{e}A>{d}c a>f{gef}e>c | {ag}a2 {ef}e>c {g}e>f{a}g>d | {g}B>{d}G{e}G>{d}B {a}g>e{g}d>B |
-{ag}a2 {ef}e>c {g}e>fa>e | {g}c>{d}A{e}A>{d}c a>f{gef}e>c | a>e{A}e>a g>e{g}f>d | {g}B>{d}G{e}G>{d}B {a}g>e{g}d>B ||
+[|: {gAGAG}a2 {g}a>{d}B {g}B>d {G}d2 | {gef}e2 {A}E>d {g}e>f {e}f2 | {gAGAG}a2 {g}a>{d}B {g}B>d{G}d>e | {g}f>d{g}e>d {gBd}B2 {G}A2 :|]
+{gfg}f2 {g}f>e {g}f>a {g}a2 | {ef}e2 {g}d>e {g}f>d{g}B<{d}A | {gfg}f2 {g}f>e {g}f>a {g}a>e | {g}f>d{g}e>d {gBd}B2 {G}A2 |
+{gfg}f2 {g}f>e {g}f>a {g}a2 | {ef}e2 {g}d>e {g}f>d{g}B<{d}A | {gef}e2 {A}e>d {g}e>f{e}f>a | {g}f>d{g}e>d {gBd}B2 {G}A2 ||
+[|: {g}A<{d}A{g}A<{d}G {g}B<{d}B{g}B<{d}A | {Gdc}d2 {g}d>f {g}e>d{g}e<f | {g}A<{d}A{g}A<{d}G {g}B<{d}B{g}B<{d}A | {g}f>d{g}e>d {gBd}B2 {G}A2 :|]
+{ag}a2 f>a {g}a>f a2 | {ef}e2 {g}d>e {g}f>d{g}B<{d}A | {ag}a2 f>a {g}a>f a2 | f>d{g}e>d {gBd}B2 {G}A2 |
+{ag}a2 f>a {g}a>f a2 | {ef}e2 {g}d>e {g}f>d{g}B<{d}A | {Gdc}d2 {g}d>f {g}e>d{g}e<f | {g}f>d{g}e>d {gBd}B2 {G}A2 |]

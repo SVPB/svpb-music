@@ -11,14 +11,14 @@ M:C
 L:1/8
 Q:"112 bpm"
 K:D
-[|{Gdc}d2 {g}f/e/d {gBd}B>A {g}B<d | {g}A>{d}B | {ag}a>f {g}e>d {g}e<f | {Gdc}d2 {g}f/e/d {gBd}B>A {g}B<d | {ag}a>f {g}e>d {g}e<f {Gdc}d2 |
+[|{Gdc}d2 {g}f/e/d {gBd}B>A {g}B<d | {g}A>{d}B {ag}a>f {g}e>d {g}e<f | {Gdc}d2 {g}f/e/d {gBd}B>A {g}B<d | {ag}a>f {g}e>d {g}e<f {Gdc}d2 |
 {Gdc}d2 {g}f/e/d {gBd}B>A {g}B<d | {g}A>{d}B | {ag}a>f {g}e>d {g}e<f | {Gdc}d2 {g}f/e/d {gBd}B>A {g}B<d | {ag}a>f {g}e>d {g}e<f {Gdc}d2 ||
-{g}f>e {g}f<a {ef}e>d e<f | {ag}a>f {g}e>d {g}e<f {gBd}B2 | {Gdc}d<e {gdc}d>A {g}B<d {g}e>f | {ag}a>f {g}e>d {g}e<f {Gdc}d2 |
-{g}f>e {g}f<a {ef}e>d e<f | {ag}a>f {g}e>d {g}e<f {gBd}B2 | {Gdc}d<e {gdc}d>A {g}B<d {g}e>f | {ag}a>f {g}e>d {g}e<f {Gdc}d2 ||
+{g}f>e {g}f<a {ef}e>d {g}e<f | {ag}a>f {g}e>d {g}e<f {gBd}B2 | {Gdc}d<e {gde}d>A {g}B<d {g}e>f | {ag}a>f {g}e>d {g}e<f {Gdc}d2 |
+{g}f>e {g}f<a {ef}e>d {g}e<f | {ag}a>f {g}e>d {g}e<f {gBd}B2 | {Gdc}d<e {gde}d>A {g}B<d {g}e>f | {ag}a>f {g}e>d {g}e<f {Gdc}d2 ||
 {g}A>B {Gdc}d>A {g}B<{d}A {gfg}f2 | {Gdc}d>f {ag}a>f {g}e>d {g}e<f | {g}A>B {Gdc}d>A {g}B<{d}A {gfg}f2 | {ag}a>f {g}e>d {g}e<f {Gdc}d2 |
 {g}A>B {Gdc}d>A {g}B<{d}A {gfg}f2 | {Gdc}d>f {ag}a>f {g}e>d {g}e<f | {g}A>B {Gdc}d>A {g}B<{d}A {gfg}f2 | {ag}a>f {g}e>d {g}e<f {Gdc}d2 ||
-{ag}a2 f/e/d {ag}a>d {gfg}f2 | {g}e2 {GdG}e>d {g}f/e/d {gBd}B2 | {Gdc}d<e {gdc}d>A {g}B<d {g}e>f | {ag}a>f {g}e>d {g}e<f {Gdc}d2 |
-{ag}a2 f/e/d {ag}a>d {gfg}f2 | {g}e2 {GdG}e>d {g}f/e/d {gBd}B2 | {Gdc}d<e {gdc}d>A {g}B<d {g}e>f | {ag}a>f {g}e>d {g}e<f {Gdc}d2 |]
+{ag}a2 f/e/d {ag}a>d {gfg}f2 | {g}e2 {GdG}e>d {g}f/e/d {gBd}B2 | {Gdc}d<e {gde}d>A {g}B<d {g}e>f | {ag}a>f {g}e>d {g}e<f {Gdc}d2 |
+{ag}a2 f/e/d {ag}a>d {gfg}f2 | {g}e2 {GdG}e>d {g}f/e/d {gBd}B2 | {Gdc}d<e {gde}d>A {g}B<d {g}e>f | {ag}a>f {g}e>d {g}e<f {Gdc}d2 |]
 
 X:3
 T:The Sound of Sleat 
@@ -28,7 +28,7 @@ M:C|
 L:1/8
 Q:"74 bpm"
 K:D
-[|: {gAGAG}A2 {g}A>{d}B {g}B>d {G}d2 | {gef}e2 {A}E>d {g}e>f {e}f2 | {gAGAG}a2 {g}a>{d}B {g}B>d{G}d>e | {g}f>d{g}e>d {gBd}B2 {G}A2 :|]
+[|: {gAGAG}A2 {g}A>{d}B {g}B>d {G}d2 | {gef}e2 {A}e>d {g}e>f {e}f2 | {gAGAG}A2 {g}A>{d}B {g}B>d{G}d>e | {g}f>d{g}e>d {gBd}B2 {G}A2 :|]
 {gfg}f2 {g}f>e {g}f>a {g}a2 | {ef}e2 {g}d>e {g}f>d{g}B<{d}A | {gfg}f2 {g}f>e {g}f>a {g}a>e | {g}f>d{g}e>d {gBd}B2 {G}A2 |
 {gfg}f2 {g}f>e {g}f>a {g}a2 | {ef}e2 {g}d>e {g}f>d{g}B<{d}A | {gef}e2 {A}e>d {g}e>f{e}f>a | f>d{g}e>d {gBd}B2 {G}A2 ||
 [|: {g}A<{d}A{g}A<{d}G {g}B<{d}B{g}B<{d}A | {Gdc}d2 {g}d>f {g}e>d{g}e<f | {g}A<{d}A{g}A<{d}G {g}B<{d}B{g}B<{d}A | {g}f>d{g}e>d {gBd}B2 {G}A2 :|]

@@ -13,25 +13,9 @@ K:D
 ["2nd time 2nd" {g}A2{gdedG}d2 {g}fe{g}dA | {gBeBG}B2gB {G}BG{g}dB | {g}Acd{gef}(e e)d{g}cB | {g}Ae{g}ec {Gdc}d2 :|]]
 [|: {g}fg | {ag}a2Aa dafA | {gBeBG}B2g{a}(B B)g{a}dB | {gcd}c2{g}B{d}A {g}ecA{g}(c | c)A{g}dA {g}eA{g}ce |
 ["1st" {ag}a2Aa dafA | {gBeBG}B2g{a}(B B)g{a}dB | {g}Acd{gef}(e e)d{g}cB | {g}Ae{g}ec {Gdc}d2 :|]]
-["2nd" {g}A2{gdedG}d2 {g}fe{g}dA | {gBeBG}B2gB {G}BG{g}dB [M:3/4] | {g}Acd{gef}(e e)d{g}cB {g}Ae{g}ec [M:6/8] "Jig Time"|  {Gdc}d12 |]]
+["2nd" {g}A2{gdedG}d2 {g}fe{g}dA | {gBeBG}B2gB {G}BG{g}dB [M:6/8] "Jig Time" | {g}A2c2d2 {g}e2d2c2 | {gc2}d6 {g}c2d2e2 |]]
 
 X:2
-T:Graeme of Old Birkwood
-C:Ryan Canning
-L:1/8
-R:Jig
-M:6/8
-K:D
-[| {g}A2 {d}A {g}ABd | {g}de{A}e {gef}e2 d | {gef}edB {gf}g2 a | e{g}e{A}e {g}deg |
-{AGAG}A2 {d}A {g}ABd | {g}de{A}e {gef}e2 d | {gef}edB {gf}g2 G | {g}B{d}A{e}A {gAGAG}A2 e |
-{AGAG}A2 {d}A {g}ABd | {g}de{A}e {gef}edB | {gef}edB {gf}g2 a |  e{g}e{A}e {g}deg |
-{AGAG}A2 {d}A {g}ABd | {g}de{A}e {gef}e2 d | {gef}edB {gf}g2 G | {g}B{d}A{e}A {gAGAG}A2 f||
-{a}ge{A}e {g}efg | age {geA}e2 f | {g}d{e}d{A}d {g}Bdg | {a}edB {gBd}B2 f |
-{a}ge{A}e {g}efg | age {g}efg |{a}edB {gf}g2 G | {g}B{d}A{e}A {gAGAG}A2 f|
-{a}ge{A}e {g}efg | age {geA}e2 f | {g}d{e}d{A}d {g}Bdg | {a}edB {gef}edB |
-{g}A{d}A{e}A {g}ABd | {g}de{A}e {gef}e2 d | {gef}edB {gf}g2 G | {g}B{d}A{e}A {gAGAG}A3 |]
-
-X:3
 T:The Soup Dragon
 C:Gordon Duncan
 L:1/8
@@ -42,7 +26,21 @@ K:D
 {g}fB{G}B {g}BAB | {g}ef{e}f {g}fed | e{g}e{A}e {g}f2 e | ["1." {g}dB{d}A {gBG}B3 :|] ["2." {g}dB{d}A {gBG}B2 e||
 [|: {g}fa{g}a {g}afd | {g}ef{e}f {g}fed | e{g}e{A}e {gef}e2 d | {g}ef{e}f {g}ede |
 ["1." {g}fa{g}a {g}afd | {g}ef{e}f {g}fed | e{g}e{A}e {g}f2 e | {g}dB{d}A {gBG}B2 e :|]
-["2." {g}fB{G}B {g}BAB | {g}ef{e}f {g}fed [M:9/8] | e{g}e{A}e {g}f2 e {g}dB{d}A [M:3/4] "Slow Air Tempo" | {GdG}B4 {g}A>{d}A |]
+{g}fB{G}B {g}BAB | {g}ef{e}f {g}fed | e{g}e{A}e {g}f2 e | {g}dB{d}A {gBG}B3 |]
+
+X:3
+T:Skyeman's Jig
+C:Duncan Johnstone
+L:1/8
+R:Jig
+M:6/8
+K:D
+[|: {g}A{d}A{e}A {gef}e2 d | {g}efg {ef}e2 d | {gBd}B2 {e}G {g}G{d}G{e}G | {g}dB{d}G {gBd}B2 e |
+{g}A{d}A{e}A {gef}e2 d | {g}efg {ef}e2 d | {gef}e2 d {gf}g2 G | {g}B{d}A{e}A {GAG}A2 e :|]
+[| a2{GdG}a {f}g2 e | {g}edg {ef}e2 d | {gBd}B2 {e}G {g}G{d}G{e}G | {g}dB{d}G {gBd}B2 e |
+ a2{GdG}a {f}g2 e | {g}edg {ef}e2 d | {gef}e2 d {gf}g2 G | {g}B{d}A{e}A {g}Ade |
+ a2{GdG}a {f}g2 e | {g}edg {ef}e2 d | {gBd}B2 {e}G {g}G{d}G{e}G | {g}dB{d}G {gBd}B2 e |
+ {g}A{d}A{e}A {gef}e2 d | {g}efg {ef}e2 d [M:9/8] | {g}ed{G}d gB{d}G {g}B{d}A{e}A [M:3/4] "Slow Air Tempo" | {GAG}A4 {g}A>{d}A |]
 
 X:4
 T:Miss Dorothy Miller

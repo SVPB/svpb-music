@@ -3,6 +3,33 @@ I:abc-include style.abh
 %%footer "Page $P	SVPB G3 Medley 2021	Generated: $D"
 %%landscape 1
 %%scale 0.65
+X:1
+T:Scrappy's Challenge
+T:Seconds
+R:Hornpipe
+C:Colin Elder
+M:2/4
+L:1/16
+K:D
+[|: "2nd time only" f2 | {g}A2{gdedG}d2 {g}fe{g}dA | {gBeBG}B2gB {G}BG{g}dB | {gAGAG}A2{d}ce {g}eA{d}ce | {g}dAe{g}(f f)e{g}dB |
+{g}A2{gdedG}d2 {g}fe{g}dA | {gBeBG}B2gB {G}BG{g}dB | {g}Acd{gef}(e e)d{g}cB | {g}Ae{g}ec {Gdc}d2 :|]
+[|: {g}fg | {ag}a2Aa dafA | {gBeBG}B2g{a}(B B)g{a}dB | {gcd}c2{g}B{d}A {g}ecA{g}(c | c)A{g}dA {g}eA{g}ce |
+["1st" {ag}a2Aa dafA | {gBeBG}B2g{a}(B B)g{a}dB | {g}Acd{gef}(e e)d{g}cB | {g}Ae{g}ec {Gdc}d2 :|]
+["2nd" {g}A2{gdedG}d2 {g}fe{g}dA | {gBeBG}B2gB {G}BG{g}dB [M:6/8] "Jig Time" | {g}A2c2d2 {g}e6| {g}A2{d}A2{e}A2 {gef}e6 d2 | {g}e2f2g2 {ef}e6 |{g}e2d2{G}d2 g2B2{d}G2 | {gBd}B6 {g}c2d2e2 |]
+
+X:2
+T:Skyeman's Jig
+C:Duncan Johnstone
+L:1/8
+R:Jig
+M:6/8
+K:D
+[|: {g}A{d}A{e}A {gef}e2 d | {g}efg {ef}e2 d | {gBd}B2 {e}G {g}G{d}G{e}G | {g}dB{d}G {gBd}B2 e |
+{g}A{d}A{e}A {gef}e2 d | {g}efg {ef}e2 d | {gef}e2 d {gf}g2 G | {g}B{d}A{e}A {GAG}A2 e :|]
+[| a2{GdG}a {f}g2 e | {g}edg {ef}e2 d | {gBd}B2 {e}G {g}G{d}G{e}G | {g}dB{d}G {gBd}B2 e |
+ a2{GdG}a {f}g2 e | {g}edg {ef}e2 d | {gef}e2 d {gf}g2 G | {g}B{d}A{e}A {g}Ade |
+ {g}d3 (e3 | (e3) e3) | {gf}(g3 (g3) | (g3) g3) |
+ (e3 (e3) | (e3) e3)  [M:9/8] | {gf}(g3 g3) {a}ga{g}a [M:4/4] "Slow Air Tempo" | {g}a6 {g}A>{d}A |]
 
 X:3
 T:Miss Dorothy Miller
@@ -48,6 +75,34 @@ K:D
 {g}f8 | {gf}g4 e4 | "Harmonies bringing it back"(f8 | f8) | 
 {ag}a8 | {g}e(a a)f {g}ed{g}Bd | {ag}a8 | {g}a2 g2 f2 z2|]
 
+X:1
+T:Scrappy's Challenge
+T:Thirds
+R:Hornpipe
+C:Colin Elder
+M:2/4
+L:1/16
+K:D
+[|: "2nd time only" f2 | {g}A2{gdedG}d2 {g}fe{g}dA | {gBeBG}B2gB {G}BG{g}dB | {gAGAG}A2{d}ce {g}eA{d}ce | {g}dAe{g}(f f)e{g}dB |
+{g}A2{gdedG}d2 {g}fe{g}dA | {gBeBG}B2gB {G}BG{g}dB | {g}Acd{gef}(e e)d{g}cB | {g}Ae{g}ec {Gdc}d2 :|]
+[|: {g}fg | {ag}a2Aa dafA | {gBeBG}B2g{a}(B B)g{a}dB | {gcd}c2{g}B{d}A {g}ecA{g}(c | c)A{g}dA {g}eA{g}ce |
+["1st" {ag}a2Aa dafA | {gBeBG}B2g{a}(B B)g{a}dB | {g}Acd{gef}(e e)d{g}cB | {g}Ae{g}ec {Gdc}d2 :|]
+["2nd" {g}A2{gdedG}d2 {g}fe{g}dA | {gBeBG}B2gB {G}BG{g}dB [M:6/8] "Jig Time" | {g}A2c2d2 {g}(e6| e6) {g}(A6 | (A6) (A6) | A6) (G6 | (G6) G6) |]
+
+X:2
+T:Skyeman's Jig
+C:Duncan Johnstone
+L:1/8
+R:Jig
+M:6/8
+K:D
+[|: {g}A{d}A{e}A {gef}e2 d | {g}efg {ef}e2 d | {gBd}B2 {e}G {g}G{d}G{e}G | {g}dB{d}G {gBd}B2 e |
+{g}A{d}A{e}A {gef}e2 d | {g}efg {ef}e2 d | {gef}e2 d {gf}g2 G | {g}B{d}A{e}A {GAG}A2 e :|]
+[| a2{GdG}a {f}g2 e | {g}edg {ef}e2 d | {gBd}B2 {e}G {g}G{d}G{e}G | {g}dB{d}G {gBd}B2 e |
+ a2{GdG}a {f}g2 e | {g}edg {ef}e2 d | {gef}e2 d {gf}g2 G | {g}B{d}A{e}A {g}Ade |
+ {g}d3 {g}(e3 | (e3) e3) | {g}(B3 (B3) | (B3) B3) |
+ {g}A{d}A{e}A {g}(A3 | (A3) A3)  [M:9/8] | {g}(G3 G3) {g}de{A}e [M:4/4] "Slow Air Tempo" | {g}e6 {g}A>{d}A |]
+
 X:3
 T:Miss Dorothy Miller
 T:Thirds
@@ -91,3 +146,17 @@ K:D
 "    Welcome back to the opener"{g}d8| {g}B8 | {e}(A8 | A2) B2 c2 A2 |
 {g}d8 | {g}B4 c4 | "Harmonies bringing it back" {g}dA {gAGAG}A2 {g}AB{g}de | {g}faga fA{g}Bd |
 {gef}e2 {A}ef {g}ed{g}Bd | {g}e(a a)f {g}eA{g}Bd | {g}A8 | {g}d2 B2 {g}A2 z2|]
+
+X:1
+T:Scrappy's Challenge
+T:Thirds
+R:Hornpipe
+C:Colin Elder
+M:2/4
+L:1/16
+K:D
+[|: "2nd time only" f2 | {g}A2{gdedG}d2 {g}fe{g}dA | {gBeBG}B2gB {G}BG{g}dB | {gAGAG}A2{d}ce {g}eA{d}ce | {g}dAe{g}(f f)e{g}dB |
+{g}A2{gdedG}d2 {g}fe{g}dA | {gBeBG}B2gB {G}BG{g}dB | {g}Acd{gef}(e e)d{g}cB | {g}Ae{g}ec {Gdc}d2 :|]
+[|: {g}fg | {ag}a2Aa dafA | {gBeBG}B2g{a}(B B)g{a}dB | {gcd}c2{g}B{d}A {g}ecA{g}(c | c)A{g}dA {g}eA{g}ce |
+["1st" {ag}a2Aa dafA | {gBeBG}B2g{a}(B B)g{a}dB | {g}Acd{gef}(e e)d{g}cB | {g}Ae{g}ec {Gdc}d2 :|]
+["2nd" {g}A2{gdedG}d2 {g}fe{g}dA | {gBeBG}B2gB {G}BG{g}dB [M:6/8] "Jig Time" | {g}A2c2d2 {g}e6| {g}A2{d}A2{e}A2 {gef}e6 d2 | {g}e2f2g2 {ef}e6 |{g}e2d2{G}d2 {g}(d6 | (d6) d6) |]

@@ -10,10 +10,10 @@ M:2/4
 L:1/16
 K:D
 [|: "2nd time only" f2 | {g}A2{gdedG}d2 {g}fe{g}dA | {gBeBG}B2gB {G}BG{g}dB | {gAGAG}A2{d}ce {g}eA{d}ce | {g}dAe{g}(f f)e{g}dB |
-["2nd time 2nd" {g}A2{gdedG}d2 {g}fe{g}dA | {gBeBG}B2gB {G}BG{g}dB | {g}Acd{gef}(e e)d{g}cB | {g}Ae{g}ec {Gdc}d2 :|]]
+{g}A2{gdedG}d2 {g}fe{g}dA | {gBeBG}B2gB {G}BG{g}dB | {g}Acd{gef}(e e)d{g}cB | {g}Ae{g}ec {Gdc}d2 :|]
 [|: {g}fg | {ag}a2Aa dafA | {gBeBG}B2g{a}(B B)g{a}dB | {gcd}c2{g}B{d}A {g}ecA{g}(c | c)A{g}dA {g}eA{g}ce |
-["1st" {ag}a2Aa dafA | {gBeBG}B2g{a}(B B)g{a}dB | {g}Acd{gef}(e e)d{g}cB | {g}Ae{g}ec {Gdc}d2 :|]]
-["2nd" {g}A2{gdedG}d2 {g}fe{g}dA | {gBeBG}B2gB {G}BG{g}dB [M:6/8] "Jig Time" | {g}A2c2d2 {g}e2d2c2 | {gc2}d6 {g}c2d2e2 |]]
+["1st" {ag}a2Aa dafA | {gBeBG}B2g{a}(B B)g{a}dB | {g}Acd{gef}(e e)d{g}cB | {g}Ae{g}ec {Gdc}d2 :|]
+["2nd" {g}A2{gdedG}d2 {g}fe{g}dA | {gBeBG}B2gB {G}BG{g}dB [M:6/8] "Jig Time" | {g}A2c2d2 {g}(e6| (e6) (e6)| (e6) e6) |{g}e2d2{G}d2 g2B2{d}G2 | {gBd}B6 {g}c2d2e2 |]
 
 X:2
 T:The Soup Dragon
@@ -40,7 +40,7 @@ K:D
 [| a2{GdG}a {f}g2 e | {g}edg {ef}e2 d | {gBd}B2 {e}G {g}G{d}G{e}G | {g}dB{d}G {gBd}B2 e |
  a2{GdG}a {f}g2 e | {g}edg {ef}e2 d | {gef}e2 d {gf}g2 G | {g}B{d}A{e}A {g}Ade |
  a2{GdG}a {f}g2 e | {g}edg {ef}e2 d | {gBd}B2 {e}G {g}G{d}G{e}G | {g}dB{d}G {gBd}B2 e |
- {g}A{d}A{e}A {gef}e2 d | {g}efg {ef}e2 d [M:9/8] | {g}ed{G}d gB{d}G {g}B{d}A{e}A [M:3/4] "Slow Air Tempo" | {GAG}A4 {g}A>{d}A |]
+ {g}A{d}A{e}A {gef}e2 d | {g}efg {ef}e2 d [M:9/8] | {g}ed{G}d gB{d}G {g}B{d}A{e}A [M:4/4] "Slow Air Tempo" | {GAG}A6 {g}A>{d}A |]
 
 X:4
 T:Miss Dorothy Miller

@@ -35,35 +35,33 @@ K:D
 {AGAG}A2 e {g}edB | {g}de{A}e {g}edB | {g}GdB {g}de{A}e | {g}edB {G}A3 |]
 
 X:3
-T:Jimmy Ward's Jig
+T:Silly Witches 
 R:Jig
-Z:Transcribed 27 November, 2017 by Stephen Beitzel
-C:Trad. arr Adam Blaine
+C:W Duncan
 M:6/8
 L:1/8
 Q:"112 bpm"
 K:D
-[| {Gdc}d3 {g}def | {g}edB {g}dB{G}A | d{g}d{G}d {g}edB | {g}dBA {g}ABc | 
-{Gdc}d3 {g}def | {g}edB {g}def | {gf}g2 e {g}fdB | {g}A{d}A{e}A {g}ABc | 
-{Gdc}(d3 d)ef | {g}edB {g}dB{G}A | d{g}d{G}d {g}edB | {g}dBA {g}ABc | 
-{Gdc}d3 {g}def | {g}edB {g}def | {gf}g2 e {g}fdB | {g}A{d}A{e}A {g}ABc ||
-[|:{gf}g2 e {g}fed | {g}efe {g}edB | {gf}g2 e {g}fdB | {g}A{d}A{e}A {g}ABc |
-{gf}g2 e {g}fed | {g}efe {g}efg | age {g}edB |[1 {g}A{d}A{e}A {g}ABc :|][2 {g}A{d}A{e}A {GAG}A3-|  A3- A3]
-
+[| {g}A{d}A{e}A {g}Ace | {g}fec {g}ecB | {g}A{d}A{e}A {g}Ace | {g}fec {g}efa | 
+{g}A{d}A{e}A {g}Ace | {g}fec {g}ecB | {g}fec {g}ecB | {g}A{d}A{e}A {GAG}A2 e |
+{g}A{d}A{e}A {g}Ace | {g}fec {g}ecB | {g}A{d}A{e}A {g}Ace | {g}fec {g}efa | 
+{g}A{d}A{e}A {g}Ace | {g}fec {g}ecB | {g}fec {g}ecB | {g}A{d}A{e}A {GAG}A2 e |
+{ag}a2 e {g}fec | {g}A{d}A{e}A {g}Ace | {ag}a2 e {g}fec | {g}B{d}B{e}B {g}Bce |
+{ag}a2 e {g}fec | {g}A{d}A{e}A {g}Ace | {g}fec {g}ecB | {g}A{d}A{e}A {GAG}A2 e |
+{ag}a2 e {g}fec | {g}A{d}A{e}A {g}Ace | {ag}a2 e {g}fec | {g}B{d}B{e}B {g}Bce |
+{ag}a2 e {g}fec | {g}A{d}A{e}A {g}Ace | {g}fec {g}ecB [M: 3/8] | {g}A{d}A{e}A [M:2/4] |"Slow air tempo" {GAG}A4 |]
 
 X:4
-T:Requiem For The Stewart Tartan
-R:Death March
-C:Adam Blaine
-M:3/4
+T:The Maids of Jura
+R:Slow March
+C:John Maclellan, Dunoon
+M:4/4
 L:1/8
 K:D
-[| {g}B4 c2 | {Gdc}d4 {g}ed | {ge}f4 {gf}g2 | {a}e4 {g}f>e | 
-{Gdc}d4 e2 | {g}f4 {g}e<d | {gcd}c<{e}(B B4) | {gBG}B4 {g}de ||
-"A new day dawns"{g}f4 {g}df | {gf}g4 {ag}a2 | {e}(f2 f>>)gf// e2 | {A}e4 {g}d>e |
-{g}f4 {gf}g2 | {a}e4 d2 | {gcd}c6 | {GdG}c4 {g}de |
-{g}f4 {ag}a2 | {e}f4 {g}e<d | {gef}e4 A2 |[M: 4/4] {gB}c6 d2 |
-[M: 3/4]"   All together now"{g}B4 d2 | {ge}f4 {g}e<d | {gcd}c<{e}(B HB4) |]
+[| {g}A4 {g}A2d2 | {g}Bd3 {g}A4 | {g}f3 g {ag}a3 d | {g}d2 f2 {gef}e4 | 
+{g}A3 B {Gdc}d3 c | {g}Bd3 {gef}e4 | {gfg}f3 e f{g}A3 | {gBd}B4 {G}A2 {g}de || 
+{gfg}f3 e{A} e3 f |(3{g}e2d2{e}B2 {Gdc}d4 |{ag}a3 f {gef}e3 d | {g}e f2 A {g}B4 | 
+{g}A3 B {Gdc}d3 c | {g}B2 d2 {gef}e4 | {gfg}f3 e f {g}A3 | "Spey tempo"{gBd}B4 {g}A4 | {gAGAG}A8 |]
 
 X:5
 T:Molly Connell
@@ -96,7 +94,7 @@ K:D
 {g}A3 {d}c {g}eA{d}ca | c{g}c{G}cB {g}c2 e2 | {g}f3 e {g}fe{g}fg | af{g}ec {g}Bd{g}cB |]
 
 X:7
-T:Hamilton's Nutsack
+T:Hamilton's
 R:Reel
 L:1/8
 C:Terry Tully
@@ -111,7 +109,7 @@ ae{A}ea Bc{g}c{G}c | ae{A}ef {ag}a4 | {g}ce{A}ec {g}A2 {g}ec | {g}Ae{g}c{d}A {g}
 cd{g}dc {g}B{G}B{g}fe | {g}ef{g}dB {G}(A4 | A4) z4 |]
  
 X:8
-T:Hamilton's Nutsack
+T:Hamilton's
 T:Seconds
 R:Reel
 L:1/8
@@ -125,4 +123,16 @@ K:D
 ae{A}ea Bc{g}c{G}c | ae{A}ea Bc{g}ec | af{e}fa cd{g}d{G}d | {g}fa{g}af {g}ef{g}dB |
 ae{A}ea Bc{g}c{G}c | ae{A}ef {ag}(a4 | (a8) | a8) |
 cd{g}dc {g}B{G}B{g}fe | {g}ef{g}dB {G}(A4 | A4) z4 |]
+X:8
+T:Hamilton's
+T:Seconds
+R:Reel
+L:1/8
+C:Terry Tully
+M:C|
+L:1/8
+Q:"76 bpm"
+K:D
+[| {g}A>B {Gdc}d3 | {g}d>A {Gdc}d3 |]
+
  

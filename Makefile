@@ -35,7 +35,7 @@ JOIN = gs -dBATCH -dNOPAUSE -q -sDEVICE=pdfwrite -sOutputFile=
 G3MEDLEY = 2021_g3_medley_p1.abc 2021_g3_medley_harmonies.abc
 G3MSR = 2021_g3_msr.abc
 G3OLDMSR = 2020_g3_msr.abc
-G368 = john_barclay.abc 2021_g3_68s.abc
+G368 = 2021_g3_68s.abc john_barclay.abc 
 G3MISC = grans.abc banks_of_the_lossie.abc
 G3HORNPIPES = 2021_g3_hornpipes.abc
 G3JIG = 2021_g3_jig.abc

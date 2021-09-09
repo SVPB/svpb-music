@@ -3,24 +3,7 @@ I:abc-include style.abh
 %%footer "Page $P	SVPB G3 6/8s 2021	Generated: $D"
 %%scale 0.65
 %%landscape 0
-X:2
-T:Benguillion
-R:March
-L:1/8
-C:Ron Fleming
-M:6/8
-K:D
-[|: e | {g}A>e{A}e {gef}e2 d | {g}e<gf {gef}e2 d | {gBd}B>{g}A{d}G {gGd}G2 d | {g}B<{d}A{d}B {Gdc}d2 e |
-["2 of 2" {g}A>e{A}e {gef}e2 d | {g}e<gf {gef}e2 d | {gBd}B>{g}A{d}G {g}B<de | {g}A3 {GAG}A2 ] :|]
-[|: {d}B | {g}A>a{g}a {g}a2 g | {a}e<ag {ef}e2 d | {gBd}B>{g}A{d}G {gGd}G2 d | {g}B<{d}A{d}B {Gdc}d2 e |
-["1"  {g}A>a{g}a {g}a2 g | {a}e<ag {ef}e2 d | {gBd}B>{g}A{d}G {g}B<de | {g}A3 {GAG}A2 ] :|]
-[|: e | {g}A>e{g}A {g}B>e{A}e | {g}e<gf {g}e>g{a}e | {gde}d>B{d}G {gGd}G2 d | {g}B<{d}A{d}B {Gdc}d2 e |
-{g}A>e{g}A {g}B>e{A}e | {g}e<gf {gef}e2 d | {gBd}B>{g}A{d}G {g}B<de | {g}A3 {GAG}A2 :|]
-[|: {d}B | {g}A>a{g}a e<a{g}a | g>ed {gef}e2 {gf}g | {Bd}B>{g}A{d}G {gGd}G2 d | {g}B<{d}A{d}B {Gdc}d2 e |
-["1" {g}A>a{g}a e<ae | {gf}g>ag {ef}e2 d |  {gBd}B>{g}A{d}G {g}B<de | {g}A3 {GAG}A2 ] :|]
-["2"  {g}A>e{g}A {g}B>e{A}e | {g}e<gf {g}e>d{G}d | {gBd}B>{g}A{d}G {g}B<de | {g}A3 {GAG}A2 ] :|]
-
-X:3
+X:1
 T:The March of the Royal British Legion
 R:March
 L:1/8
@@ -37,7 +20,7 @@ K:D
  ["1"  {ag}a2 f a2 {GdG}a | f>ga {fg}f>ed | {gBd}B2 e {a}g>f{g}e | {gfg}f2 d {gdG}d2 ] :|] 
  ["2" {Gdc}d2 f {g}A>df | a2 {GdG}a {fg}f>ed | {gBd}B2 e {a}g>f{g}e | {gfg}f2 d {gdG}d2 ] :|] 
 
-X:6
+X:2
 T:The March of the Royal British Legion
 T:Seconds
 R:March
@@ -56,7 +39,7 @@ f3 {ag}a3 | d2 g {a}f3  | {gf}g3 d2 g | {ag}a2 g {ae}f3 :|]
 ["1"  d3 {g}f3 | f>ga {fg}f>ed | {g}e3 {g}d2 g | {ag}a2 g {ae}f3  ] :|] 
 ["2" {Gdc}d2 f {g}A>df | a2 {GdG}(f f3) | {g}e3 {g}d2 g | {ag}a2 g {ae}f3  ] :|] 
 
-X:7
+X:3
 T:The March of the Royal British Legion
 T:Thirds
 R:March
@@ -74,4 +57,20 @@ K:D
 ["1"  e2 {g}(d d3) | {g}d>cd {e}A3 | {g}e3 {g}B3 | {g}d3 {G}A3  ] :|] 
 ["2" {Gdc}d2 f {g}A>df | a2 {c}(d d3)  | {g}e3 {g}B3 | {g}d3 {G}A3  ] :|] 
 
+X:4
+T:Benguillion
+R:March
+L:1/8
+C:Ron Fleming
+M:6/8
+K:D
+[|: e | {g}A>e{A}e {gef}e2 d | {g}e<gf {gef}e2 d | {gBd}B>{g}A{d}G {gGd}G2 d | {g}B<{d}A{d}B {Gdc}d2 e |
+["2 of 2" {g}A>e{A}e {gef}e2 d | {g}e<gf {gef}e2 d | {gBd}B>{g}A{d}G {g}B<de | {g}A3 {GAG}A2 ] :|]
+[|: {d}B | {g}A>a{g}a {g}a2 g | {a}e<ag {ef}e2 d | {gBd}B>{g}A{d}G {gGd}G2 d | {g}B<{d}A{d}B {Gdc}d2 e |
+["1"  {g}A>a{g}a {g}a2 g | {a}e<ag {ef}e2 d | {gBd}B>{g}A{d}G {g}B<de | {g}A3 {GAG}A2 ] :|]
+[|: e | {g}A>e{g}A {g}B>e{A}e | {g}e<gf {g}e>g{a}e | {gde}d>B{d}G {gGd}G2 d | {g}B<{d}A{d}B {Gdc}d2 e |
+{g}A>e{g}A {g}B>e{A}e | {g}e<gf {gef}e2 d | {gBd}B>{g}A{d}G {g}B<de | {g}A3 {GAG}A2 :|]
+[|: {d}B | {g}A>a{g}a e<a{g}a | g>ed {gef}e2 {gf}g | {Bd}B>{g}A{d}G {gGd}G2 d | {g}B<{d}A{d}B {Gdc}d2 e |
+["1" {g}A>a{g}a e<ae | {gf}g>ag {ef}e2 d |  {gBd}B>{g}A{d}G {g}B<de | {g}A3 {GAG}A2 ] :|]
+["2"  {g}A>e{g}A {g}B>e{A}e | {g}e<gf {g}e>d{G}d | {gBd}B>{g}A{d}G {g}B<de | {g}A3 {GAG}A2 ] :|]
 

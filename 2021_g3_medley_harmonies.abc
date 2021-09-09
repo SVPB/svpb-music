@@ -15,7 +15,7 @@ K:D
 {g}A2{gdedG}d2 {g}fe{g}dA | {gBeBG}B2gB {G}BG{g}dB | {g}Acd{gef}(e e)d{g}cB | {g}Ae{g}ec {Gdc}d2 :|]
 [|: {g}fg | {ag}a2Aa dafA | {gBeBG}B2g{a}(B B)g{a}dB | {gcd}c2{g}B{d}A {g}ecA{g}(c | c)A{g}dA {g}eA{g}ce |
 ["1st" {ag}a2Aa dafA | {gBeBG}B2g{a}(B B)g{a}dB | {g}Acd{gef}(e e)d{g}cB | {g}Ae{g}ec {Gdc}d2 :|]
-["2nd" {g}A2{gdedG}d2 {g}fe{g}dA | {gBeBG}B2gB {G}BG{g}dB [M:6/8] "Jig Time" | {g}A2c2d2 {g}e6| {g}A2{d}A2{e}A2 {gef}e6 d2 | {g}e2f2g2 {ef}e6 |{g}e2d2{G}d2 g2B2{d}G2 | {gBd}B6 {g}c2d2e2 |]
+["2nd" {g}A2{gdedG}d2 {g}fe{g}dA | {gBeBG}B2gB {G}BG{g}dB [M:6/8] "Jig Time" | {g}A2c2d2 {g}(e6| (e12) | e12) |{g}e2d2{G}d2 {g}(d6 | (d6) d6) |]
 
 X:2
 T:Skyeman's Jig
@@ -29,7 +29,7 @@ K:D
 [| a2{GdG}a {f}g2 e | {g}edg {ef}e2 d | {gBd}B2 {e}G {g}G{d}G{e}G | {g}dB{d}G {gBd}B2 e |
  a2{GdG}a {f}g2 e | {g}edg {ef}e2 d | {gef}e2 d {gf}g2 G | {g}B{d}A{e}A {g}Ade |
  {g}d3 (e3 | (e3) e3) | {gf}(g3 (g3) | (g3) g3) |
- (e3 (e3) | (e3) e3)  [M:9/8] | {gf}(g3 g3) {a}ga{g}a [M:4/4] "Slow Air Tempo" | {g}a6 {g}A>{d}A |]
+ (e3 (e3) | (e3) e3)  [M:9/8] | {gf}(g3 g3) {a}ga{g}a [M:3/4] "Slow Air Tempo" | {g}a4 {g}A/B/{g}d/e/ |]
 
 X:3
 T:Miss Dorothy Miller
@@ -39,7 +39,7 @@ R:Slow Air
 M:4/4
 L:1/8
 K:D
-[|{ge}(f4 f)A/{d}A/ {ge}f>e | {g}e/d/{g}(B B){GdG}(B B){gc}d {g}d>B | {gde}d/B/{G}(A A){g}(A A){GAG}A {g}A/B/{g}d/B/ | {gef}e2 (A2 A){g}A {gAGAG}A>B |
+[|{g}(f4 f)A/{d}A/ {ge}f>e | {g}e/d/{g}(B B){GdG}(B B){gc}d {g}d>B | {gde}d/B/{G}(A A){g}(A A){GAG}A {g}A/B/{g}d/B/ | {gef}e2 (A2 A){g}A {gAGAG}A>B |
 {gc}d2 {g}(d2 d)A/{d}A/ {gc}d>a | {g}a/f/{a}(g g) {f}(g (g)g) {a}g/a/{g}a/g/ | a/g/{a}(f f){g}(f f){e}f {g}e/f/{a}g/a/| {ge}(f2 (f2) f)A/{d}A/ {g}c>A ||
 {gc}d2 {g}(d2 d)A/{d}A/ {gc}d>c | {g}d/A/{G}A {g}(A2 A){g}A/{d}A/ {g}c>B | {gc}(d2 (d2) d)A/{d}A/ {g}cd{g}d/{G}d/ | {g}A2 {g}(e2 e)A {gAGAG}A>B |
 {gc}d2 {g}(d2 d)A/{d}A/ {gc}d>a | {g}a/f/{a}(g g) {f}(g (g)g) {a}g/a/{g}a/g/ [M:3/4] |  a/g/{a}(f f){g}(f f)a [M:5/4] "Strathspey Tempo"| {g}a2 (g2 (g2) (g2) g2) |]
@@ -53,10 +53,10 @@ C:Trad., arr. by Adam Blaine
 M:C
 L:1/8
 K:D
-[| {a}f8| {g}e8 | {Gdc}d2 {g}f<a {AGAG}A>a f/e/d | {gcd}c<{e}A g/f/e {Gdc}d2 {gdG}d>A |
-{Gdc}d2 {g}f<a {AGAG}A>a f/e/d | {gcd}c2 {e}A>{d}c {g}e>f g/f/e | {Gdc}d2 {g}f<a {AGAG}A>a f/e/d | {gcd}c<{e}A g/f/e {Gdc}d2 {gdG}d>A ||
-{Gdc}d>e {g}f>d {g}f<a {fg}f>d | {gf}g>A {gef}e>d {g}c<e {g}A/B/c | {Gdc}d>e {g}f>d {g}f<a {fg}f>d | {gcd}c<{e}A g/f/e {Gdc}d2 {gdG}d>A |
-{Gdc}d>e {g}f>d {g}f<a {fg}f>d | {gf}g>A {gef}e>d {g}c<e {A}e/f/g | a/g/f g/f/e {g}f/e/d {g}e/f/g [M:2/4] | {cd}c<{e}A g/f/(He "Reel Tempo"| e2) |]
+[| {a}f8| {g}e8 | {Gdc}d2 {g}f<a {AGAG}A>a f/e/d | {gcd}c<{e}A {a}g/f/e {Gdc}d2 {gdG}d>A |
+{Gdc}d2 {g}f<a {AGAG}A>a f/e/d | {gcd}c2 {e}A>{d}c {g}e>f {a}g/f/e | {Gdc}d2 {g}f<a {AGAG}A>a f/e/d | {gcd}c<{e}A {a}g/f/e {Gdc}d2 {gdG}d>A |
+{Gdc}d>e {g}f>d {g}f<a {fg}f>d | {gf}g>A {gef}e>d {g}c<e {g}A/B/c | {Gdc}d>e {g}f>d {g}f<a {fg}f>d | {gcd}c<{e}A {a}g/f/e {Gdc}d2 {gdG}d>A |
+{Gdc}d>e {g}f>d {g}f<a {fg}f>d | {gf}g>A {gef}e>d {g}c<e {A}e/f/g | a/g/f {a}g/f/e {g}f/e/d {g}e/f/g [M:2/4] | {cd}c<{e}A {a}g/f/e [M:C|] | "Reel Tempo" {Gdc}d4 {g}B2c2 |]
 
 X:5
 T:MacArthur Road
@@ -72,8 +72,7 @@ K:D
 {g}dA {gAGAG}A2 {g}dAeA | {g}d8 | {e}A8 | {g}AB{g}de {Gdc}d2 {g}de |
 {g}dA {gAGAG}A2 {g}dAeA | {g}dAeA {g}d4| {g}A8 | {g}c4 {g}f2g2 |
 "    Welcome back to the opener"{g}f8| {gf}g8 | (e8 | e2) f2 g2 e2 |
-{g}f8 | {gf}g4 e4 | "Harmonies bringing it back"(f8 | f8) | 
-{ag}a8 | {g}e(a a)f {g}ed{g}Bd | {ag}a8 | {g}a2 g2 f2 z2|]
+{g}(f8 | f8) | {g}a8 | {g}d3 a3 f2 | {g}(a8 | a2) g2 f z3 |]
 
 X:1
 T:Scrappy's Challenge
@@ -101,7 +100,7 @@ K:D
 [| a2{GdG}a {f}g2 e | {g}edg {ef}e2 d | {gBd}B2 {e}G {g}G{d}G{e}G | {g}dB{d}G {gBd}B2 e |
  a2{GdG}a {f}g2 e | {g}edg {ef}e2 d | {gef}e2 d {gf}g2 G | {g}B{d}A{e}A {g}Ade |
  {g}d3 {g}(e3 | (e3) e3) | {g}(B3 (B3) | (B3) B3) |
- {g}A{d}A{e}A {g}(A3 | (A3) A3)  [M:9/8] | {g}(G3 G3) {g}de{A}e [M:4/4] "Slow Air Tempo" | {g}e6 {g}A>{d}A |]
+ {g}A{d}A{e}A {g}(A3 | (A3) A3)  [M:9/8] | {g}(G3 G3) {g}de{A}e [M:3/4] "Slow Air Tempo" | {g}e4 {g}A/B/{g}d/e/ |]
 
 X:3
 T:Miss Dorothy Miller
@@ -111,7 +110,7 @@ R:Slow Air
 M:4/4
 L:1/8
 K:D
-[|{ge}(f4 f)A/{d}A/ {ge}f>e | {g}e/d/{g}(B B){GdG}(B B){gc}d {g}d>B | {gde}d/B/{G}(A A){g}(A A){GAG}A {g}A/B/{g}d/B/ | {gef}e2 (A2 A){g}A {gAGAG}A>B |
+[|{g}(f4 f)A/{d}A/ {ge}f>e | {g}e/d/{g}(B B){GdG}(B B){gc}d {g}d>B | {gde}d/B/{G}(A A){g}(A A){GAG}A {g}A/B/{g}d/B/ | {gef}e2 (A2 A){g}A {gAGAG}A>B |
 {gc}d2 {g}(d2 d)A/{d}A/ {gc}d>a | {g}a/f/{a}(g g) {f}(g (g)g) {a}g/a/{g}a/g/ | a/g/{a}(f f){g}(f f){e}f {g}e/f/{a}g/a/| {ge}(f2 (f2) f)A/{d}A/ {g}c>A ||
 {gc}d2 {g}(d2 d)A/{d}A/ {gc}d>c | {g}d/A/{G}A {g}(d2 d){g}A/{d}A/ {g}c>B | {gc}(d2 (d2) d)A/{d}A/ {g}A/B/{g}B/{G}B/ | {g}A2 {g}(c2 c)A {gAGAG}A>d |
 {ag}a2 {g}(a2 a)f/{e}f/ {ag}a>e | {A}e/f/{g}(d2 (d2) d2) {a}g/a/{g}a/g/ [M:3/4] |  a/g/{a}(d d){g}(d d){G}d  [M:5/4] "Strathspey Tempo"| {g}(d2 (d2) d2) {g}d<(c c2) |]
@@ -125,10 +124,10 @@ C:Trad., arr. by Adam Blaine
 M:C
 L:1/8
 K:D
-[| {Gdc}d8| {g}c8 | {Gdc}d2 {g}f<a {AGAG}A>a f/e/d | {gcd}c<{e}A g/f/e {Gdc}d2 {gdG}d>A |
-{Gdc}d2 {g}f<a {AGAG}A>a f/e/d | {gcd}c2 {e}A>{d}c {g}e>f g/f/e | {Gdc}d2 {g}f<a {AGAG}A>a f/e/d | {gcd}c<{e}A g/f/e {Gdc}d2 {gdG}d>A ||
-{Gdc}d>e {g}f>d {g}f<a {fg}f>d | {gf}g>A {gef}e>d {g}c<e {g}A/B/c | {Gdc}d>e {g}f>d {g}f<a {fg}f>d | {gcd}c<{e}A g/f/e {Gdc}d2 {gdG}d>A |
-{Gdc}d>e {g}f>d {g}f<a {fg}f>d | {gf}g>A {gef}e>d {g}c<e {A}e/f/g | a/g/f g/f/e {g}f/e/d {g}e/f/g [M:2/4] | {cd}c<{e}A g/f/(He "Reel Tempo"| e2) |]
+[| {Gdc}d8| {g}c8 | {Gdc}d2 {g}f<a {AGAG}A>a f/e/d | {gcd}c<{e}A {a}g/f/e {Gdc}d2 {gdG}d>A |
+{Gdc}d2 {g}f<a {AGAG}A>a f/e/d | {gcd}c2 {e}A>{d}c {g}e>f {a}g/f/e | {Gdc}d2 {g}f<a {AGAG}A>a f/e/d | {gcd}c<{e}A {a}g/f/e {Gdc}d2 {gdG}d>A |
+{Gdc}d>e {g}f>d {g}f<a {fg}f>d | {gf}g>A {gef}e>d {g}c<e {g}A/B/c | {Gdc}d>e {g}f>d {g}f<a {fg}f>d | {gcd}c<{e}A {a}g/f/e {Gdc}d2 {gdG}d>A |
+{Gdc}d>e {g}f>d {g}f<a {fg}f>d | {gf}g>A {gef}e>d {g}c<e {A}e/f/g | a/g/f {a}g/f/e {g}f/e/d {g}e/f/g [M:2/4] | {cd}c<{e}A {a}g/f/e [M:C|] | "Reel Tempo" {Gdc}d4 {g}B2c2 |]
 
 X:5
 T:MacArthur Road
@@ -144,8 +143,7 @@ K:D
 {g}fA {gAGAG}A2 {g}fAgA | {gfg}f2 ge {g}fd{g}Bd | {gef}e2 {A}ef {g}ed{g}B{d}A | {g}AB{g}de {Gdc}d2 {g}de |
 {g}f4 {g}f2 g2 | f2 g2 f4 | {g}(e8 | e4) {g}f2g2 |
 "    Welcome back to the opener"{g}d8| {g}B8 | {e}(A8 | A2) B2 c2 A2 |
-{g}d8 | {g}B4 c4 | "Harmonies bringing it back" {g}dA {gAGAG}A2 {g}AB{g}de | {g}faga fA{g}Bd |
-{gef}e2 {A}ef {g}ed{g}Bd | {g}e(a a)f {g}eA{g}Bd | {g}A8 | {g}d2 B2 {g}A2 z2|]
+{g}(d8 | d8) | {g}A8 | {g}B3 d3 A2 | {g}(A8 | A2) B2 {g}A z3 |]
 
 X:1
 T:Scrappy's Challenge

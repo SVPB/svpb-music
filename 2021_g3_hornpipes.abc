@@ -24,7 +24,7 @@ R:Hornpipe
 C:Ryan Canning
 M:2/4
 L:1/16
-K:D
+K:De
 [| {g}A2 | {Gdc}d2{g}Ad {g}fa{g}a{f}(g | g)age {g}fd{g}d{G}d | {A}B3d {g}BA{gAGAG}A2 | {ge}f2{g}ed e{g}e{A}eA |
 {Gdc}d2{g}Ad {g}fa{g}a{f}(g | g)age {g}fd{g}d{G}d | {A}B2{g}Bd {g}BA{gAGAG}A2 | {ge}f2{g}ed {g}d{G}d{g}A2 |
  {Gdc}d2{g}Ad {g}fa{g}a{f}(g | g)age {g}fd{g}d{G}d | {A}B3d {g}BA{gAGAG}A2 | {ge}f2{g}ed e{g}e{A}eA |
@@ -34,8 +34,8 @@ K:D
 [|: A2 | {g}fA{G}Aa A{G}AaA | {G}Af{g}f{e}f de{gdedG}d2 | {g}fd{G}df {g}f{e}fdf | a2{g}ad {g}e4 |
 {g}f3{g}(e e2){g}(d2 | d){e}c3 {g}f2e2| {gf}g4 {a}f4 | a2{g}ag f2 :]|
 [| {g}Ad | {gf}g3e {gfg}f3d | {g}ef{g}ed {g}Bd{g}d{G}d | {g}fg{f}ge f{g}f{e}fd | {g}ef{g}ed {gcd}ce{ag}a2 |
- fg{f}ge f{g}f{e}fd | {g}ef{g}ed {g}Bd{gdedG}d2 | {g}dA{G}Ad {g}d{G}d{g}Ad | {ge}f2{g}ed {gc}d{G}d |
-  {g}Ad | {gf}g3e {gfg}f3d | {g}ef{g}ed {g}Bd{g}d{G}d |  {g}e4 {g}d4 | {g}c4 {g}e4 |
+ fg{f}ge f{g}f{e}fd | {g}ef{g}ed {g}Bd{gdedG}d2 | {g}dA{G}Ad {g}d{G}d{g}Ad | {ge}f2{g}ed {gc}d{G}d{g}Ad |
+{gf}g3e {gfg}f3d | {g}ef{g}ed {g}Bd{g}d{G}d |  {g}e4 {g}d4 | {g}c4 {g}e4 |
  {g}Ad{G}dc d{g}d{G}dB | {g}cd{g}ef {a}g(a3 | a8) |{g}a2{g}ag f4 |]
 X:3
 T:Miss Megan Harrington
@@ -49,9 +49,11 @@ K:D
 {Gdc}d2{g}Ad {g}fa{g}a{f}(g | g)age {g}fd{g}d{G}d | {A}B2{g}Bd {g}BA{gAGAG}A2 | {ge}f2{g}ed {g}d{G}d :]|
 [| {g}Ad | {ge}f2{g}ed {gef}e2{g}dB | {gdedG}d2{g}dB {g}BA{gAGAG}A2 | {g}dA{G}Ad {g}d{G}d{g}Ad | {ge}f2{g}ed {gcd}ce{ag}a2 |
 {e}f2{g}ed e{g}e{A}eB | {gdedG}d2{g}dB {g}BA{gAGAG}A2 | {g}dA{G}Ad {g}d{G}d{g}Ad | {ge}f2{g}ed {g}d{G}d ||
-{g}Ad | {g}A8 | G4 {g}GA{gAGAG}A2 | {g}dA{G}Ad {g}d{G}d{g}Ad | {ge}f2{g}ed {gcd}ce{ag}a2 |
-{e}f2{g}ed e{g}e{A}eB | {gdedG}d2{g}dB {g}BA{gAGAG}A2 | {g}dA{G}Ad {g}d{G}d{g}Ad | {ge}f2{g}ed {g}d{G}d ||
+{g}dB | {g}A16 | G8 {g}GA{gAGAG}A2 | {g}dA{G}Ad {g}d{G}d{g}Ad | {ge}f2{g}ed {gcd}ce{ag}a2 |
+{g}d8 {e}A8 | G8 {g}GA{gAGAG}A2 | {g}A16 | {g}d2{g}dB {g}A2 ||
 [|: A2 | {g}dA{G}Af {g}A{G}A{g}eA | {G}Ad{g}d{G}d {g}BA{gAGAG}A2 | {g}dA{G}Ad {g}d{G}d{g}Ad | {ge}f2{g}ed {gcd}ce{ag}a2 |
-dA{G}Ag A{G}A{g}fA | {G}Ae{g}A{G}A {g}dA{g}cA | {g}G2{g}Bd {g}Ad{g}d{G}d |{ge}f2{g}ed {g}d{G}d :|]
-[|: {g}Ad | {gf}g3e {gfg}f3d | {g}ef{g}ed {g}Bd{g}d{G}d | {g}fg{f}ge f{g}f{e}fd | {g}ef{g}ed {gcd}ce{ag}a2 |
- fg{f}ge f{g}f{e}fd | {g}ef{g}ed {g}Bd{gdedG}d2 | {g}dA{G}Ad {g}d{G}d{g}Ad | {ge}f2{g}ed {gc}d{G}d :|]
+(d16 | d){g}e3 {g}d2c2 | {g}d8 {G}A8 |{g}d2{g}dB {g}A2  :|]
+[| {g}Ad | {gf}g3e {gfg}f3d | {g}ef{g}ed {g}Bd{g}d{G}d | {g}fg{f}ge f{g}f{e}fd | {g}ef{g}ed {gcd}ce{ag}a2 |
+ fg{f}ge f{g}f{e}fd | {g}ef{g}ed {g}Bd{gdedG}d2 | {g}dA{G}Ad {g}d{G}d{g}Ad | {ge}f2{g}ed {gc}d{G}d{g}Ad ||
+ {gf}g3e {gfg}f3d | {g}ef{g}ed {g}Bd{g}d{G}d | {gf}g8 f8 | {g}ef{g}ed {g}e8 | 
+ {g}d{e}d{G}dc d{g}d{G}dB | {g}cd{g}cB {g}BA3 | {g}A16 |  {g}d2{g}dB {g}A2 |]

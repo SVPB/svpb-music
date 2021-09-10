@@ -18,7 +18,8 @@ K:D
 ["2nd" {g}A2{gdedG}d2 {g}fe{g}dA | {gBeBG}B2gB {G}BG{g}dB [M:6/8] "Jig Time" | {g}A2c2d2 {g}(e6| (e12) | e12) |{g}e2d2{G}d2 {g}(d6 | (d6) d6) |]
 
 X:2
-T:Skyeman's Jig
+T:Skyeman's Jig 
+T:Seconds
 C:Duncan Johnstone
 L:1/8
 R:Jig
@@ -28,7 +29,7 @@ K:D
 {g}A{d}A{e}A {gef}e2 d | {g}efg {ef}e2 d | {gef}e2 d {gf}g2 G | {g}B{d}A{e}A {GAG}A2 e :|]
 [| a2{GdG}a {f}g2 e | {g}edg {ef}e2 d | {gBd}B2 {e}G {g}G{d}G{e}G | {g}dB{d}G {gBd}B2 e |
  a2{GdG}a {f}g2 e | {g}edg {ef}e2 d | {gef}e2 d {gf}g2 G | {g}B{d}A{e}A {g}Ade |
- {g}d3 (e3 | (e3) e3) | {gf}(g3 (g3) | (g3) g3) |
+ {g}f3 (e3 | (e3) e3) | {gf}(g3 (g3) | (g3) g3) |
  (e3 (e3) | (e3) e3)  [M:9/8] | {gf}(g3 g3) {a}ga{g}a [M:3/4] "Slow Air Tempo" | {g}a4 {g}A/B/{g}d/e/ |]
 
 X:3
@@ -90,6 +91,7 @@ K:D
 
 X:2
 T:Skyeman's Jig
+T:Thirds
 C:Duncan Johnstone
 L:1/8
 R:Jig
@@ -99,7 +101,7 @@ K:D
 {g}A{d}A{e}A {gef}e2 d | {g}efg {ef}e2 d | {gef}e2 d {gf}g2 G | {g}B{d}A{e}A {GAG}A2 e :|]
 [| a2{GdG}a {f}g2 e | {g}edg {ef}e2 d | {gBd}B2 {e}G {g}G{d}G{e}G | {g}dB{d}G {gBd}B2 e |
  a2{GdG}a {f}g2 e | {g}edg {ef}e2 d | {gef}e2 d {gf}g2 G | {g}B{d}A{e}A {g}Ade |
- {g}d3 {g}(e3 | (e3) e3) | {g}(B3 (B3) | (B3) B3) |
+ {g}d2c {g}(B3 | (B3) B3) | {G}(B3 (B3) | (B3) B3) |
  {g}A{d}A{e}A {g}(A3 | (A3) A3)  [M:9/8] | {g}(G3 G3) {g}de{A}e [M:3/4] "Slow Air Tempo" | {g}e4 {g}A/B/{g}d/e/ |]
 
 X:3

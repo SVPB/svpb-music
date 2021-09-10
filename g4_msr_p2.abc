@@ -1,6 +1,6 @@
 %abc-2.2
 I:abc-include style.abh
-%%footer "Page $P	SVPB G4 M/S/R 2021	Generated: $D"
+%%footer "Page $P	SVPB G4 M/S/R 2022	Generated: $D"
 %%newpage 2
 %%landscape 1
 X:2

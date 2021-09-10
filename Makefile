@@ -35,15 +35,15 @@ JOIN = gs -dBATCH -dNOPAUSE -q -sDEVICE=pdfwrite -sOutputFile=
 G3MEDLEY = 2021_g3_medley_p1.abc 2021_g3_medley_harmonies.abc
 G3MSR = 2021_g3_msr.abc
 G3OLDMSR = 2020_g3_msr.abc
-G368 = 2021_g3_68s.abc john_barclay.abc 
+G368 = MarchOfTheRBL.abc Bengullion.abc john_barclay.abc 
 G3MISC = grans.abc banks_of_the_lossie.abc
 G3HORNPIPES = 2021_g3_hornpipes.abc
 G3JIG = 2021_g3_jig.abc
 G4MEDLEY = 2021_g4_medley.abc
 G4MSR = 2021_g4_msr_p1.abc 2021_g4_msr_p2.abc
-G4MARCH = john_barclay.abc
-PARADE = banks_of_the_lossie.abc Moonstar.abc Moonstar_seconds.abc al_walker_hana.abc irish_set.abc \
-   dovecote_park.abc leaving_port_askaig.abc
+G4MARCH = MarchOfTheRBL.abc
+PARADE = banks_of_the_lossie.abc Moonstar.abc Moonstar_seconds.abc irish_set.abc MarchOfTheRBL.abc john_barclay.abc \
+   
 WUSPBA = amazing_grace.abc green_hills.abc battles_oer.abc bonnie_dundee.abc \
    brown_haired_maiden.abc highland_laddie.abc scotland_the_brave.abc \
    no_awa.abc rowan_tree.abc

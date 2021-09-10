@@ -1,0 +1,58 @@
+%abc-2.2
+I:abc-include style.abh
+%%footer "Page $P	SVPB G3 6/8s 2021	Generated: $D"
+%%scale 0.65
+%%landscape 0
+X:1
+T:The March of the Royal British Legion
+R:March
+L:1/8
+C:Unknown
+M:6/8
+K:D
+[|: {e}A | {Gdc}d>{g}fa A>df | {a}g>f{g}e {Gdc}d2 {e}A | {gBd}B2 e {A}e>g{a}f | {gef}e2 B {gcd}c>B{G}A | 
+{Gdc}d>{g}fa A>df | {a}g>f{g}e {Gdc}d2 {e}A | {gBd}B2 e {a}g>f{g}e | {gfg}f2 d {gdG}d2 :|] 
+[|: {gf}g | a2 {AGAG}A {gfg}f3 | {a}g>f{g}e {Gdc}d2 {e}A | {gBd}B2 e {A}e>g{a}f | {gef}e2 B {gcd}c>B{G}A | 
+ a2 {AGAG}A {gfg}f3 | {a}g>f{g}e {Gdc}d2 {e}A | {gBd}B2 e {a}g>f{g}e | {gfg}f2 d {gdG}d2 :|] 
+ [|: f | {gAGAG}A2 f {g}A>df | {a}g>f{g}e {Gdc}d2 {e}A | {gBd}B2 e {A}e>g{a}f | {gef}e2 B {gcd}c>B{G}A | 
+ {gAGAG}A2 f {g}A>df | {a}g>f{g}e {Gdc}d2 {e}A | {gBd}B2 e {a}g>f{g}e | {gfg}f2 d {gdG}d2 :|] 
+ [|: {gf}g | {ag}a2 f a2 {GdG}a | f>ga {fg}f>ed | {gf}g2 e {a}g2 {GdG}g | {a}e<ge {gcd}c>B{G}A | 
+ ["1"  {ag}a2 f a2 {GdG}a | f>ga {fg}f>ed | {gBd}B2 e {a}g>f{g}e | {gfg}f2 d {gdG}d2 ] :|] 
+ ["2" {Gdc}d2 f {g}A>df | a2 {GdG}a {fg}f>ed | {gBd}B2 e {a}g>f{g}e | {gfg}f2 d {gdG}d2 ] :|] 
+
+X:2
+T:The March of the Royal British Legion
+T:Seconds
+R:March
+L:1/8
+C:Unknown
+M:6/8
+K:D
+[|: {e}A | {Gdc}d>{g}fa A>df | {a}g>f{g}e {Gdc}d2 {e}A | {gBd}B2 e {A}e>g{a}f | {gef}e2 B {gcd}c>B{G}A | 
+{Gdc}d>{g}fa A>df | {a}g>f{g}e {Gdc}d2 {e}A | {gBd}B2 e {a}g>f{g}e | {gfg}f2 d {gdG}d2 :|] 
+[|: {gf}g | a2 {AGAG}A a3 | d2 g {a}f3 | {gBd}B2 e {A}e3 | {ag}a3 {g}a>ge | 
+f3 {ag}a3 | d2 g {a}f3  | {gf}g3 d2 g | {ag}a2 g {ae}f3 :|] 
+[|: f | {gAGAG}A2 f {g}A>df | {a}g>f{g}e {Gdc}d2 {e}A | {gBd}B2 e {A}e>g{a}f | {gef}e2 B {gcd}c>B{G}A | 
+["1" {gAGAG}A2 f {g}A>df | {a}g>f{g}e {Gdc}d2 {e}A | {gBd}B2 e {a}g>f{g}e | {gfg}f2 d {gdG}d2 ] :|]
+["2" {gAGAG}A2 f {g}A>df | {a}g>f{g}e {Gdc}d2 {e}A | {gf}g3 d2 g | {ag}a2 g {ae}f3 ] :|] 
+[|: {gf}g | {ag}a2 f {g}f3 |{g}f>ga {fg}f>ed | {g}e3 {g}e>Bd | {g}e2 g {ag}a3 | 
+["1"  d3 {g}f3 | f>ga {fg}f>ed | {g}e3 {g}d2 g | {ag}a2 g {ae}f3  ] :|] 
+["2" {Gdc}d2 f {g}A>df | a2 {GdG}(f f3) | {g}e3 {g}d2 g | {ag}a2 g {ae}f3  ] :|] 
+
+X:3
+T:The March of the Royal British Legion
+T:Thirds
+R:March
+L:1/8
+C:Unknown
+M:6/8
+K:D
+[|: {e}A | {Gdc}d>{g}fa A>df | {a}g>f{g}e {Gdc}d2 {e}A | {gBd}B2 e {A}e>g{a}f | {gef}e2 B {gcd}c>B{G}A | 
+{Gdc}d>{g}fa A>df | {a}g>f{g}e {Gdc}d2 {e}A | {gBd}B2 e {a}g>f{g}e | {gfg}f2 d {gdG}d2 :|] 
+[|: {gf}g | a2 {AGAG}A d3 | {g}B3 {G}A3 | {gBd}B2 e {g}B3 | {g}c2 d {e}A3 | 
+{gc}(d3 d3) | {g}B3 {G}A3 | {g}e3 {g}B3 | {g}d3 {G}A3 :|] 
+[|: f | {gAGAG}A2 f {g}A>df | {a}g>f{g}e {Gdc}d2 {e}A | {gBd}B2 e {A}e>g{a}f | {gef}e2 B {gcd}c>B{G}A | 
+{gAGAG}A2 f {g}A>df | {a}g>f{g}e {Gdc}d2 {e}A | {gBd}B2 e {a}g>f{g}e | {gfg}f2 d {gdG}d2 :|] 
+[|: {gf}g | {ag}a2 f {g}d3 | {g}d>cd {e}A3 | {g}(G3 G3) | {g}B2 {d}(c c3) | 
+["1"  e2 {g}(d d3) | {g}d>cd {e}A3 | {g}e3 {g}B3 | {g}d3 {G}A3  ] :|] 
+["2" {Gdc}d2 f {g}A>df | a2 {c}(d d3)  | {g}e3 {g}B3 | {g}d3 {G}A3  ] :|] 

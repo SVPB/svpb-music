@@ -5,11 +5,11 @@ I:abc-include style.abh
 X:1
 T:Dawning of the Day
 R:March
-C:arr. Mike LeBoeuf
+C:arr. Adam Blaine
 M:C
 L:1/8
 K:D
-{g}A>B | {GdG}c2 {G}c2 {gcd}c2 {e}B{d}c | {gef}e2 {A}e2 {g}f2 {g}e>c | {G}A2 {g}cB {G}A2 {g}A<{d}B | {G}A4 {GAG}A2 e2 |
+{g}A>B | {GdG}c2 {G}c2 {gcd}c2 {e}B{d}c | {gef}e2 {A}e2 {g}f2 {g}e>c | {G}A2 {g}cB {G}A2 {g}A<{d}B | {G}A4 {GAG}A3 e |
 {g}f3 e {g}f2 {ag}a2 | {B}c3 B {G}A2 {g}c>d | {gef}e2 c2 {ag}a2 {B}c2 | {g}B4 {GdGe}B2 {g}ce |
 {g}f3 e {g}f2 {ag}a2 | {B}c3 B {G}A3 f | {gef}e2 c2 {ag}a2 {B}c2 | {g}B4 {GdGe}B2 {g}A>B |
 {GdG}c2 {G}c2  {gcd}c2 {e}B{d}c | {gef}e2 {A}e2 {g}f2 {g}e>c | {G}A2 {g}cB {G}A2 {g}A<{d}B | {G}A4 {GAG}A2 |]

@@ -40,7 +40,7 @@ K:D
 [| a2{GdG}a {f}g2 e | {g}edg {ef}e2 d | {gBd}B2 {e}G {g}G{d}G{e}G | {g}dB{d}G {gBd}B2 e |
  a2{GdG}a {f}g2 e | {g}edg {ef}e2 d | {gef}e2 d {gf}g2 G | {g}B{d}A{e}A {g}Ade |
  a2{GdG}a {f}g2 e | {g}edg {ef}e2 d | {gBd}B2 {e}G {g}G{d}G{e}G | {g}dB{d}G {gBd}B2 e |
- {g}A{d}A{e}A {gef}e2 d | {g}efg {ef}e3  [M:9/8] | {g}ed{G}d gB{d}G {g}B{d}A{e}A [M:3/4] "Slow Air Tempo" | {GAG}A4 {g}A/B/{g}d/e/ |]
+ {g}A{d}A{e}A {gef}e2 d | {g}efg {ef}e3  [M:9/8] | {g}ed{G}d gB{d}G {g}B{d}A{e}A [M:3/4] "Slow Air Tempo" | {GAG}A4 {g}d<e |]
 
 X:4
 T:Miss Dorothy Miller
@@ -76,7 +76,7 @@ K:D
 [| {Gdc}d3c {g}B{d}B{e}BA | {g}B{d}B{e}Bc {Gdc}d2{g}dB | {g}cd{g}ec {g}A{d}A{e}A{d}B | {gAGAG}A2 {g}AB {g}cd{g}ec |
 {gc}d3c {g}B{d}B{e}BA | {g}B{d}B{e}Bc {Gdc}d2{g}dB | {g}cd{g}eA {g}ca{g}aA | {g}ce{g}dc {g}B{d}B{e}Bc |
 {Gdc}d3e {g}fd{gdedG}d2 | afad {gcd}c2{g}cB | {gAGAG}A2{g}A{d}c {g}ec{g}Ae | {g}A{d}c{g}eA {gcd}c3B | 
-{g}d{e}d{G}de {g}fd{g}d{G}d | afad {gcd}c3B | {g}cd{g}eA {g}ca{g}aA | {g}ce{g}dc {g}B{G}B{g}Bc |]
+{g}d{e}d{G}de {g}fd{g}d{G}d | afad {gcd}c3B | {g}cd{g}eA {g}ca{g}aA | {g}ce{g}dc {g}B{d}B{e}Bc |]
 
 X:7
 T:MacArthur Road

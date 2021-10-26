@@ -1,0 +1,65 @@
+%abc-2.2
+I:abc-include style.abh
+%%footer "Page $P	SVPB Tune For Lottie 2022	Generated: $D"
+%%landscape 1
+X:1
+T:A Tune For Lottie
+R:Air
+C:Danny Hutcheson
+M:4/4
+L:1/8
+K:D
+{g}de [|: {g}f>e {g}f<a {e}f2 {g}f/e/d | {gCd}B2 {gf}g>f {g}f<A {g}de/f/ | {gf}g2 {fg}f>e {g}f<a A/B/d | {gef}e4 {A}e3 a | 
+{g}a>g {a}f<a {Gdc}d3 e/f/ | {gf}g>a f/e/d {gBd}B3 {g}A/B/ | {gc}d>f {gef}e/d/{A}B {g}e>f d<{e}B| ["1" {G}A6 {g}de  :|] ["2" {G}A6 {g}dc |
+[|: {gBd}B>A {g}B<d {gef}e2 A>f | {gf}g>a f/e/d {g}d3 e/f/ | {gf}g>a f/e/d {g}f>g {ag}a{e}f | ["1" {gef}e4 {A}e3 a |
+{g}a>g {a}f<a {Gdc}d3 e/f/ | {gf}g>a f/e/d {gBd}B3 {g}A/B/ | {gc}d>f {gef}e/d/{A}B {g}e>f d<{e}B| {G}A6 {g}dc :|]
+["2"{gef}e4 {A}e2 {g}de | {g}f>e {g}f<a {e}f2 {g}f/e/d | {gcd}B2 {gf}g>f {g}f<A {g}de/f/ | {gf}g>a f/e/d {g}e>f d<{e}c [M:6/4] | {Gdc}(d4 d8) |]
+
+X:2
+T:A Tune For Lottie
+T:Seconds
+R:Air
+C:Danny Hutcheson
+M:4/4
+L:1/8
+K:D
+[| {g}de | {g}f>e {g}f<a {e}f2 {g}f/e/d | {gCd}B2 {gf}g>f {g}f<A {g}de/f/ | {gf}g2 {fg}f>e {g}f<a A/B/d | {gef}e4 {A}e3 a | 
+{g}a>g {a}f<a {Gdc}d3 e/f/ | {gf}g>a f/e/d {gBd}B3 {g}A/B/ | {gc}d>f {gef}e/d/{A}B {g}e>f d<{e}B| {G}A6 {g}de |
+{g}(d8 | (d8) | (d8) | d4) c4 | 
+{g}(d8 | (d8) | (d8) | d8) || 
+{g}(d8 | (d8) | (d8) | d4) c4 | 
+{g}(d8 | (d8) | (d8) | d6) {g}dc |
+ {g}(d8 | (d8) | d8) | {g}A8 | 
+{g}(d8 | (d8) |d4) {g}e4 [M:6/4]| {gf}g4 f8 |]
+
+X:3
+T:A Tune For Lottie
+T:Thirds
+R:Air
+C:Danny Hutcheson
+M:4/4
+L:1/8
+K:D
+[| {g}de | {g}f>e {g}f<a {e}f2 {g}f/e/d | {gCd}B2 {gf}g>f {g}f<A {g}de/f/ | {gf}g2 {fg}f>e {g}f<a A/B/d | {gef}e4 {A}e3 a | 
+{g}a>g {a}f<a {Gdc}d3 e/f/ | {gf}g>a f/e/d {gBd}B3 {g}A/B/ | {gc}d>f {gef}e/d/{A}B {g}e>f d<{e}B| {G}A6 {g}de |
+a8 | {f}g4 f4 | B4 {G}A4 | {g}A8 | 
+a8 | {g}g8 | {a}f4 {gf}g4 | {ag}a8 || 
+[|: {g}B4 {G}A4 | {g}B4 {G}A4 | {g}B4 {G}A4 | ["1" {g}A8 | 
+{ag}a8 | {g}g8 | {a}f4 {gf}g4 | {a}f6 {g}dc :|]
+["2" {ag}(a8 | a8) | {f}g4 {a}f4 | {d}B4 {G}A4 [M:6/4]| {g}B4 {G}A8 |]
+
+X:4
+T:A Tune For Lottie
+T:Fourths
+R:Air
+C:Danny Hutcheson
+M:4/4
+L:1/8
+K:D
+[| {g}de | {g}f>e {g}f<a {e}f2 {g}f/e/d | {gCd}B2 {gf}g>f {g}f<A {g}de/f/ | {gf}g2 {fg}f>e {g}f<a A/B/d | {gef}e4 {A}e3 a | 
+{g}a>g {a}f<a {Gdc}d3 e/f/ | {gf}g>a f/e/d {gBd}B3 {g}A/B/ | {gc}d>f {gef}e/d/{A}B {g}e>f d<{e}B| {G}A6 {g}de |
+A8 | G4 {g}A4 | G4 {g}f4 | {ag}a8 | 
+A8 | {g}B4 G4| {g}A8 | {g}f8 || 
+[|: {g}f4 e4 | {gf}g4 {a}f4 | {d}G4 {g}f4 | ["1" {ag}a8 | 
+A8 | {g}B4 G4 | {g}A8 | a6 dc :|]
+["2" d4 c4 | {g}A8 | G4 {g}A4 | g4 {ag}a4 [M:6/4]| e4 a8 |]

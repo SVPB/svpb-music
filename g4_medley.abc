@@ -123,3 +123,27 @@ K:D
 ae{A}ea Bc{g}c{G}c | ae{A}ea Bc{g}ec | af{e}fa cd{g}d{G}d | {g}fa{g}af {g}ef{g}dB |
 ae{A}ea Bc{g}c{G}c | ae{A}ef {ag}(a4 | (a8) | a8) |
 cd{g}dc {g}B{G}B{g}fe | {g}ef{g}dB {G}(A4 | A4) z4 |]
+
+X:9
+T:The Maids of Jura, Seconds
+R:Slow March
+C:John Maclellan, Dunoon
+M:4/4
+L:1/8
+K:D
+[| {g}A3 {d}A {g}A2d2 | {g}Bd3 {g}A4 | {g}f3 g {ag}a3 d | {g}d4 {g}c2 B2 | 
+{g}A3 B {G}A4 | {g}B4 {g}c2{g}Bc | {g}d3 c {g}da3 | {f}g2 f2 {g}e2 {g}de || 
+{g}d4 {ag}a4 | {f}g4 f2{g}ed |{g}d4 c3 B | {g}c d3 {gf}g4 | 
+e4 {g}f4 | {gf} Hg2 Hf2 {ag}a4 | d3 c {g}d a3 | "Spey tempo" {f}g4 f4 |]
+
+X:10
+T:The Maids of Jura, Thirds
+R:Slow March
+C:John Maclellan, Dunoon
+M:4/4
+L:1/8
+K:D
+[| {g}A3 {d}A {g}A2d2 | {g}Bd3 {g}A4 | {g}f3 g {ag}a3 d | {g}d2 f2 {gef}e4 | 
+{g}A3 B {Gdc}d3 c | {g}Bd3 {gef}e4 | {gfg}f3 e f{g}A3 | {gBd}B4 {G}A2 {g}de || 
+{g}A8 | {g}G4 A4 |{g}d4 c3 B | {g}c d3 {gf}g4 | 
+{g}A3 B {G}A4 | HG2 HA2 {g}c4 | d3 c {g}d e3 | "Spey tempo" {g}e4 d4 |]

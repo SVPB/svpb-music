@@ -28,3 +28,5 @@ the current year.
 We save our tunes as ABC files. For details on ABC, refer to the [ABC standard](http://abcnotation.com/wiki/abc:standard:v2.2). Most graphical music programs understand ABC and can import it (e.g. [CelticPipes](https://www.celticpipes.net/), [MuseScore](https://musescore.org/en), &c) but since it is a text format and not binary, it compresses well and is much friendlier for revision control systems than their native binary formats. Also, since ABC is a text format, you don't need a particular application which may not be available on your platform - just edit the text.
 
 To produce PDF files which we print and put in our binders, we use a series of tools. First, we use [abcm2ps](https://github.com/leesavide/abcm2ps) to convert the ABC files to PostScript. Then, we convert the PostScript to PDF. MacOS ships with a script, `pstopdf`, which can do this, and other systems can install [Ghostscript](https://www.ghostscript.com/), which provides a similar tool, `ps2pdf`, which does the same thing.
+
+

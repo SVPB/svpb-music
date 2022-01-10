@@ -35,13 +35,13 @@ JOIN = gs -dBATCH -dNOPAUSE -q -sDEVICE=pdfwrite -sOutputFile=
 G3MEDLEY = g3_medley_p1.abc g3_medley_harmonies.abc
 G3MSR = g3_msr.abc
 G368 = MarchOfTheRBL.abc Bengullion.abc john_barclay.abc 
-G3MISC = grans.abc banks_of_the_lossie.abc tune_for_lottie.abc
+G3MISC = dream_valley.abc grans.abc banks_of_the_lossie.abc tune_for_lottie.abc
 G3HORNPIPES = g3_hornpipes.abc
 G3JIG = g3_jig.abc
 G4MEDLEY = g4_medley.abc
 G4MSR = g4_msr_p1.abc g4_msr_p2.abc
-PARADE = banks_of_the_lossie.abc Moonstar.abc Moonstar_seconds.abc irish_set.abc MarchOfTheRBL.abc john_barclay.abc \
-   castle_dangerous.abc dream_valley.abc
+PARADE = banks_of_the_lossie.abc irish_set.abc MarchOfTheRBL.abc john_barclay.abc \
+   dream_valley.abc castle_dangerous.abc
 WUSPBA = amazing_grace.abc green_hills.abc battles_oer.abc bonnie_dundee.abc \
    brown_haired_maiden.abc highland_laddie.abc scotland_the_brave.abc \
    no_awa.abc rowan_tree.abc

@@ -35,7 +35,7 @@ JOIN = gs -dBATCH -dNOPAUSE -q -sDEVICE=pdfwrite -sOutputFile=
 G3MEDLEY = g3_medley_p1.abc g3_medley_harmonies.abc
 G3MSR = g3_msr.abc
 G368 = MarchOfTheRBL.abc Bengullion.abc john_barclay.abc 
-G3MISC = dream_valley.abc moonstar.abc moonstar_seconds.abc grans.abc banks_of_the_lossie.abc tune_for_lottie.abc
+G3MISC = dream_valley.abc Moonstar.abc Moonstar_seconds.abc grans.abc banks_of_the_lossie.abc tune_for_lottie.abc
 G3HORNPIPES = g3_hornpipes.abc
 G3JIG = g3_jig.abc
 G4MEDLEY = g4_medley.abc

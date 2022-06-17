@@ -30,7 +30,7 @@ K:D
 [| a2{GdG}a {f}g2 e | {g}edg {ef}e2 d | {gBd}B2 {e}G {g}G{d}G{e}G | {g}dB{d}G {gBd}B2 e |
  a2{GdG}a {f}g2 e | {g}edg {ef}e2 d | {gef}e2 d {gf}g2 G | {g}B{d}A{e}A {g}Ade |
  {g}f3 (e3 | (e3) e3) | {gf}(g3 (g3) | (g3) g3) |
- (e3 (e3) | (e3) e3)  [M:9/8] | {gf}(g3 g3) {a}ga{g}a [M:3/4] "Slow Air Tempo" | {g}a4 {g}A/B/{g}d/e/ |]
+ (e3 (e3) | (e3) e3)  [M:9/8] | {gf}(g3 g3) {a}ga{g}a [M:3/4] "Slow Air Tempo" | {g}a4 d<e|]
 
 X:3
 T:Miss Dorothy Miller
@@ -102,7 +102,7 @@ K:D
 [| a2{GdG}a {f}g2 e | {g}edg {ef}e2 d | {gBd}B2 {e}G {g}G{d}G{e}G | {g}dB{d}G {gBd}B2 e |
  a2{GdG}a {f}g2 e | {g}edg {ef}e2 d | {gef}e2 d {gf}g2 G | {g}B{d}A{e}A {g}Ade |
  {g}d2c {g}(B3 | (B3) B3) | {G}(B3 (B3) | (B3) B3) |
- {g}A{d}A{e}A {g}(A3 | (A3) A3)  [M:9/8] | {g}(G3 G3) {g}de{A}e [M:3/4] "Slow Air Tempo" | {g}e4 {g}A/B/{g}d/e/ |]
+ {g}A{d}A{e}A {g}(A3 | (A3) A3)  [M:9/8] | {g}(G3 G3) {g}de{A}e [M:3/4] "Slow Air Tempo" | {g}e4 {g}d<e |]
 
 X:3
 T:Miss Dorothy Miller
@@ -146,17 +146,3 @@ K:D
 {g}f4 {g}f2 g2 | f2 g2 f4 | {g}(e8 | e4) {g}f2g2 |
 "    Welcome back to the opener"{g}d8| {g}B8 | {e}(A8 | A2) B2 c2 A2 |
 {g}(d8 | d8) | {g}A8 | {g}B3 d3 A2 | {g}(A8 | A2) B2 {g}A z3 |]
-
-X:1
-T:Scrappy's Challenge
-T:Thirds
-R:Hornpipe
-C:Colin Elder
-M:2/4
-L:1/16
-K:D
-[|: "2nd time only" f2 | {g}A2{gdedG}d2 {g}fe{g}dA | {gBeBG}B2gB {G}BG{g}dB | {gAGAG}A2{d}ce {g}eA{d}ce | {g}dAe{g}(f f)e{g}dB |
-{g}A2{gdedG}d2 {g}fe{g}dA | {gBeBG}B2gB {G}BG{g}dB | {g}Acd{gef}(e e)d{g}cB | {g}Ae{g}ec {Gdc}d2 :|]
-[|: {g}fg | {ag}a2Aa dafA | {gBeBG}B2g{a}(B B)g{a}dB | {gcd}c2{g}B{d}A {g}ecA{g}(c | c)A{g}dA {g}eA{g}ce |
-["1st" {ag}a2Aa dafA | {gBeBG}B2g{a}(B B)g{a}dB | {g}Acd{gef}(e e)d{g}cB | {g}Ae{g}ec {Gdc}d2 :|]
-["2nd" {g}A2{gdedG}d2 {g}fe{g}dA | {gBeBG}B2gB {G}BG{g}dB [M:6/8] "Jig Time" | {g}A2c2d2 {g}e6| {g}A2{d}A2{e}A2 {gef}e6 d2 | {g}e2f2g2 {ef}e6 |{g}e2d2{G}d2 {g}(d6 | (d6) d6) |]

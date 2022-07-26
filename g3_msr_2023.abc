@@ -1,0 +1,35 @@
+%abc-2.2
+I:abc-include style.abh
+%%scale 0.6
+%%landscape 1
+%%footer "Page $P	SVPB G3 MSR 2023	Generated: $D"
+X:1
+T:Edinburgh City Police Pipe Band
+C:Roderick Campbell
+R:March
+M:2/4
+L:1/16
+K:D
+[|: {gef}e2 | {g}A2{GdGe}A2 {GAG}A2{g}B<d | {g}e>f{g}d>e {gf}g2{a}e>d | {g}B<d{gBd}B>A {g}G2{d}G<{e}G | {g}B>d{gef}e>A {g}f>e{g}d>B |
+{g}A2{GdGe}A2 {GAG}A2{g}B<d | {g}e>f{a}g>e {ag}a2g>f | {g}e>f{g}e>d {g}B<d{g}e<g | {aBd}B2{e}A2 {GAG}A2 :|]
+[|: {g}f>g | {ag}a4 {ef}e2{ag}a2 | {g}e>f{a}g>e {ag}a2e>f | {gf}g2{a}f>e {Gdc}d2{g}B<d | {g}e>f{a}g>e {g}f>e{g}d>B |
+[1 {ag}a4 {ef}e2{ag}a2 | {g}e>f{a}g>e {ag}a2g>f | {g}e>f{g}e>d {g}B<d{g}e<g | {aBd}B2{e}A2 {GAG}A2 :|]
+[2 {g}c>d{g}e>f {g}e2{gde}d>B |  {g}e>f{a}g>e {ag}a2g>f | {g}e>f{g}e>d {g}B<d{g}e<g | {aBd}B2{e}A2 {GAG}A2 ||
+[|: {gef}e2 | {gAGAG}A2{gef}e2 {g}A>{d}B{gef}e>d | {g}B<{d}A{g}e<a g>e{g}d>B | {gGd}G2{dc}d2 {g}B<{d}G{gde}d>B | {g}e>f{a}g>e {g}f>e{g}d>B |
+{gAGAG}A2{gef}e2 {g}A>{d}B{gef}e>d | {g}e>f{a}g>e {ag}a2g>f | {g}e>f{g}e>d {g}B<d{g}e<g | {aBd}B2{e}A2 {GAG}A2 :|]
+[|: {g}f>g | a>e{g}A>{d}B {gef}e2{g}B<d | {g}f>e{g}A>{d}B {g}e<ag>e | {gde}d>B{g}G>B {Gdc}d2{g}B<d | {g}e>f{a}g>e {g}f>e{g}d>B |
+[1  a>e{g}A>{d}B {gef}e2{g}B<d | {g}e>f{a}g>e {ag}a2g>f | {g}e>f{g}e>d {g}B<d{g}e<g | {aBd}B2{e}A2 {GAG}A2 :|]
+[2 {g}c>d{g}e>f {g}e2{gde}d>B | {g}e>f{a}g>e {ag}a2g>f | {g}e>f{g}e>d {g}B<d{g}e<g | {aBd}B2{e}A2 {GAG}A4 |]
+
+X:2
+T:Monymusk
+C:Trad
+R:Strathspey
+M:4/4
+L:1/8
+K:D
+[|: [2 a/] | {gef}e>A {gcd}c<{e}A {g}c/e/{g}A {Gdc}d>f | {gef}e>d {gcd}c<a B/{d}B/{e}B {Gdc}d>f |  {gef}e>A {gcd}c<{e}A {g}c<e {A}e>a | f/g/a B/c/d {gcd}c<{e}A {GAG}A3/2 :|]
+[|: e/ | {ag}a>e {gcd}c>a e<a {cd}c>e | {ag}a>e {Gdc}d>a {cd}c<a {BG}B>e | {ag}a>e {gcd}c>a e<a {cd}c>a | f/g/a B/c/d {gcd}c<{e}A {GAG}A3/2 :|]
+[|: a/ | {AGAG}A2 {gcd}c<{e}A {g}c/e/{g}A {Gdc}d>f |{gAGAG}A2 {gcd}c<a B/{d}B/{e}B {Gdc}d>f |{gAGAG}A2 {gcd}c<{e}A {g}c<e {A}e>a | f/g/a B/c/d {gcd}c<{e}A {GAG}A3/2 :|]
+[|: e/ | {ag}a2 {ef}e>a {cd}c<a e/f/g | {ag}a2 {ef}e>a {cd}c<a {BG}B>e | {ag}a2 {ef}e>a {cd}c<a {ef}e>a | f/g/a B/c/d {gcd}c<{e}A [1 {GAG}A3/2 [2 {GAG}A2] :|]
+

@@ -1,0 +1,24 @@
+%abc-2.2
+I:abc-include style.abh
+%%scale 0.6
+%%landscape 0
+%%footer "Page $P	SVPB G3 MSR 2023	Generated: $D"
+X:1
+T:Brown Haired Maid
+C:Trad, DMC Setting
+R:Reel
+M:C|
+L:1/8
+K:D
+[| {ag}a2 g>a {fg}f>e {gcd}c2 | {g}f>e{gcd}c>B {g}A>B {gcd}c2 | {ag}a2 g>a {fg}f>e {gcd}c2 | {g}B>{d}ca>e {g}f2 {e}f>g | 
+{ag}a2 g>a {fg}f>e {gcd}c2 | {g}f>e{gcd}c>B {g}A>B {gcd}c2 | {ag}a2 g>a {fg}f>e {gcd}c2 | {g}B>{d}ca>e {g}f2 {e}f>a ||
+e>A {gAd}A2 {g}e>A {gcd}c2 | {g}f>e{gcd}c>B {g}A>B {gcd}c2 | e>A {gAd}A2 {g}e>A {gcd}c2 | {g}B>{d}ca>e {g}f2 {e}f>a |
+e>A {gAd}A2 {g}e>A {gcd}c2 | {g}f>e{gcd}c>B {g}A>B {gcd}c2 | {ag}a2 g>a {fg}f>e {gcd}c2 | {g}B>{d}ca>e {g}f2 {e}f>g ||
+{ag}a2 g>a {fg}f>ea>f | {g}e>ca>f {g}e>A {gcd}c2 | {ag}a2 g>a {fg}f>ea>c | {g}B>{d}ca>e {g}f2 {e}f>g |
+{ag}a2 g>a {fg}f>ea>f | {g}e>ca>f {g}e>A {gcd}c2 |{ag}a2 g>a {fg}f>e {gcd}c2 | {g}B>{d}ca>e {g}f2 {e}f>a ||
+e>A {gAd}A2 {g}f>e {gcd}c2 | a>e{gcd}c>B {g}A>B {gcd}c2 | e>A {gAd}A2 {g}f>e {gcd}c2 | {g}B>{d}ca>e {g}f2 {e}f>a |
+e>A {gAd}A2 {g}f>e {gcd}c2 | a>e{gcd}c>B {g}A>B {gcd}c2 | {ag}a2 g>a {fg}f>e {gcd}c2 | {g}B>{d}ca>e {g}f2 {e}f>g ||
+a>f{e}f>a {fg}f>ea>f | {g}e>c{G}c>f {g}e>A {gcd}c2 | a>f{e}f>a {fg}f>ea>c | {g}B>{d}ca>e {g}f2 {e}f>g |
+a>f{e}f>a {fg}f>ea>f | {g}e>c{G}c>f {g}e>A {gcd}c2 | {g}e>fa>e {g}f>e {gcd}c2 | {g}B>{d}ca>e {g}f2 {e}f>a ||
+e>A {gAd}A2 {g}A>e {gcd}c2 | {g}A>{d}c{gef}e>A {g}f>e {gcd}c2 | {gef}e>A {gAGAG}A2 {g}A>e {gcd}c2 | {g}B>{d}ca>e {g}f2 {e}f>a |
+e>A {gAd}A2 {g}A>e {gcd}c2 | {g}A>e{A}e>f {e}f>e {gcd}c2 | {ag}a2 g>a {fg}f>e {gcd}c2 | {g}B>{d}ca>e {g}f2 {e}f2 |]

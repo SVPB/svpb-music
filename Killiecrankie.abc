@@ -1,0 +1,16 @@
+%abc-2.2
+I:abc-include style.abh
+%%scale 0.65
+%%landscape 1
+
+X:1
+T:Killiecrankie
+C:
+R:March
+M:4/4
+L:1/8
+K:D
+[| {g}f>g |{ag}a3 A {GAG}A2 {g}B{d}c | {Gdc}d2 {e}G2 {gGd}G3 {gf}g | {a}f3 a {f}gf{g}ed |{gfg}f2 {g}e2 {geA}e2 {g}f{gf}g | 
+{ag}a3 A {GAG}A2 {g}B{d}c | {Gdc}d2 {e}G2 {gGd}G3 {ag}a>g | {a}f>g {ag}af {gef}e3 g | {g}B2 {Gdc}d2 {gdG}d2 {g}de |
+{fege}f4 {e}f2 {g}ed | {gf}g4 {GdG}g2 {Gdc}d>e | {g}f3 {e}f {gf}gf{g}ed | {gfg}f2 {g}e2 {geA}e2 {Gdc}de | 
+{g}f3 {e}f {gfe}f3 {g}ed | {gf}g4 {ag}a3 g | {a}f>g {ag}af {gef}e3 g | {g}B2 {Gdc}d2 {gdG}d2 {g}de |]

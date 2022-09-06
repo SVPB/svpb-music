@@ -18,6 +18,10 @@ and sends a message to Slack.
 1. create the new branch and push it to Github
 1. log in to the build server and, in the `repos` directory, clone the new branch:
  `git clone --single-branch --branch <year> https://github.com/SVPB/svpb-music.git <year>`
+1. Update the year in `Makefile`
+1. On the build server, make a new build directory in the sheet_music folder
+1. On the build server, ensure that the www-data user owns both the branch and the
+build directories
 
 # Process and Tools
 

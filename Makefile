@@ -33,15 +33,16 @@ JOIN = gs -dBATCH -dNOPAUSE -q -sDEVICE=pdfwrite -sOutputFile=
 
 # The source files for all the music
 G3MEDLEY = g3_medley_p1.abc g3_medley_harmonies.abc
-G3MSR = g3_msr.abc
+#G3MSR = g3_msr.abc
 G3NEWMSR = g3_msr_2023.abc g3_msr_2023_reel.abc
 G368 = MarchOfTheRBL.abc Bengullion.abc john_barclay.abc 
-G3MARCHES = dream_valley.abc Moonstar.abc Moonstar_seconds.abc 
+G3MARCHES = dream_valley.abc killiecrankie.abc
 G3MISC = grans.abc banks_of_the_lossie.abc tune_for_lottie.abc
 G3HORNPIPES = g3_hornpipes.abc
-G3JIG = g3_jig.abc
+#G3JIG = g3_jig.abc
 G4MEDLEY = g4_medley.abc
 G4MSR = g4_msr_p1.abc g4_msr_p2.abc
+G4MARCHES = dream_valley.abc killiecrankie.abc
 PARADE = banks_of_the_lossie.abc irish_set.abc MarchOfTheRBL.abc john_barclay.abc \
    dream_valley.abc castle_dangerous.abc Moonstar.abc Moonstar_seconds.abc
 WUSPBA = amazing_grace.abc green_hills.abc battles_oer.abc bonnie_dundee.abc \
@@ -50,7 +51,7 @@ WUSPBA = amazing_grace.abc green_hills.abc battles_oer.abc bonnie_dundee.abc \
 CHRISTMAS = we_wish_merry.abc jingle_bells.abc scotland_the_brave.abc auld_lang_syne.abc amazing_grace.abc \
     highland_cathedral.abc hector_hero.abc
 
-ABCFILES = $(G3MEDLEY) $(G3MSR) $(G3NEWMSR) $(G368) $(G3HORNPIPES) $(G3MARCHES) $(G3MISC) $(G4MEDLEY) $(G4MSR) $(PARADE) $(WUSPBA) 
+ABCFILES = $(G3MEDLEY) $(G3NEWMSR) $(G368) $(G3HORNPIPES) $(G3MARCHES) $(G3MISC) $(G4MEDLEY) $(G4MSR) $(G4MARCHES) $(PARADE) $(WUSPBA) 
 PSFILES = $(ABCFILES:.abc=.ps)
 PDFFILES = $(PSFILES:.ps=.pdf)
 
@@ -80,11 +81,11 @@ G3_DIR = $(LOCAL_FOLDER)/$(YEAR)/g3/
 G4_DIR = $(LOCAL_FOLDER)/$(YEAR)/g4/
 FULL_DIR = $(LOCAL_FOLDER)/$(YEAR)/full_band/
 
-G3_FILES = $(G3MEDLEY) $(G3MSR) $(G3NEWMSR) $(G368) $(G3HORNPIPES)  $(G3MARCHES) $(G3MISC) 
+G3_FILES = $(G3MEDLEY) $(G3NEWMSR) $(G3MARCHES) $(G368) $(G3HORNPIPES)  $(G3MISC) 
 G3_PS = $(G3_FILES:.abc=.ps)
 G3_PDFS = $(G3_PS:.ps=.pdf)
 
-G4_FILES = $(G4MEDLEY) $(G4MSR)
+G4_FILES = $(G4MEDLEY) $(G4MSR) $(G4MARCHES)
 G4_PS = $(G4_FILES:.abc=.ps)
 G4_PDFS = $(G4_PS:.ps=.pdf)
 

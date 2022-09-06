@@ -35,20 +35,21 @@ if (scalar(@locks) == 0 && scalar(@triggers) > 0) {
         open (my $fh, '<', $dir."/".$file) or die "Unable to open trigger file $file! $!";
         # get the branch and the commit message(s)
         my ($branch, $message);
+        $message = "";
         while (my $line = <$fh>) {
             if ($line =~ /^Branch: (.*)$/ ) {
                 $branch = $1;
             } elsif ($line =~ /^Commit: \[([a-zA-Z0-9]+)\] (.*)/) {
                 # could do something with the commit SHA, I guess, which is $1
                 $message .= $2;
-                $message .= "\n"
+                $message .= "\n";
             }
         }
         close $fh;
 
         # change directory to the branch build directory
         chdir "$build_root/$branch";
-	print "changed directory to $build_root/$branch\n";
+        print "changed directory to $build_root/$branch\n";
         # pull the branch from Github
         system('git pull');
         # make the binder and sync to Box

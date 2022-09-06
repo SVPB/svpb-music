@@ -36,13 +36,13 @@ G3MEDLEY = g3_medley_p1.abc g3_medley_harmonies.abc
 #G3MSR = g3_msr.abc
 G3NEWMSR = g3_msr_2023.abc g3_msr_2023_reel.abc
 G368 = MarchOfTheRBL.abc Bengullion.abc john_barclay.abc 
-G3MARCHES = dream_valley.abc killiecrankie.abc
+G3MARCHES = dream_valley.abc Killiecrankie.abc
 G3MISC = grans.abc banks_of_the_lossie.abc tune_for_lottie.abc
 G3HORNPIPES = g3_hornpipes.abc
 #G3JIG = g3_jig.abc
 G4MEDLEY = g4_medley.abc
 G4MSR = g4_msr_p1.abc g4_msr_p2.abc
-G4MARCHES = dream_valley.abc killiecrankie.abc
+G4MARCHES = dream_valley.abc Killiecrankie.abc
 PARADE = banks_of_the_lossie.abc irish_set.abc MarchOfTheRBL.abc john_barclay.abc \
    dream_valley.abc castle_dangerous.abc Moonstar.abc Moonstar_seconds.abc
 WUSPBA = amazing_grace.abc green_hills.abc battles_oer.abc bonnie_dundee.abc \
@@ -132,16 +132,10 @@ $(CHRISTMAS_SECTION): $(CHRISTMAS_PDFS)
 	perl scripts/section_titles.pl christmas_section.pdf "Christmas Concert Tunes"
 	$(JOIN)$(CHRISTMAS_SECTION) christmas_section.pdf $(CHRISTMAS_PDFS)
 
-$(PSFILES): %.ps: %.abc style.abh
+%.ps: %.abc style.abh
 	-$(ABC) $<
 
-$(PDFFILES): %.pdf: %.ps
-	$(PDF) $<
-
-$(CONCERT_PS): %.ps: %.abc
-	-$(ABC) $<
-
-$(CONCERT_PDF): %.pdf: %.ps
+%.pdf: %.ps
 	$(PDF) $<
 
 clean:

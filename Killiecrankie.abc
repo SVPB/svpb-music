@@ -9,10 +9,10 @@ R:March
 M:4/4
 L:1/8
 K:D
-[| {g}f>g |{ag}a3 A {GAG}A2 {g}B{d}c | {Gdc}d2 {e}G2 {gGd}G3 {gf}g | {a}f3 a {f}gf{g}ed |{gfg}f2 {g}e2 {geA}e2 {g}fg | 
-{ag}a3 A {GAG}A2 {g}B{d}c | {Gdc}d2 {e}G2 {gGd}G2 {ag}a>g | {a}f>g {ag}af {gef}e3 d | {g}B2 {Gdc}d2 {gdG}d2 {g}de |
+[| {g}f>g |{ag}a3 A {GAG}A2 {g}B{d}c | {Gdc}d2 {e}G2 {gGd}G3 {gf}g | {a}f3 a {f}gf{g}ed |{gfg}f2 e2 {geA}e2 {g}fg | 
+{ag}a3 A {GAG}A2 {g}B{d}c | {Gdc}d2 {e}G2 {gGd}G2 {ag}a>g | {a}f>g {ag}af {g}e3 d | {g}B2 {Gdc}d2 {gdG}d2 {g}de |
 {fege}f4 {e}f2 {g}ed | {gf}g4 {GdG}g2 {Gdc}d>e | {g}f3 {e}f {gf}gf{g}ed | {gfg}f2 {g}e2 {geA}e2 {Gdc}de | 
-{g}f3 {e}f {gfe}f3 {g}ed | {gf}g2 {f}g2  {ag}a3 g | {a}f>g {ag}af {gef}e3 d | {g}B2 {Gdc}d2 {gdG}d4 |]
+{g}f3 {e}f {gfe}f3 {g}ed | {gf}g2 {f}g2  {ag}a3 g | {a}f>g {ag}af {g}e3 d | {g}B2 {Gdc}d2 {gdG}d4 |]
 
 X:2
 T:Killiecrankie
@@ -22,10 +22,10 @@ R:March
 M:4/4
 L:1/8
 K:D
-[| {g}f>g |{ag}a3 A {GAG}A2 {g}B{d}c | {Gdc}d2 {e}G2 {gGd}G3 d  | {g}d2 A2 d2 e2 |d2 d2 dc {g}ae | 
-f2 f2 f2 fe | g2 d2 B2 d2 | d2 d2 a2 a2 | a2 g2 f2 fe ||
-d2 A2 d2 af | d2 d2 d2 g2 |  {g}d2 A2 d2 e2 |d2 d2 dc {g}ae |
-d2 c2 B2 af | d2 B2 d2 d2 |  d2 d2 a2 a2 | a2 g2 f4 |]
+[| {g}f>g |{ag}a3 A {GAG}A2 {g}B{d}c | {Gdc}d2 {e}G2 {gGd}G3 d  | {g}d2 A2 {g}d2 e2 | {g}d4 {g}dc ae | 
+(f2 (f2) f2) fe | {gf}g2 d2 {g}B2 d2 | {g}d4 {ag}(a2 a2) | {g}a2 g2 {a}f2 {g}fe ||
+d2 A2 {g}d2 af | {g}d4 {G}d2 g2 |  {a}d2 A2 {g}d2 e2 | {g}d4 {g}dc ae |
+{g}d2 c2 {g}B2 af | {g}d2 B2 {g}d4 |  {g}d4 {ag}(a2 a2) | {g}a2 g2 {a}f4 |]
 
 X:3
 T:Killiecrankie
@@ -35,10 +35,10 @@ R:March
 M:4/4
 L:1/8
 K:D
-[| {g}f>g |{ag}a3 A {GAG}A2 {g}B{d}c | {Gdc}d2 {e}G2 {gGd}G3 B  | {g}A2 d2 A2 A2 |A2 A2 A2 {g}AB | 
-c2 c2 c2 dA | G2 B2 d2 B2 | A2 B2 c3 B | G2 A2 A2 de ||
-A2 d2 A2 A2 | G2 B2 G2 G2 | {g}A2 d2 A2 A2 |A2 A2 A2 {g}AB |  
-A2 A2 d2 B2 | G2 G2 A2 B2 | A2 B2 c3 B | G2 A2 A4 |]
+[| {g}f>g |{ag}a3 A {GAG}A2 {g}B{d}c | {Gdc}d2 {e}G2 {gGd}G3 B  | {g}A2 d2 {g}A4 | {g}(A2 (A2) A2) {g}AB | 
+{g}(c2 (c2) c2) {g}dA | {g}G2 B2 {g}d2 B2 | {g}A2 B2 {g}c3 B | {g}G2 A2 {gAG}A2 {g}de ||
+{g}A2 d2 {g}A4 | {g}G2 B2 {g}G4 | {g}A2 d2 {g}A4 | {g}(A2 (A2) A2) {g}AB |  
+{g}A4 {g}d2 B2 | {g}G2 {d}G2 {g}A2 B2 | {g}A2 B2 {g}c3 B | {g}G2 A2 {gAG}A4 |]
 
 
 X:4
@@ -50,6 +50,6 @@ M:4/4
 L:1/8
 K:D
 [| {g}f>g |{ag}a3 A {GAG}A2 {g}B{d}c | {Gdc}d2 {e}G2 {gGd}G3 {gf}g | {ag}a3 a {f}gf{g}ed |{gfg}f2 {g}e2 {geA}e2 {g}fg | 
-{ag}a3 A {GAG}A2 {g}B{d}c | {Gdc}d2 {e}G2 {gf}g2 {ag}a>g | f2 f2 A3 B | {g}d2 {g}e2 {gdG}d2 {g}de |
-a2 a2 a2 ed | B2 G2 B2 B2 | {ag}a2 a2 {gf}gf{g}ed | {gfg}f2 {g}a2 {g}a2 {Gdc}de | 
-{g}f3 {e}f {gfe}f3 {g}ed | {gf}g2 G/B/d/g/  {ag}a3 g | f2 f2 A3 B | {g}d2 {g}e2 {gdG}d4 |]
+{ag}a3 A {GAG}A2 {g}B{d}c | {Gdc}d2 {e}G2 {gf}g2 {ag}a>g | {a}f4 {g}A3 B | {g}d2 {g}e2 {gdG}d2 {g}de |
+{ag}a2 a2 a2 ed | {g}B2 G2 {g}B4 | {ag}(a2 a2) {gf}gf{g}ed | {gfg}f2 a2 {g}a2 de | 
+{g}f3 {e}f {gfe}f3 {g}ed | {gf}g2 G/B/d/g/  {ag}a3 g | {a}f4 {g}A3 B | {g}d2 {g}e2 {gdG}d4 |]

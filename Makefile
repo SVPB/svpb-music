@@ -32,7 +32,7 @@ PDF = ps2pdf
 JOIN = gs -dBATCH -dNOPAUSE -q -sDEVICE=pdfwrite -sOutputFile=
 
 # The source files for all the music
-G3MEDLEY = g3_medley_p1.abc g3_medley_harmonies.abc
+G3MEDLEY = g3_medley_2023.abc g3_medley_harmonies.abc
 #G3MSR = g3_msr.abc
 G3NEWMSR = g3_msr_2023.abc g3_msr_2023_reel.abc
 G368 = MarchOfTheRBL.abc Bengullion.abc john_barclay.abc 

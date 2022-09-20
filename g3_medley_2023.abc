@@ -2,6 +2,7 @@
 I:abc-include style.abh
 %%footer "Page $P	SVPB G3 Medley 2022	Generated: $D"
 %%landscape 1
+%%scale 0.6
 X:1
 T:Bruce Gandy's Farewell to the Iron Hornpipe
 R:Hornpipe

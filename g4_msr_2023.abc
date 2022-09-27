@@ -1,0 +1,53 @@
+%abc-2.2
+I:abc-include style.abh
+%%footer "Page $P	SVPB G4 M/S/R 2023	Generated: $D"
+%%landscape 1
+X:1
+T:King George V Army
+R:March
+C:PM G.S. Mclennan
+M:2/4
+L:1/16
+Q:"76 bpm"
+K:D
+[|: {g}e>d | {gcd}c2{e}A2 {gAGAG}A2>B2 | {g}c<{d}A{g}c<e {g}f>e{g}d>c | {Gdc}d2{g}B2 {GdGe}B2>c2 | {Gdc}d>e{g}f<a {fg}f2{g}e>d | 
+{gcd}c2{e}A2 {gAGAG}A2>B2 | {g}c<{d}A{g}c<e {g}f>e{g}d>c | {Gdc}d2{g}f>d {gcd}c2{g}e>c | {gBd}B4 {G}A2 :|]
+[|: {g}c>d | {gef}e2a2 {g}a2g>f | {g}e2c2 {gcG}c2{g}e>c | {Gdc}d2{g}B2 {GdGe}B2{g}c<d | {gcd}c2{e}A2 {gAGAG}A2{g}c>d | 
+{gef}e2a2 {g}a2g>f | {g}e2c2 {gcG}c2{g}e>c | {Gdc}d2{g}f>d {gcd}c2{g}e>c | {gBd}B4 {G}A2 :|]
+[|: {g}e>d | {gcd}c2e2 {ag}a3e | {g}c>ea>e {g}f<ae>c | {Gdc}d2f2 {ag}a3f | {g}d>fa>d {g}f<a{fg}f>d |
+{gcd}c2e2 {ag}a3e | {g}c>ea>e {g}f<ae>c | {g}d>fa>d {g}c>ea>c | {gBd}B4 {G}A2 :|]
+[|: {g}e>d | {gcd}c2{g}e2 {A}e>d | {g}c<e{A}e>a {gf}f>e{g}d>c | {Gdc}d2{g}f2 {e}f3e | {g}d<f{e}f>a {f}g>f{g}e>d | 
+{gcd}c2{g}e2 {A}e>d | {g}c<e{A}e>a {gf}f>e{g}d>c | {g}d>fa>d {g}c>ea>c | {gBd}B4 {G}A2 :|]
+
+
+X:2
+T:Under the Triboro
+R:Strathspey
+C:Bruce Gandy
+M:C
+L:1/8
+Q:"115 bpm"
+K:D
+[|{Gdc}d2 {g}f/e/d {gBd}B>A {g}B<d | {g}A>{d}B {ag}a>f {g}e>d {g}e<f | {Gdc}d2 {g}f/e/d {gBd}B>A {g}B<d | {ag}a>f {g}e>d {g}e<f {Gdc}d2 |
+{gdG}d2 {g}f/e/d {gBd}B>A {g}B<d | {g}A>{d}B {ag}a>f {g}e>d {g}e<f | {Gdc}d2 {g}f/e/d {gBd}B>A {g}B<d | {ag}a>f {g}e>d {g}e<f {Gdc}d2 ||
+{g}f>e {g}f<a {ef}e>d {g}e<f | {ag}a>f {g}e>d {g}e<f {gBd}B2 | {Gdc}d>e {g}d>A {g}B<d {g}e>f | {ag}a>f {g}e>d {g}e<f {Gdc}d2 |
+{g}f>e {g}f<a {ef}e>d {g}e<f | {ag}a>f {g}e>d {g}e<f {gBd}B2 | {Gdc}d>e {g}d>A {g}B<d {g}e>f | {ag}a>f {g}e>d {g}e<f {Gdc}d2 ||
+{g}A>B {Gdc}d>A {g}B<{d}A {gfg}f2 | {Gdc}d>f {ag}a>f {g}e>d {g}e<f | {g}A>B {Gdc}d>A {g}B<{d}A {gfg}f2 | {ag}a>f {g}e>d {g}e<f {Gdc}d2 |
+{g}A>B {Gdc}d>A {g}B<{d}A {gfg}f2 | {Gdc}d>f {ag}a>f {g}e>d {g}e<f | {g}A>B {Gdc}d>A {g}B<{d}A {gfg}f2 | {ag}a>f {g}e>d {g}e<f {Gdc}d2 ||
+{ag}a2 f/e/d {ag}a>d {gfg}f2 | {g}e2 {GdG}e>d {g}f/e/d {gBd}B2 | {Gdc}d>e {g}d>A {g}B<d {g}e>f | {ag}a>f {g}e>d {g}e<f {Gdc}d2 |
+{ag}a2 f/e/d {ag}a>d {gfg}f2 | {g}e2 {GdG}e>d {g}f/e/d {gBd}B2 | {Gdc}d>e {g}d>A {g}B<d {g}e>f | {ag}a>f {g}e>d {g}e<f {Gdc}d2 |]
+
+X:3
+T:Lexie McAskill
+R:Reel
+C:John McAskill
+M:C|
+L:1/8
+Q:"80 bpm"
+K:D
+[|: [2 a/ ] | {ef}e2 {A}e2 {g}d>e{A}e>d | {gef}e2 {g}d>B {g}G>{d}B{G}B>d | {gef}e2 {A}e2 {g}d>e{A}e>d | {g}e>g{a}f>d {gef}e2 {A}e3/2 :|]
+[|: f/ | {gf}g2 {a}f2 {gef}e2 {g}d>B | {gAd}A2 {g}d>B {g}G>{d}B{G}B>e | {gf}g2 {a}f2 {gef}e2 {g}d>B | {g}e>g{a}f>d {gef}e2 {A}e3/2 :|]
+g/ | {ef}e2 {A}e2 {gef}e2 {g}d>B | {g}A>{d}A{e}A>{d}B {g}G>A{g}B<d | {gef}e2 {A}e2 {gef}e2 {g}d>B |  {g}e>g{a}f>d {gef}e2 {A}e>g |
+{ef}e2 {A}e2 {gef}e2 {g}d>B | {g}A>{d}A{e}A>{d}B {g}G>A{g}B<d | {gef}e2 {A}e2 {gef}e2 {g}d>B | {g}e>g{a}f>d {gef}e2 {gf}g2 ||
+a>e{A}e>a e<{A}e{g}d>B | {gAd}A2 {g}d>B {g}G>{d}B{G}B>e | a>e{A}e>a e<{A}e{g}d>B | {g}e>g{a}f>d {gef}e2 {gf}g2 |
+a>e{A}e>a e<{A}e{g}d>B | {gAd}A2 {g}d>B {g}G>{d}B{G}B>e | a>e{A}e>a e<{A}e{g}d>B | {g}e>g{a}f>d {gef}e2 {A}e |]

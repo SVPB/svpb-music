@@ -40,8 +40,8 @@ G3MARCHES = dream_valley.abc Killiecrankie.abc
 G3MISC = grans.abc banks_of_the_lossie.abc tune_for_lottie.abc
 G3HORNPIPES = g3_hornpipes.abc
 #G3JIG = g3_jig.abc
-G4MEDLEY = g4_medley.abc
-G4MSR = g4_msr_p1.abc g4_msr_p2.abc
+G4MEDLEY = g4_medley_2023.abc
+G4MSR = g4_msr_2023.abc
 G4MARCHES = dream_valley.abc Killiecrankie.abc
 PARADE = banks_of_the_lossie.abc irish_set.abc MarchOfTheRBL.abc john_barclay.abc \
    dream_valley.abc castle_dangerous.abc Moonstar.abc Moonstar_seconds.abc

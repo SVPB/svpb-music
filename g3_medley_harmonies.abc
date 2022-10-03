@@ -35,8 +35,7 @@ K:D
  {g}d2c {g}(B3 | (B3) B3) | {G}(B3 (B3) | (B3) B3) |
  {g}A{d}A{e}A {g}(A3 | (A3) A3)  [M:9/8] | {g}(G3 G3) {g}de{A}e [M:3/4] "Slow Air Tempo" | {g}e4 {g}d<e |]
 
-
-X:4
+X:3
 T:New Slow Air
 T:Harmony 1
 C:Lyric Todkill
@@ -44,11 +43,13 @@ L:1/8
 R:Slow Air
 M:3/4
 K:D
+Q:"68 bpm"
 [| {g}Bd {ag}a3g | {a}fa {c}d3c | {g}B4 d2 | {g}e4 {g}ec | 
 {g}d2 {g}e/(d d2)| {g}df a3 e | {g}d2 {g}Bd e2 | {g}f3 g ae ||
-dA/A/ dA/A/ B/d/g/f/ | {g}a/g/f {gc}d2e2 | dA/A/ dA/A/ B/d/B | {ge}d3 c2 B |
-f3 e df | {g}a/g/f {gc}d4 | e2 c2 e2 | f4 a2 |
-{g}Bd {ag}a3g [M:5/4]| {a}fd {g}A/B/d {gf}d4 {g}c/d/e "Spey Time"[M:C]|{ag}e4 a4 |]
+f3 e d2 | {g}e/d/B B4 | d2 f2 dB | A5 {g}A |
+c4 B2 | {g}e/d/B B4 | A2 e2 A2 | A4 A2 |
+"Watch foot"{g}!tenuto!B!tenuto!d {ag}a3g [M:5/4]| {a}fd {g}A/B/d {gf}B3 A {g}A/B/c "Spey Time"[M:C]|{ag}c4 A4 |]
+
 
 X:4
 T:New Slow Air
@@ -58,11 +59,12 @@ L:1/8
 R:Slow Air
 M:3/4
 K:D
-[| {g}Bd {ag}a3g | {a}fa {c}d3c | {g}B4 d2 | {g}e4 {g}ec | 
+Q:"68 bpm"
+[| {g}Bd {ag}a3g | {a}fa {c}d3c | {g}Bd {gf}g3B | {d}c4 {G}A2 | 
 {g}B2 {g}e/d/(B B2)| {g}B2 A4 | {g}G2 {g}G2 A2 | A3 B dc ||
-f3 e d2 | {g}e/d/B B4 | d2 f2 dB | A5 {g}A |
-c4 B2 | {g}e/d/B B4 | A2 e2 A2 | A4 A2 |
-{g}Bd {ag}a3g [M:5/4]| {a}fd {g}A/B/d {gf}B3 A {g}c/d/e "Spey Time"[M:C]|{ag}c4 A4 |]
+dA/A/ dA/A/ B/d/g/f/ | {g}a/g/f {gc}d2e2 | dA/A/ dA/A/ B/d/B | {ge}d4 cB |
+f3 e df | {g}a/g/f {gc}d4 | e2 c2 e2 | f4 A2 |
+"Watch foot"{g}!tenuto!B!tenuto!d {ag}a3g [M:5/4]| {a}fd {g}A/B/d {gf}d4 {g}c/d/e "Spey Time"[M:C]|{ag}e4 g4 |]
 
 X:5
 T:New Slow Air
@@ -73,10 +75,10 @@ R:Slow Air
 M:3/4
 K:D
 [| {g}Bd {ag}a3g | {a}fa {c}d3c | {g}Bd {gf}g3B | {d}c4 {G}A2 | 
-{g}Bd {ag}a3g | {a}fa {c}d3c | {g}Bd {gf}g2a2 | {c}d3e {g}fg ||
-{ag}a3g {a}fd | {g}A/B/d {gf}g3a | f3a {fg}fd | {ag}(a4 a3)d |
+{g}Bd {ag}a3g | {a}fa {c}d3c | {g}Bd {gf}g2{ag}a2 | {c}d3e {g}fg ||
+{ag}a3g {a}fd | {g}A/B/d {gf}g3a | {e}f3a {fg}fd | {ag}(a4 a3)d |
 {ag}a3g {a}fd | {g}A/B/d {gf}g3d | {g}c2 {ag}a2 g2 | {a}e2 d2 {G}A2 |
-{g}Bd {ag}a3g [M:5/4]| {a}fd {g}A/B/d G3A {g}c/d/e "Spey Time"[M:C]|{g}A4 e4 |]
+"Watch foot"{g}!tenuto!B!tenuto!d [M:5/4]| {a}fd {g}A/B/d G3A {g}A/B/c "Spey Time"[M:C]|{g}A4 e4 |]
 
 X:6
 T:MacArthur Road
@@ -91,7 +93,7 @@ K:D
 {g}dA {gAGAG}A2 {g}dAeA | {g}d8 | {e}A8 | {g}d4 {e}A4 |
 {g}dA {gAGAG}A2 {g}dAeA | {g}d8 | {e}A8 | {g}AB{g}de {Gdc}d2 {g}de |
 {g}dA {gAGAG}A2 {g}dAeA | {g}dAeA {g}d4| {g}A8 | {g}c4 {g}f2g2 |
-"    Welcome back to wish.com"d4 d2 B2 | d2 A2 agf2  | G4 d4 | f2 a2 A4 | A4 cdec |
+"    Welcome back to wish.com"d4 d2 B2 | d2 A2 agf2  | G4 d4 | f2 A2 a4 | A4 cdec |
 {g}(f8 | f8) | {g}a8 | {g}d3 a3 f2 | {g}(a8 | a2) g2 f z3 |]
 
 X:7
@@ -107,7 +109,7 @@ K:D
 {g}fA {gAGAG}A2 {g}fAgA | {gfg}f2 ge {g}fd{g}Bd | {gef}e2 {A}ef {g}ed{g}Bd | {g}ef{g}fd {g}ed{g}Bd |
 {g}fA {gAGAG}A2 {g}fAgA | {gfg}f2 ge {g}fd{g}Bd | {gef}e2 {A}ef {g}ed{g}B{d}A | {g}AB{g}de {Gdc}d2 {g}de |
 {g}f4 {g}f2 g2 | f2 g2 f4 | {g}(e8 | e4) {g}f2g2 |
-"Welcome back to Wish.com"{g}dA {gAGAG}A2 {g}AB{g}de | {g}fA gA {g}ed{g}A2 | dedc BcBG | A2f2 ecae | ce ABce |
+"Welcome back to Wish.com"{g}dA {gAGAG}A2 {g}AB{g}de | {g}fA gA {g}ed{g}A2 | dedc BcBG | A2f2 f4 | f2e2 ABce |
 {g}(d8 | d8) | {g}A8 | {g}B3 d3 A2 | {g}(A8 | A2) B2 {g}A z3 |]
 
 X:8
@@ -123,7 +125,7 @@ K:D
 {g}fA {gAGAG}A2 {g}fAgA | {gfg}f2 ge {g}fd{g}Bd | {gef}e2 {A}ef {g}ed{g}Bd | {g}ef{g}fd {g}ed{g}Bd |
 {g}fA {gAGAG}A2 {g}fAgA | {gfg}f2 ge {g}fd{g}Bd | {gef}e2 {A}ef {g}ed{g}B{d}A | {g}AB{g}de {Gdc}d2 {g}de |
 {g}fA {gAGAG}A2 {g}fAgA | {g}fAgA {g}fd{g}Bd | {gef}e2 {A}ef {g}ed{g}Bd | {g}e4 {g}f2g2 |
-"    Welcome back to Wish.com"{ag}(a4 a2)g2 | f2d2 ABd2 | g8 | d4 c4 | a4 cdea |
-A8 | A8 | {g}e3f {g}ed{g}B{d}A | {gf}g3 {a}f3 d2 | {g}e3f {g}ed{g}B{d}(A | A)B{g}de {g}d z3 |]
+"    Welcome back to wish.com"{ag}(a4 a2)g2 | f2d2 ABd2 | g8 | d4 c4 | a4 cdea |
+A8 | A8 | {g}e3f {g}ed{g}B{d}A | {gf}g3 {a}f3 d2 | {g}e3f {g}ed{g}B{d}(A | A)B{g}de a z3 |]
 
 

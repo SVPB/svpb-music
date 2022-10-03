@@ -36,7 +36,7 @@ K:D
  {g}A{d}A{e}A {g}(A3 | (A3) A3)  [M:9/8] | {g}(G3 G3) {g}de{A}e [M:3/4] "Slow Air Tempo" | {g}e4 {g}d<e |]
 
 X:3
-T:New Slow Air
+T:The Wish
 T:Harmony 1
 C:Lyric Todkill
 L:1/8
@@ -45,14 +45,14 @@ M:3/4
 K:D
 Q:"68 bpm"
 [| {g}Bd {ag}a3g | {a}fa {c}d3c | {g}B4 d2 | {g}e4 {g}ec | 
-{g}d2 {g}e/(d d2)| {g}df a3 e | {g}d2 {g}Bd e2 | {g}f3 g ae ||
-f3 e d2 | {g}e/d/B B4 | d2 f2 dB | A5 {g}A |
-c4 B2 | {g}e/d/B B4 | A2 e2 A2 | A4 A2 |
-"Watch foot"{g}!tenuto!B!tenuto!d {ag}a3g [M:5/4]| {a}fd {g}A/B/d {gf}B3 A {g}A/B/c "Spey Time"[M:C]|{ag}c4 A4 |]
+{g}d2 {g}e/(d d2)| {g}df a3 e | {g}d2 {g}Bd {g}e2 | {g}f3 g ae ||
+{g}f3 e {g}d2 | {g}e/d/A {g}B4 |{c}d2 f2 {g}dB | (A4 A) B |
+{g}c4 B2 | {g}e/d/A {g}B4 | {g}A2 e2 A2 | A4 {G}A2 |
+"Watch foot"{g}!tenuto!B!tenuto!d {ag}a3g [M:5/4]| {a}fd {g}A/B/d {g}d4 {g}c/d/e "Spey Time"[M:C]|{g}e4 {gf}g4 |] 
 
 
 X:4
-T:New Slow Air
+T:The Wish
 T:Harmony 2
 C:Lyric Todkill
 L:1/8
@@ -61,13 +61,13 @@ M:3/4
 K:D
 Q:"68 bpm"
 [| {g}Bd {ag}a3g | {a}fa {c}d3c | {g}Bd {gf}g3B | {d}c4 {G}A2 | 
-{g}B2 {g}e/d/(B B2)| {g}B2 A4 | {g}G2 {g}G2 A2 | A3 B dc ||
-dA/A/ dA/A/ B/d/g/f/ | {g}a/g/f {gc}d2e2 | dA/A/ dA/A/ B/d/B | {ge}d4 cB |
-f3 e df | {g}a/g/f {gc}d4 | e2 c2 e2 | f4 A2 |
-"Watch foot"{g}!tenuto!B!tenuto!d {ag}a3g [M:5/4]| {a}fd {g}A/B/d {gf}d4 {g}c/d/e "Spey Time"[M:C]|{ag}e4 g4 |]
+{g}B2 {g}e/d/(B B2)| {g}B2 {G}A4 | {g}(G2 G2) {g}(A2 | A3) B {g}dc ||
+{g}dA/{d}A/ {g}dA/{d}A/ {g}B/d/g/f/ | a/g/{a}f {gc}d2e2 | {g}dA/{d}A/ {g}dA/{d}A/ B/d/B | {gc}d4 {g}cB |
+{g}f3 e {g}df | a/g/f {gc}d4 | {g}e2 c2 {g}e2 | {g}f4 {G}A2 |
+"Watch foot"{g}!tenuto!B!tenuto!d {ag}a3g [M:5/4]| {a}fd {g}A/B/d {g}B3 {G}A {g}A/B/c "Spey Time"[M:C]|{g}c4 {e}A4 |]
 
 X:5
-T:New Slow Air
+T:The Wish
 T:Harmony 3
 C:Lyric Todkill
 L:1/8
@@ -78,13 +78,41 @@ K:D
 {g}Bd {ag}a3g | {a}fa {c}d3c | {g}Bd {gf}g2{ag}a2 | {c}d3e {g}fg ||
 {ag}a3g {a}fd | {g}A/B/d {gf}g3a | {e}f3a {fg}fd | {ag}(a4 a3)d |
 {ag}a3g {a}fd | {g}A/B/d {gf}g3d | {g}c2 {ag}a2 g2 | {a}e2 d2 {G}A2 |
-"Watch foot"{g}!tenuto!B!tenuto!d [M:5/4]| {a}fd {g}A/B/d G3A {g}A/B/c "Spey Time"[M:C]|{g}A4 e4 |]
+"Watch foot"{g}!tenuto!B!tenuto!d {ag}a3g [M:5/4]| {a}fd {g}A/B/d G3{d}A {g}A/B/c "Spey Time"[M:C]|{g}A4 {g}e4 |]
 
 X:6
+T:Fiddler's Joy
+T:Harmony 1
+R:Strathspey
+Z:Transcribed 31 May, 2018 by Stephen Beitzel
+C:Trad., arr. by Adam Blaine
+M:C
+L:1/8
+K:D
+[| {a}f8| {g}e8 | {Gdc}d2 {g}f<a {AGAG}A>a f/e/d | {gcd}c<{e}A {a}g/f/e {Gdc}d2 {gdG}d>A |
+{Gdc}d2 {g}f<a {AGAG}A>a f/e/d | {gcd}c2 {e}A>{d}c {g}e>f {a}g/f/e | {Gdc}d2 {g}f<a {AGAG}A>a f/e/d | {gcd}c<{e}A {a}g/f/e {Gdc}d2 {gdG}d>A |
+{Gdc}d>e {g}f>d {g}f<a {fg}f>d | {gf}g>A {gef}e>d {g}c<e {g}A/B/c | {Gdc}d>e {g}f>d {g}f<a {fg}f>d | {gcd}c<{e}A {a}g/f/e {Gdc}d2 {gdG}d>A |
+{Gdc}d>e {g}f>d {g}f<a {fg}f>d | {gf}g>A {gef}e>d {g}c<e {A}e/f/g | a/g/f {a}g/f/e {g}f/e/d {g}e/f/g [M:2/4] | {cd}c<{e}A {a}g/f/e [M:C|] | "Reel Tempo" {Gdc}d4 {g}B2c2 |]
+
+X:7
+T:Fiddler's Joy
+T:Harmony 2
+R:Strathspey
+Z:Transcribed 31 May, 2018 by Stephen Beitzel
+C:Trad., arr. by Adam Blaine
+M:C
+L:1/8
+K:D
+[| {Gdc}d8| {g}c8 | {Gdc}d2 {g}f<a {AGAG}A>a f/e/d | {gcd}c<{e}A {a}g/f/e {Gdc}d2 {gdG}d>A |
+{Gdc}d2 {g}f<a {AGAG}A>a f/e/d | {gcd}c2 {e}A>{d}c {g}e>f {a}g/f/e | {Gdc}d2 {g}f<a {AGAG}A>a f/e/d | {gcd}c<{e}A {a}g/f/e {Gdc}d2 {gdG}d>A |
+{Gdc}d>e {g}f>d {g}f<a {fg}f>d | {gf}g>A {gef}e>d {g}c<e {g}A/B/c | {Gdc}d>e {g}f>d {g}f<a {fg}f>d | {gcd}c<{e}A {a}g/f/e {Gdc}d2 {gdG}d>A |
+{Gdc}d>e {g}f>d {g}f<a {fg}f>d | {gf}g>A {gef}e>d {g}c<e {A}e/f/g | a/g/f {a}g/f/e {g}f/e/d {g}e/f/g [M:2/4] | {cd}c<{e}A {a}g/f/e [M:C|] | "Reel Tempo" {Gdc}d4 {g}B2c2 |]
+
+X:8
 T:MacArthur Road
-T: Harmony 1
+T:Harmony 1
 R:Reel
-C: Adam Blaine
+C:Adam Blaine
 L:1/8
 M:C|
 K:D
@@ -96,7 +124,7 @@ K:D
 "    Welcome back to wish.com"d4 d2 B2 | d2 A2 agf2  | G4 d4 | f2 A2 a4 | A4 cdec |
 {g}(f8 | f8) | {g}a8 | {g}d3 a3 f2 | {g}(a8 | a2) g2 f z3 |]
 
-X:7
+X:9
 T:MacArthur Road
 T:Harmony 2
 R:Reel
@@ -112,7 +140,7 @@ K:D
 "Welcome back to Wish.com"{g}dA {gAGAG}A2 {g}AB{g}de | {g}fA gA {g}ed{g}A2 | dedc BcBG | A2f2 f4 | f2e2 ABce |
 {g}(d8 | d8) | {g}A8 | {g}B3 d3 A2 | {g}(A8 | A2) B2 {g}A z3 |]
 
-X:8
+X:10
 T:MacArthur Road
 T:Harmony 3
 R:Reel

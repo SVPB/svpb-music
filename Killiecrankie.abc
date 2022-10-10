@@ -8,6 +8,7 @@ C:Rabbie Burns arr Adam Blaine
 R:March
 M:4/4
 L:1/8
+Q:"80 bpm"
 K:D
 [| {g}f>g |{ag}a3 A {GAG}A2 {g}B{d}c | {Gdc}d2 {e}G2 {gGd}G3 {gf}g | {a}f3 a {f}gf{g}ed |{gfg}f2 {g}e2 {geA}e2 {g}fg | 
 {ag}a3 A {GAG}A2 {g}B{d}c | {Gdc}d2 {e}G2 {gGd}G2 {ag}a>g | {a}f>g {ag}af {g}e3 d | {g}B2 {Gdc}d2 {gdG}d2 {g}de |
@@ -21,6 +22,7 @@ C:arr Adam Blaine
 R:March
 M:4/4
 L:1/8
+Q:"80 bpm"
 K:D
 [| {g}f>g |{ag}a3 A {GAG}A2 {g}B{d}c | {Gdc}d2 {e}G2 {gGd}G3 d  | {g}d2 A2 {g}d2 e2 | {g}d4 {g}dc ae | 
 (f2 (f2) f2) fe | {gf}g2 d2 {g}B2 d2 | {g}d4 {ag}(a2 a2) | {g}a2 g2 {a}f2 {g}fe ||
@@ -34,6 +36,7 @@ C:arr Adam Blaine
 R:March
 M:4/4
 L:1/8
+Q:"80 bpm"
 K:D
 [| {g}f>g |{ag}a3 A {GAG}A2 {g}B{d}c | {Gdc}d2 {e}G2 {gGd}G3 B  | {g}A2 d2 {g}A4 | {g}(A2 (A2) A2) {g}AB | 
 {g}(c2 (c2) c2) {g}dA | {g}G2 B2 {g}d2 B2 | {g}A2 B2 {g}c3 B | {g}G2 A2 {gAG}A2 {g}de ||
@@ -48,6 +51,7 @@ C:arr Adam Blaine
 R:March
 M:4/4
 L:1/8
+Q:"80 bpm"
 K:D
 [| {g}f>g |{ag}a3 A {GAG}A2 {g}B{d}c | {Gdc}d2 {e}G2 {gGd}G3 {gf}g | {ag}a3 a {f}gf{g}ed |{gfg}f2 {g}e2 {geA}e2 {g}fg | 
 {ag}a3 A {GAG}A2 {g}B{d}c | {Gdc}d2 {e}G2 {gf}g2 {ag}a>g | {a}f4 {g}A3 B | {g}d2 {g}e2 {gdG}d2 {g}de |

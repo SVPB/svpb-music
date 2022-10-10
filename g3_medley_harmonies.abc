@@ -18,7 +18,7 @@ K:D
 [| a2{GdG}a {f}g2 e | {g}edg {ef}e2 d | {gBd}B2 {e}G {g}G{d}G{e}G | {g}dB{d}G {gBd}B2 e |
  a2{GdG}a {f}g2 e | {g}edg {ef}e2 d | {gef}e2 d {gf}g2 G | {g}B{d}A{e}A {g}Ade |
  {g}f3 (e3 | (e3) e3) | {gf}(g3 (g3) | (g3) g3) |
- (e3 (e3) | (e3) e3)  [M:9/8] | {gf}(g3 g3) {a}ga{g}a [M:3/4] "Slow Air Tempo" | {g}a4 d<e|]
+ (e3 (e3) | (e3) e3)  [M:9/8] | {gf}(g3 g3) {a}ga{g}a [M:2/4] "Slow Air Tempo" | {g}a4|]
 
 X:2
 T:Skyeman's Jig
@@ -33,7 +33,7 @@ K:D
 [| a2{GdG}a {f}g2 e | {g}edg {ef}e2 d | {gBd}B2 {e}G {g}G{d}G{e}G | {g}dB{d}G {gBd}B2 e |
  a2{GdG}a {f}g2 e | {g}edg {ef}e2 d | {gef}e2 d {gf}g2 G | {g}B{d}A{e}A {g}Ade |
  {g}d2c {g}(B3 | (B3) B3) | {G}(B3 (B3) | (B3) B3) |
- {g}A{d}A{e}A {g}(A3 | (A3) A3)  [M:9/8] | {g}(G3 G3) {g}de{A}e [M:3/4] "Slow Air Tempo" | {g}e4 {g}d<e |]
+ {g}A{d}A{e}A {g}(A3 | (A3) A3)  [M:9/8] | {g}(G3 G3) {g}de{A}e [M:2/4] "Slow Air Tempo" | {g}e4 |]
 
 X:3
 T:The Wish
@@ -121,7 +121,7 @@ K:D
 {g}dA {gAGAG}A2 {g}dAeA | {g}d8 | {e}A8 | {g}d4 {e}A4 |
 {g}dA {gAGAG}A2 {g}dAeA | {g}d8 | {e}A8 | {g}AB{g}de {Gdc}d2 {g}de |
 {g}dA {gAGAG}A2 {g}dAeA | {g}dAeA {g}d4| {g}A8 | {g}c4 {g}f2g2 |
-"    Welcome back to wish.com"d4 d2 B2 | d2 A2 agf2  | G4 d4 | f4 a4 | A4 cdec |
+"    Welcome back to wish.com"{a}d4 {g}d2 B2 | {g}d2 A2 agf2  | {g}G4 {g}d4 | {g}f4 a4 | A4 {g}cd{g}ec |
 {g}(f8 | f8) | {g}a8 | {g}d3 a3 f2 | {g}(a8 | a2) g2 f z3 |]
 
 X:9
@@ -154,6 +154,6 @@ K:D
 {g}fA {gAGAG}A2 {g}fAgA | {gfg}f2 ge {g}fd{g}Bd | {gef}e2 {A}ef {g}ed{g}B{d}A | {g}AB{g}de {Gdc}d2 {g}de |
 {g}fA {gAGAG}A2 {g}fAgA | {g}fAgA {g}fd{g}Bd | {gef}e2 {A}ef {g}ed{g}Bd | {g}e4 {g}f2g2 |
 "    Welcome back to wish.com"{ag}(a4 a2)g2 | {a}f2d2 {g}ABd2 | {gf}g8 | d4 {g}(c4 | c4) {g}cd{g}ea |
-A8 | A8 | {g}e3f {g}ed{g}B{d}A | {gf}g3 {a}f3 d2 | {g}e3f {g}ed{g}B{d}(A | A)B{g}de a z3 |]
+(A8 | A8) | {g}e3f {g}ed{g}B{d}A | {gf}g3 {a}f3 d2 | {g}e3f {g}ed{g}B{d}(A | A)B{g}de a z3 |]
 
 

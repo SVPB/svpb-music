@@ -1,0 +1,16 @@
+%abc-2.2
+I:abc-include style.abh
+%%landscape 1
+
+X:1
+T:O Come All Ye Faithful
+C:Trad/arr. J. McGillivray
+R:Christmas Hymn
+M:4/4
+L:1/4
+K:D
+{Gdc}d [|: {gde}d2 {e}A d | {gef}e2 {G}A2 | {g}f e {g}f {gf}g | {fg}f2 {g}e {Gdc}d |
+{gde}d2 {gcd}c B | {g}c d {g}e f | {gcd}c2 {gBd}B> {G}A | {g}A4 |
+{ag}a2 {f}g f | {gf}g2 {fg}f2 | {g}e f {Gdc}d e | {gcd}c>{e}B {G}A {Gdc}d |
+{gde}d c {Gdc}d e | {Gdc}d2 {G}A f | {gfg}f e {g}f {gf}g | {fg}f2 {g}e f |
+{gf}g f {g}e d | {gcd}c2 {Gdc}d {gf}g | {fg}f2 {g}e>{c}d | {g}d4 :|]

@@ -1,0 +1,17 @@
+#!/usr/bin/perl
+use strict;
+use warnings FATAL => 'all';
+
+my $dir = $ENV{"ZULEIKA_DIR"};
+my $build_root = $ENV{"ZULEIKA_REPO"};
+my $current_branch = "2023";
+
+# really, there ought to be a tool branch that maybe holds all the tools,
+# separate from the ABC files. As it is, let's just stack this up with
+# all the other technical debt and document it in "how to start a new year"
+
+chdir "$build_root/$current_branch";
+print "changed directory to $build_root/$current_branch\n";
+system('make sync');
+
+# refreshing the access token is a side effect of the sync process.

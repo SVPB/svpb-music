@@ -1,0 +1,8 @@
+[Unit]
+Description=Runs rsync with Box so that the access token gets refreshed.
+
+[Service]
+Type=oneshot
+ExecStart=/var/zuleika/mtbin/tokenrefresh
+User=www-data
+Group=www-data

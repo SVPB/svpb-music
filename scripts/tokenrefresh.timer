@@ -1,0 +1,9 @@
+[Unit]
+Description=Run tokenrefresh every five days
+
+[Timer]
+OnBootSec=6min
+OnCalendar=weekly
+
+[Install]
+WantedBy=timers.target

@@ -10,7 +10,7 @@ C:R.P.F. Cusson arr. Adam Blaine
 M:2/4
 L:1/16
 K:D
-Q:"87 bpm"
+Q:"90 bpm"
 [| {g}A2{GAG}A2 {g}ABc{g}(B | B){d}G{e}GB {g}ce{g}cd | {g}e2{g}A2 {GAG}A3c | {g}dA{gcecG}c2 {g}B2{e}G2 |
 {g}A{d}A{g}Bc {g}B2{g}GB | {g}c(ee){A}e {g}dc{G}cd | {g}e2A2 {g}GAB{g}(A | A4) {GAG}A2e2 |
 {g}A2{GAG}A2 {g}ABc{g}(B | B){d}G{e}GB {g}ce{g}cd | {g}e3{g}(A A3)c | {g}dAc{g}(B B)c{g}BG |
@@ -59,10 +59,10 @@ R:Slow Air
 M:3/4
 K:D
 Q:"68 bpm"
-[| {g}Bd {ag}a3g | {a}fa {c}d3c | {g}Bd {gf}g3B | {d}c4 {G}A2 | 
+[| {g}Bd {ag}a3g | {a}fa {c}d3c | {g}Bd {gf}g3B | {d}c4 {e}A2 | 
 {g}Bd {ag}a3g | {a}fa {c}d3c | {g}Bd {gf}g2{ag}a2 | {c}d3e {g}fg ||
 {ag}a3g {a}fd | {g}A/B/d {gf}g3a | {e}f3a {fg}fd | {ge}f2 {g}e3d |
-{ag}a3g {a}fd | {g}A/B/d {gf}g3d | {g}c2 {ag}a2 c2 | {g}d4 {G}A2 |
+{ag}a3g {a}fd | {g}A/B/d {gf}g3d | {g}c2 {ag}a2 c2 | {g}d4 {e}A2 |
 "Watch foot"{g}!tenuto!B!tenuto!d {ag}a3g [M:5/4]| {a}fd {g}A/B/d {gf}g3d {g}c/d/e "Spey Time 116 bpm"[M:C]|{ag}a4 c4 |]
 
 X:5

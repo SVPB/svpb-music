@@ -47,7 +47,7 @@ Q:"68 bpm"
 [| {g}Bd {ag}a3g | {a}fa {c}d3c | {g}B4 d2 | {g}e4 {g}ec | 
 {g}d2 {g}e/(d d2)| {g}df a3 e | {g}d2 {g}Bd {g}e2 | {g}f3 g ae ||
 {g}f3 e {g}d2 | {g}e/d/A {g}B4 |{c}d2 f2 {g}dB | (A4 A) B |
-{g}c4 B2 | {g}e/d/A {g}B4 | {g}A2 e2 A2 | A4 {G}A2 |
+{g}c4 B2 | {g}e/d/A {g}B4 | {g}A2 e2 A2 |{g}A4 {e}A2 |
 "Watch foot"{g}!tenuto!B!tenuto!d {ag}a3g [M:5/4]| {a}fd {g}A/B/d {g}d4 {g}c/d/e "Spey Time"[M:C]|{g}e4 {gf}g4 |] 
 
 
@@ -60,10 +60,10 @@ R:Slow Air
 M:3/4
 K:D
 Q:"68 bpm"
-[| {g}Bd {ag}a3g | {a}fa {c}d3c | {g}Bd {gf}g3B | {d}c4 {G}A2 | 
+[| {g}Bd {ag}a3g | {a}fa {c}d3c | {g}Bd {gf}g3B | {d}c4 {e}A2 | 
 {g}B2 {g}e/d/(B B2)| {g}B2 {G}A4 | {g}(G2 G2) {g}(A2 | A3) B {g}dc ||
 {g}dA/{d}A/ {g}dA/{d}A/ {g}B/d/g/f/ | a/g/{a}f {gc}d2e2 | {g}dA/{d}A/ {g}dA/{d}A/ B/d/B | {gc}d4 {g}cB |
-{g}f3 e {g}df | a/g/f {gc}d4 | {g}e2 c2 {g}e2 | {g}f4 {G}A2 |
+{g}f3 e {g}df | a/g/f {gc}d4 | {g}e2 c2 {g}e2 | {g}f4 A2 |
 "Watch foot"{g}!tenuto!B!tenuto!d {ag}a3g [M:5/4]| {a}fd {g}A/B/d {g}B3 {G}A {g}A/B/c "Spey Time"[M:C]|{g}c4 {e}A4 |]
 
 X:5
@@ -74,10 +74,10 @@ L:1/8
 R:Slow Air
 M:3/4
 K:D
-[| {g}Bd {ag}a3g | {a}fa {c}d3c | {g}Bd {gf}g3B | {d}c4 {G}A2 | 
+[| {g}Bd {ag}a3g | {a}fa {c}d3c | {g}Bd {gf}g3B | {d}c4 {e}A2 | 
 {g}Bd {ag}a3g | {a}fa {c}d3c | {g}Bd {gf}g2{ag}a2 | {c}d3e {g}fg ||
 {ag}a3g {a}fd | {g}A/B/d {gf}g3a | {e}f3a {fg}fd | {ag}(a4 a3)d |
-{ag}a3g {a}fd | {g}A/B/d {gf}g3d | {g}c2 {ag}a2 g2 | {a}e2 d2 {G}A2 |
+{ag}a3g {a}fd | {g}A/B/d {gf}g3d | {g}c2 {ag}a2 g2 | {a}e2 d2 {e}A2 |
 "Watch foot"{g}!tenuto!B!tenuto!d {ag}a3g [M:5/4]| {a}fd {g}A/B/d G3{d}A {g}A/B/c "Spey Time"[M:C]|{g}A4 {g}e4 |]
 
 X:6

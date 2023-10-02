@@ -1,0 +1,116 @@
+%abc-2.2
+I:abc-include style.abh
+%%footer "Page $P	SVPB G3 Medley 2024	Generated: $D"
+%%landscape 1
+%%scale 0.6
+X:1
+T:Beverley's wedding
+R:Hornpipe
+C:Mike Grey arr. Adam Blaine
+M:2/4
+L:1/16
+K:D
+Q:"90 bpm"
+[|:"second time only" e2 | {g}A>e{A}e>A {g}d>B{g}A>e | {A}e>A{g}e>f {a}g>e{g}d>B | {g}G>d{G}d>G {g}B>A{g}G>B | {Gdc}d2{g}B<d {g}e>d{g}B<{d}G |
+{g}A>e{A}e>A {g}d>B{g}A>e | {A}e>A{g}e>f {a}g>e{g}d>B | {g}G>{d}B{G}B>d {g}e>f{a}g>d | {gBd}B2{e}A2 {GAG}A2 :|]
+[|: {g}e>f | {a}g>A{g}e>f {g}A>e{A}e>f | {a}g>Aa>f {a}g>e{g}d>B | {g}G>d{G}d>G {g}B>A{g}G>B | {Gdc}d2{g}B<d {g}e>d{g}B<{d}G |
+[1 {a}g>A{g}e>f {g}A>e{A}e>f | {a}g>Aa>f {a}g>e{g}d>B | {g}G>{d}B{G}B>d {g}e>f{a}g>d | {gBd}B2{e}A2 {GAG}A2 :|]
+[2 {g}A>e{A}e>A {gAGAG}A2{g}d>B | {g}A>e{A}e>f {a}g>e{g}d>B [M:3/4]| {g}G>{d}B{G}B>d {g}e>f{a}g>f {gBd}B2{e}A2 [M:6/8] | {GAG}A12 |]
+
+X:2
+T:Shona's Jig
+C:Alistair E. Reese
+L:1/8
+R:Jig
+M:6/8
+K:D
+Q:"118 bpm"
+[|: {gAGAG}A2e {gef}e2d | e{g}e{A}e {gf}g2e | age {gf}g2e | {g}deg {a}edB | 
+{gAGAG}A2e {gef}e2d | e{g}e{A}e {gf}g2e | age {g}deg | {a}edB {gAGAG}A2e :|]
+[|: {gAGAG}A2a {g}a2e | g{a}eg {ag}a2e | g{a}ea ege | {g}deg {a}edB |
+[1 {gAGAG}A2a {g}a2e | g{a}eg {ag}a2e | age {g}deg | {a}edB {gAGAG}A2e :|]
+[2 {gAGAG}A2e {gef}e2d | e{g}e{A}e {gf}g2e | age {g}deg | {a}edB {gAGAG}A3 |]
+
+X:3
+T:Mad John's
+C:Chris Armstrong
+L:1/8
+R:Jig
+M:6/8
+K:D
+Q:"118 bpm"
+[| {g}f2A {g}Adf | {a}gB{G}B {ag}a2g | {a}f2{AGAG}A adf | {g}ec{d}A age | 
+{gfg}f2A {g}Adf | {a}gB{G}B {ag}a2g | {a}fda {ef}eca | d{g}d{G}d {g}dag | 
+{e}f2A {g}Adf | {a}gB{G}B {ag}a2g | {a}f2{AGAG}A a2{AGAG}A | {g}ec{d}A age |
+{gfg}f2A {g}Adf | {g}B{d}G{e}G {gf}g2a | f{g}da {ef}eca | d{g}d{G}d {g}d2 f ||
+{ag}a2f {g}dfa | g{a}B{G}B {gf}g2a | f2{AGAG}A adf | {g}ec{d}A age |
+{ag}a2f {g}dfa | g{a}B{G}B {gf}g2a | f{g}da {ef}eca | d{g}d{G}d {g}efg |
+{ag}a2f {g}dfa | g{a}B{G}B {gf}g2a | f2{AGAG}A a2{AGAG}A | {g}ec{d}A age |
+{gfg}f2A {g}Adf | {a}gB{G}B {gf}g2 | ({ag}a3 (a3) | a3) g2e [M:9|8]| age {g}deg {a}edB [M:2/4] |  {gAGAG}A4 |]
+
+X:5
+T:Angelsea Air
+C:Phil Hardy arr. Adam Blaine
+L:1/8
+R:Slow Air
+M:3/4
+K:D
+Q:"68 bpm"
+[| {g}de | {g}f4 {ag}a2 | {ef}e4 de | {ge}f4 {gef}ed | {A}B4 {g}AB | {gc}d4 {g}de | {g}f4 {g}dA | {GdG}B4 {ge}f2 | {gef}e3 A{g}de | 
+{g}f4 a2 | e6 | {a}gf {e}f2 {g}ed | {A}B3 {g}BAB | {gc}d4 {g}d/e/f | {gef}e3 {A}edc | {Gdc}d6 | {gdG}d4 {g}dc |
+{gBd}B4 {G}B2 | {G}A3 {g}Ade | {gf}g2 a2 f/e/d | {A}B3 {g}BAB | {gc}d4 {g}de | {g}f4 {g}dA | {GdG}B4 {ge}f2 | {gef}e3 A{g}de |
+{g}f4 {ag}a2 | {ef}e3 {g}Ade | {a}gf {e}f2 {g}ed | {A}B3 {g}BAB | {gc}d4 {g}d/e/f | {gef}e3 {A}edc | {Gdc}d6 |
+
+X:5
+T:Angelsea Air
+C:Phil Hardy arr. Adam Blaine
+L:1/8
+R:Slow Air
+M:3/4
+K:D
+Q:"68 bpm"
+[| {g}de | {g}f4 {ag}a2 | {ef}e4 de | {ge}f4 {gef}ed | {A}B4 {g}AB | {gc}d4 {g}de | {g}f4 {g}dA | {GdG}B2 d2 d2 | c4 Bc | 
+{g}dc dd ed | c6 | e2 d2 gf  | g6 | f4 d/e/f  | a4 a2 | g4 ag | f4 dc |
+f6 | f4 fe| dB de a2 |  g6 | f4 fe | a6 | g4 d2 | c4 de |
+{g}dc dd ed | c4 dc | e2 d2 gf  | g6 | f4 d/e/f  | a4 a2 | g4 ag | f4 dc |
+
+X:5
+T:Angelsea Air
+C:Phil Hardy arr. Adam Blaine
+L:1/8
+R:Slow Air
+M:3/4
+K:D
+Q:"68 bpm"
+[| {g}de | {g}f4 {ag}a2 | {ef}e4 de | {ge}f4 {gef}ed | {A}B4 {g}AB | {gc}d4 {g}de | {g}f4 {g}dA | {GdG}B4 {ge}f2 | {gef}e3 A{g}de | 
+{g}A6 | A6 | B2 A2 B2  | G3 {g}GAG | B4 B2 | c4 BA | B2 G2 B2  |A3 Adc|
+d6 | c3 cA2 | G2 A2 BA|  G3 {g}GAG | A6 | c6 | d4 BA | A4 de |
+{g}A6 | A6 | B2 A2 B2  | G3 {g}GAG | B4 B/A/B | c4 BA | A6 
+
+X:6
+T:DJS Murray
+C:PM Angus MacDonald arr. Adam Blaine
+R:Reel
+M:C|
+L:1/8
+K:D
+Q:"87 bpm"
+[| {g}B2 {d}B2 {g}f2 {g}ef | {ag}a2 fa {fg}fe{g}ce | {g}A{d}A{e}A{d}c {gef}e2 {g}ce | {g}faga {fg}fe{g}c{d}A |
+{g}B{d}B{e}B{d}c {g}f2 {g}ef | {ag}a2 fa {fg}fe{g}ce | {gAGAG}A2 {g}A{d}c {ag}a3e | {cd}cB{G}BA {g}B{d}B{g}ce ||
+{g}fe{g}fa {fg}f2 {g}ef | a2 fa {fg}fe{g}fa | {gAGAG}A2 {g}A{d}c {gef}e2 {g}ce | {g}faga {fg}fe{g}c{d}A |
+{g}fe{g}fa {fg}f2 {g}ef | ae{g}fa {fg}fe{g}fa | {gAGAG}A2 {g}A{d}c {ag}a3e | {cd}cB{G}BA {g}B2 e2 |]
+
+X:7
+T:Mele's
+R:Reel
+C:Chris Gray
+L:1/8
+M:C|
+K:D
+Q:"87 bpm"
+[|: {gAGAG}A2 {g}AB {gcd}c2 {g}B{d}A | {g}eA{d}ce {g}fd{G}df | {g}eA{g}c{d}A {gcd}c2 {g}B{d}A | {g}fe{A}ec {A}B2 {g}cB |
+{gAGAG}A2 {g}AB {gcd}c2 {g}B{d}A | {g}eA{d}ce {g}fA{g}df | {ag}a2 {cd}ce {g}dB{g}GA | {g}B{G}B{g}Bc {G}A2{g}e2 :|]
+{g}fA{g}df a{g}aef | {g}eA{g}c{d}A {g}cd{G}df | {g}ec{g}AB {gcd}c2 {g}B{d}A | {g}fe{A}ec {A}B2 {g}ce | 
+{g}fA{g}df a{g}aef | {g}ec{g}B{d}c {g}AB{g}c{d}A | {ag}a2 {cd}ce {g}dB{g}GA | {g}B{G}B{g}Bc {g}AB{g}ce | 
+{g}fA{g}df a{g}aef | {g}eA{g}c{d}A {g}cd{G}df | {g}ec{g}AB {gcd}c2 {g}B{d}A | {g}fe{A}ec {A}B2 {g}cB | 
+{gAGAG}A2 {g}AB {gcd}c2 {g}B{d}A [M:3/2]| {g}eA{d}ce {g}f4 [M:C|]| {g}f2a2 e2 {g}BA | {g}B{G}B{g}Bc {G}A2 z2 |]

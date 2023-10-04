@@ -46,24 +46,7 @@ Q:"118 bpm"
 {ag}a2f {g}dfa | g{a}B{G}B {gf}g2a | f2{AGAG}A adf | {g}ec{d}A age |
 {ag}a2f {g}dfa | g{a}B{G}B {gf}g2a | f{g}da {ef}eca | d{g}d{G}d {g}efg |
 {ag}a2f {g}dfa | g{a}B{G}B {gf}g2a | f2{AGAG}A a2{AGAG}A | {g}ec{d}A age |
-{gfg}f2A {g}Adf | {g}B{d}G{e}G {gf}g3 | {ag}(a3 (a3) [M:9|8] | a3) (g3 g3) ]| age {g}deg {a}edB [M:2/4] |  {gAGAG}A4 |]
-
-X:3
-T:Mad John's
-C:Chris Armstrong
-L:1/8
-R:Jig
-M:6/8
-K:D
-Q:"118 bpm"
-[| {g}f2A {g}Adf | {a}gB{G}B {ag}a2g | {a}f2{AGAG}A adf | {g}ec{d}A age | 
-{gfg}f2A {g}Adf | {a}gB{G}B {ag}a2g | {a}fda {ef}eca | d{g}d{G}d {g}dag | 
-{e}f2A {g}Adf | {a}gB{G}B {ag}a2g | {a}f2{AGAG}A a2{AGAG}A | {g}ec{d}A age |
-{gfg}f2A {g}Adf | {g}B{d}G{e}G {gf}g2a | f{g}da {ef}eca | d{g}d{G}d {g}d2 f ||
-{ag}a2f {g}dfa | g{a}B{G}B {gf}g2a | f2{AGAG}A adf | {g}ec{d}A age |
-{ag}a2f {g}dfa | g{a}B{G}B {gf}g2a | f{g}da {ef}eca | d{g}d{G}d {g}efg |
-{ag}a2f {g}dfa | g{a}B{G}B {gf}g2a | f2{AGAG}A a2{AGAG}A | {g}ec{d}A age |
-{gfg}f2A {g}Adf | {g}B{d}G{e}G {gf}g3 | {ag}(a3 (a3) | a3) g2e [M:9|8]| age {g}deg {a}edB [M:2/4] |  {gAGAG}A4 |]
+{gfg}f2A {g}Adf | {g}B{d}G{e}G {gf}g3 | {ag}(a3 (a3) [M:9|8] | a3) (g3 g3) | age {g}deg {a}edB [M:2/4] |  {gAGAG}A4 |]
 
 X:4
 T:Angelsea Air
@@ -76,7 +59,7 @@ Q:"68 bpm"
 [| {g}de | {g}f4 {ag}a2 | {ef}e4 {g}de | {g}f4 {gef}ed | {A}B4 {g}AB | {gc}d4 {g}de | {g}f4 {g}dA | {GdG}B4 {ge}f2 | {gef}e3 A{g}de | 
 {g}f4 {ag}a2 | {ef}e6 | {a}gf {e}f2 {g}ed | {A}B3 {d}B{g}AB | {gc}d4 {g}d/e/f | {gef}e3 {A}e{g}dc | {Gdc}d6 | {gdG}d3 A{g}dc ||
 {gBd}B4 {G}B2 | {G}A3 {d}A{g}de | {gf}g2 {ag}a2 f/e/d | {A}B3 {d}B{g}AB | {gc}d4 {g}de | {g}f4 {g}dA | {GdG}B4 {ge}f2 | {gef}e4 {g}de |
-{g}f4 {ag}a2 | {ef}e3 A{g}de | {a}gf {e}f2 {g}ed | {A}B4 {g}AB "BPM 116" | {Gdc}d4 {g}d<f [M:4/4] | {ef}e2 {g}d<c {Gdc}d2 {ag}a2 |]
+{g}f4 {ag}a2 | {ef}e3 A{g}de | {a}gf {e}f2 {g}ed | {A}B4 {g}AB "BPM 116" [M:4/4] | {Gdc}d4 {g}d<f  {ef}(e2 | e2) {g}d<c {Gdc}d2 {ag}a2 |]
 
 X:5
 T:The Smith is a Gallant Fireman

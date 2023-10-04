@@ -85,8 +85,8 @@ K:D
 Q:"87 bpm"
 [| B2 {d}B2 {g}f2 {g}ef | {ag}a2 fa {fg}fe{g}ce | {g}A{d}A{e}A{d}c {gef}e2 {g}ce | {g}faga {fg}fe{g}c{d}A |
 {g}B{d}B{e}B{d}c {g}f2 {g}ef | {ag}a2 fa {fg}fe{g}ce | {gAGAG}A2 {g}A{d}c {ag}a3e | {cd}cB{G}BA {g}BA{g}ce ||
-{g}fe{g}fa {fg}f2 {g}ef | {ag}a2 fa {fg}fe{g}fa | {gAGAG}A2 {g}A{d}c {gef}e2 {g}ce | {g}faga {fg}fe{g}c{d}A |
-{g}fe{g}fa {fg}f2 {g}ef | ae{g}fa {fg}fe{g}fa | {gAGAG}A2 {g}A{d}c {ag}a3e | {cd}cB{G}BA {g}B2 e2 |]
+{g}fe{g}fa {fg}f2 {g}ef | {ag}a2 fa {fg}fe{g}fa | {AGAG}A2 {g}A{d}c {gef}e2 {g}ce | {g}faga {fg}fe{g}c{d}A |
+{g}fe{g}fa {fg}f2 {g}ef | ae{g}fa {fg}fe{g}fa | {AGAG}A2 {g}A{d}c {ag}a3e | {cd}cB{G}BA {g}B2 e2 |]
 
 X:7
 T:Mele's

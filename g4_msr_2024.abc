@@ -28,7 +28,7 @@ M:C
 L:1/8
 Q:"115 bpm"
 K:D
-[|: {ef}e>c {g}A>{d}c {g}e>f {gef}e>c | {ef}e>c {g}A>{d}c {ag}a>g {a}f<a | {ef}e>c {g}A>{d}c {g}e>f {gef}e>c | {Gdc}d>B {g}G>{d}B {gf}g2 {a}f<a :|]
+[|: {gef}e>c {g}A>{d}c {g}e>f {gef}e>c | {gef}e>c {g}A>{d}c {ag}a>g {a}f<a | {ef}e>c {g}A>{d}c {g}e>f {gef}e>c | {Gdc}d>B {g}G>{d}B {gf}g2 {a}f<a :|]
 [|: {ef}e>a {cd}c<a {ef}e>A a/g/f | {gef}e>a {cd}c<a {f}g2 {a}f<a | {ef}e>a {cd}c<a {ef}e>A g/f/e | {Gdc}d>B {g}G>{d}B {gf}g2 {a}f<a :|]
 [|: A2 {GdGe}A>{d}c {g}e>f {gef}e>c | A2 {GdGe}A>{d}c {ag}a>A {gef}e>c | A2 {GdGe}A>{d}c {gef}e>A {gef}e>c | {g}B/c/d {g}G>{d}B {gf}g2 {a}f<a :|]
 [| e>f {gef}e>c {g}A>{d}c {gef}e>c | {g}e>f {gef}e>c {g}f>e {g}f/g/a | e>f {gef}e>c {g}A>{d}c {gef}e>c |{g}B/c/d {g}G>{d}B {gf}g2 {a}f<a | 

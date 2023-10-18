@@ -46,7 +46,7 @@ Q:"118 bpm"
 {ag}a2f {g}dfa | g{a}B{G}B {gf}g2a | f2{AGAG}A adf | {g}ec{d}A age |
 {ag}a2f {g}dfa | g{a}B{G}B {gf}g2a | f{g}da {ef}eca | d{g}d{G}d {g}efg |
 {ag}a2f {g}dfa | g{a}B{G}B {gf}g2a | f2{AGAG}A a2{AGAG}A | {g}ec{d}A age |
-{gfg}f2A {g}Adf | {g}B{d}G{e}G {gf}g3 | {ag}(a3 (a3) [M:9|8] | a3) (g3 g3) | age {g}deg {a}edB [M:2/4] |  {gAGAG}A4 |]
+{gfg}f2A {g}Adf | {g}B{d}G{e}G {gf}g3 | {ag}(a3 (a3) [M:9/8] | a3) (g3 g3) | age {g}deg {a}edB [M:2/4] |  {gAGAG}A4 |]
 
 X:4
 T:Angelsea Air
@@ -71,8 +71,8 @@ K:D
 Q:"116 bpm"
 [| {g}A2 {GdGe}A>{d}c {g}e>f {gef}e>c | {g}e>f {ag}a>e {g}d>c {g}B<{d}A | {g}B2 {GdGe}B>{d}c {g}B>c {g}B<{d}A | {g}B>c {Gdc}d>e {g}f2 {ag}a2 | 
 {g}A2 {GdGe}A>{d}c {g}e>f {gef}e>c | {g}e>f {ag}a>e {g}d>c {g}B<{d}A | {Gdc}d>e {g}f>A {g}c2 {GdG}e>c | {g}B>c {Gdc}d>e {g}f2 {g}e/f/g ||
-a2 {GdG}a>e a2 {GdG}a>f | {g}e>f {ag}a>e {g}d>c {g}B<{d}A | {g}B2 {GdGe}B>{d}c {g}B>c {g}B<{d}A | {g}B>c {Gdc}d>e {g}f2 {g}e/f/g | 
-a2 {GdG}a>e a2 {GdG}a>f | {g}e>f {ag}a>e {g}d>c {g}B<{d}A | {Gdc}d>e {g}f>A {g}c2 {GdG}e>c | {g}B>c {Gdc}d>e {g}f2 {ag}a2 |]
+{ag}a2 {GdG}a>e {ag}a2 {GdG}a>f | {g}e>f {ag}a>e {g}d>c {g}B<{d}A | {g}B2 {GdGe}B>{d}c {g}B>c {g}B<{d}A | {g}B>c {Gdc}d>e {g}f2 {g}e/f/g | 
+{ag}a2 {GdG}a>e {ag}a2 {GdG}a>f | {g}e>f {ag}a>e {g}d>c {g}B<{d}A | {Gdc}d>e {g}f>A {g}c2 {GdG}e>c | {g}B>c {Gdc}d>e {g}f2 {ag}a2 |]
 
 
 X:6
@@ -84,9 +84,9 @@ L:1/8
 K:D
 Q:"87 bpm"
 [| B2 {d}B2 {g}f2 {g}ef | {ag}a2 fa {fg}fe{g}ce | {g}A{d}A{e}A{d}c {gef}e2 {g}ce | {g}faga {fg}fe{g}c{d}A |
-{g}B{d}B{e}B{d}c {g}f2 {g}ef | {ag}a2 fa {fg}fe{g}ce | {gAGAG}A2 {g}A{d}c {ag}a3e | {cd}cB{G}BA {g}BA{g}ce ||
+{g}B{d}B{e}B{d}c {g}f2 {g}ef | {ag}a2 fa {fg}fe{g}ce | {gAGAG}A2 {g}A{d}c {ag}a3e | {g}cB{G}BA {g}BA{g}ce ||
 {g}fe{g}fa {fg}f2 {g}ef | {ag}a2 fa {fg}fe{g}fa | {AGAG}A2 {g}A{d}c {gef}e2 {g}ce | {g}faga {fg}fe{g}c{d}A |
-{g}fe{g}fa {fg}f2 {g}ef | ae{g}fa {fg}fe{g}fa | {AGAG}A2 {g}A{d}c {ag}a3e | {cd}cB{G}BA {g}B2 e2 |]
+{g}fe{g}fa {fg}f2 {g}ef | ae{g}fa {fg}fe{g}fa | {AGAG}A2 {g}A{d}c {ag}a3e | {g}cB{G}BA {g}B2 e2 |]
 
 X:7
 T:Mele's
@@ -101,4 +101,4 @@ Q:"87 bpm"
 {g}fA{g}df a{g}aef | {g}eA{g}c{d}A {g}cd{G}df | {g}ec{g}AB {gcd}c2 {g}B{d}A | {g}fe{A}ec {A}B2 {g}ce | 
 {g}fA{g}df a{g}aef | {g}ec{g}B{d}c {g}AB{g}c{d}A | {ag}a2 {cd}ce {g}dB{g}GA | {g}B{G}B{g}Bc {g}AB{g}ce | 
 {g}fA{g}df a{g}aef | {g}eA{g}c{d}A {g}cd{G}df | {g}ec{g}AB {gcd}c2 {g}B{d}A | {g}fe{A}ec {A}B2 {g}cB | 
-{gAGAG}A2 {g}AB {gcd}c2 {g}B{d}A [M:3/2]| {g}eA{d}ce {g}f4 [M:C|]| {g}f2a2 e2 {g}cA | {g}B{G}B{g}Bc {G}A2 z2 |]
+{gAGAG}A2 {g}AB {gcd}c2 {g}B{d}A [M:3/2]| {g}eA{d}ce {g}f4 [M:C|]| {g}f2{ag}a2 e2 {g}cA | {g}B{G}B{g}Bc {G}A2 z2 |]

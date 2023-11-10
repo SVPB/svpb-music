@@ -16,6 +16,20 @@ K:D
 {a}f2 {g}e>f {g}ed {gdG}dc | {g}B<d {gf}gB {gBd}B{e}A {GAG}A2 | {g}B>c {Gdc}dB {gBd}B{e}A {Gdc}df [M:2/4] | {gf}g>e {gcd}ce "Jig Time"[M:6/8] | {Gdc}(d3 d3) |]
 
 X:2
+T:Bride's Jig
+R:Jig
+C:Trad
+M:6/8
+L:1/8
+Q:"114 bpm"
+K:D
+[|: {g}B{d}B{e}B {Gdc}d2 e | {g}fed {gcd}c2 B | {g}A{d}A{e}A {gcd}c2d | {g}caf {g}ecA |
+{g}B{d}B{e}B {Gdc}d2 e | {g}fed {gcd}c2e | {g}df{e}f {g}edc | {g}B{d}B{e}B {g}f3 :|]
+[|: {Gdc}d2e {g}f2g | afd afd | {g}A2B {GdG}c2 d | {g}caf {g}ecA |
+{Gdc}d2e {g}f2g | afd {g}cde | {g}df{e}f {g}edc | {g}B{d}B{e}B {g}f3 :|]
+
+
+X:3
 T:Hag at the Churn
 R:Jig
 C:Trad
@@ -25,24 +39,8 @@ Q:"114 bpm"
 K:D
 [|: {gef}e2 d {g}eA{d}A | {gef}e2d {g}eag | {ef}e2 d {g}eA{d}A | {g}Bcd {g}Bcd :|]
 {g}eaf {gf}g2 d | {g}eaf ged | {g}eaf {gf}g2 e | {g}dBd {g}e2 {AGAG}A |
-{g}eaf {gf}g2 d | {g}eaf ged | {g}eaf {gf}g2 e | {g}dBd {g}e3 |]
+{g}eaf {gf}g2 d | {g}eaf ged [M: 9/8]| {g}eaf {gf}g2 e {g}dBd [M:2/4] "Slow Air Tempo" |{g}e4 |]
 
-X:3
-T:Silly Witches 
-R:Jig
-C:W Duncan
-M:6/8
-L:1/8
-Q:"114 bpm"
-K:D
-[| {g}A{d}A{e}A {g}Ace | {g}fec {g}ecB | {g}A{d}A{e}A {g}Ace | {g}fec {g}efa | 
-A{d}A{e}A {g}Ace | {g}fec {g}ecB | {g}fec {g}ecB | {g}A{d}A{e}A {GAG}A2 e |
-{g}A{d}A{e}A {g}Ace | {g}fec {g}ecB | {g}A{d}A{e}A {g}Ace | {g}fec {g}efa | 
-A{d}A{e}A {g}Ace | {g}fec {g}ecB | {g}fec {g}ecB | {g}A{d}A{e}A {GAG}A2 e |
-{ag}a2 e {g}fec | {g}A{d}A{e}A {g}Ace | {ag}a2 e {g}fec | {g}B{d}B{e}B {g}Bce |
-{ag}a2 e {g}fec | {g}A{d}A{e}A {g}Ace | {g}fec {g}ecB | {g}A{d}A{e}A {GAG}A2 e |
-{ag}a2 e {g}fec | {g}A{d}A{e}A {g}Ace | {ag}a2 e {g}fec | {g}B{d}B{e}B {g}Bce |
-{ag}a2 e {g}fec | {g}A{d}A{e}A {g}Ace | {g}fec {g}ecB [M: 3/8] | {g}A{d}A{e}A [M:2/4] |"Slow air tempo" {GAG}A4 |]
 
 X:4
 T:The Maids of Jura

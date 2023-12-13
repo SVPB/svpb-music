@@ -59,7 +59,7 @@ Q:"68 bpm"
 [| {g}de | {g}f4 {ag}a2 | {ef}e4 {g}de | {g}f4 {gef}ed | {A}B4 {g}AB | {gc}d4 {g}de | {g}f4 {g}dA | {GdG}B4 {ge}f2 | {gef}e3 A{g}de | 
 {g}f4 {ag}a2 | {ef}e6 | {a}gf {e}f2 {g}ed | {A}B3 {d}B{g}AB | {gc}d4 {g}d/e/f | {gef}e3 {A}e{g}dc | {Gdc}d6 | {gdG}d3 A{g}dc ||
 {gBd}B4 {G}B2 | {G}A3 {d}A{g}de | {gf}g2 {ag}a2 f/e/d | {A}B3 {d}B{g}AB | {gc}d4 {g}de | {g}f4 {g}dA | {GdG}B4 {ge}f2 | {gef}e4 {g}de |
-{g}f4 {ag}a2 | {ef}e3 A{g}de | {a}gf {e}f2 {g}ed | {A}B4 {g}AB "BPM 116" [M:4/4] | {Gdc}d4 {g}d<f  {ef}(e2 | e2) {g}d<c {Gdc}d2 {ag}a2 |]
+{g}f4 {ag}a2 | {ef}e3 A{g}de | {a}gf {e}f2 {g}ed | {A}B4 {g}AB "BPM 120" [M:4/4] | {Gdc}d4 {g}d<f  {ef}(e2 | e2) {g}d<c {Gdc}d2 {ag}a2 |]
 
 X:5
 T:The Smith is a Gallant Fireman
@@ -68,7 +68,7 @@ L:1/8
 R:Strathspey
 M:4/4
 K:D
-Q:"116 bpm"
+Q:"120 bpm"
 [| {g}A2 {GdGe}A>{d}c {g}e>f {gef}e>c | {g}e>f {ag}a>e {g}d>c {g}B<{d}A | {g}B2 {GdGe}B>{d}c {g}B>c {g}B<{d}A | {g}B>c {Gdc}d>e {g}f2 {ag}a2 | 
 {g}A2 {GdGe}A>{d}c {g}e>f {gef}e>c | {g}e>f {ag}a>e {g}d>c {g}B<{d}A | {Gdc}d>e {g}f>A {g}c2 {GdG}e>c | {g}B>c {Gdc}d>e {g}f2 {g}e/f/g ||
 {ag}a2 {GdG}a>e {ag}a2 {GdG}a>f | {g}e>f {ag}a>e {g}d>c {g}B<{d}A | {g}B2 {GdGe}B>{d}c {g}B>c {g}B<{d}A | {g}B>c {Gdc}d>e {g}f2 {g}e/f/g | 
@@ -96,9 +96,9 @@ L:1/8
 M:C|
 K:D
 Q:"87 bpm"
-[|: {gAGAG}A2 {g}AB {gcd}c2 {g}B{d}A | {g}eA{d}ce {g}fd{G}df | {g}eA{g}c{d}A {gcd}c2 {g}B{d}A | {g}fe{A}ec {A}B2 {g}cB |
-{gAGAG}A2 {g}AB {gcd}c2 {g}B{d}A | {g}eA{d}ce {g}fA{g}df | {ag}a2 {cd}ce {g}dB{g}GA | {g}B{G}B{g}Bc [1 {G}A2e2 :|] [2 {G}A3e ||
-{g}fA{g}df a{g}aef | {g}eA{g}c{d}A {g}cd{G}df | {g}ec{g}AB {gcd}c2 {g}B{d}A | {g}fe{A}ec {A}B2 {g}ce | 
+[| {gAGAG}A2 {g}AB {gcd}c2 {g}B{d}A | {g}eA{d}ce {g}fd{G}df | {g}eA{g}c{d}A {gcd}c2 {g}B{d}A | {g}fe{A}ec {A}B2 {g}cB |
+{gAGAG}A2 {g}AB {gcd}c2 {g}B{d}A | {g}eA{d}ce {g}fA{g}df | {ag}a2 {cd}ce {g}dB{g}GA | {g}B{G}B{g}Bc {G}A3e ||
+{g}fA{g}df a{g}aef | {g}eA{g}c{d}A {g}cd{G}df | {g}ec{g}AB {gcd}c2 {g}B{d}A | {g}fe{A}ec {A}B2 {g}B/c/e | 
 {g}fA{g}df a{g}aef | {g}ec{g}B{d}c {g}AB{g}c{d}A | {ag}a2 {cd}ce {g}dB{g}GA | {g}B{G}B{g}Bc {g}AB{g}ce | 
 {g}fA{g}df a{g}aef | {g}eA{g}c{d}A {g}cd{G}df | {g}ec{g}AB {gcd}c2 {g}B{d}A | {g}fe{A}ec {A}B2 {g}cB | 
 {gAGAG}A2 {g}AB {gcd}c2 {g}B{d}A [M:3/2]| {g}eA{d}ce {g}f4 [M:C|]| {g}f2{ag}a2 e2 {g}cA | {g}B{G}B{g}Bc {G}A2 z2 |]

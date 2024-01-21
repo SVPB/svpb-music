@@ -19,7 +19,7 @@ Q:"118 bpm"
 f3 afd | {gf}g3 d2e  | d2A f3 | e3 cde |
 f3 afd | {gf}g3 d2e  |  d3 c3 | f3 cde |
 f3 f3 | d3 d2 e | {a}d2A f2A | {g}c3 {g}cde |
-d3 fdA | d3 e3 | {gAGAG}A2e {gef}e2d [M:9|8] | e{g}e{A}e (e3 e3)| age {g}deg {a}edB [M:2/4] |  {gAGAG}A4 |]
+d3 fdA | d3 e3 | {gAGAG}A2e {gef}e2d [M:9/8] | e{g}e{A}e (e3 e3)| age {g}deg {a}edB [M:2/4] |  {gAGAG}A4 |]
 X:3
 T:Mad John's
 T:Harmony 2
@@ -36,7 +36,7 @@ Q:"118 bpm"
 d3 d3 | d3 B3  | a2A d3 | c3 cBA |
 d3 d3  | d3 B3 |  dAd cAc | A3 ABc |
 {g}A3 A3 | G3 G3 | a2A d2A | A3 cBA |
-A3 A3 | B3 B3 | {gAGAG}A3 A3 [M:9|8] | A3 (B3 B3)| age {g}deg {a}edB [M:2/4] |  {gAGAG}A4 |]
+A3 A3 | B3 B3 | {gAGAG}A3 A3 [M:9/8] | A3 (B3 B3)| age {g}deg {a}edB [M:2/4] |  {gAGAG}A4 |]
 X:5
 T:Angelsea Air
 T:Harmony 1
@@ -74,12 +74,12 @@ L:1/8
 M:C|
 K:D
 Q:"87 bpm"
-[|: {gAGAG}A2 {g}AB {gcd}c2 {g}B{d}A | {g}eA{d}ce {g}fd{G}df | {g}eA{g}c{d}A {gcd}c2 {g}B{d}A | {g}fe{A}ec {A}B2 {g}cB |
-{gAGAG}A2 {g}AB {gcd}c2 {g}B{d}A | {g}eA{d}ce {g}fA{g}df | {ag}a2 {cd}ce {g}dB{g}GA | {g}B{G}B{g}Bc {G}A2{g}e2 :|]
-{g}fA{g}df a{g}aef | {g}eA{g}c{d}A {g}cd{G}df | {g}ec{g}AB {gcd}c2 {g}B{d}A | {g}fe{A}ec {A}B2 {g}ce | 
-{g}d2AB c2A2 | cada cd e2 | e2 e2 d4 | {g}d{e}d{G}de afec |
-{g}f2AB f2AB | caea ef{e}fd | e8 | a2 ae f2 e2 |
-{gAGAG}A2 {g}AB {gcd}c2 {g}B{d}A [M:3/2]| {g}eA{d}ce {g}d4 [M:C|]| {g}d2f2 a2 {g}e2 | {g}d{e}d{G}de A2 z2 |]
+[| {gAGAG}A2 {g}AB {gcd}c2 {g}B{d}A | {g}eA{d}ce {g}fd{G}df | {g}eA{g}c{d}A {gcd}c2 {g}B{d}A | {g}fe{A}ec {A}B2 {g}cB |
+{gAGAG}A2 {g}AB {gcd}c2 {g}B{d}A | {g}eA{d}ce {g}fA{g}df | {ag}a2 {cd}ce {g}dB{g}GA | {g}B{G}B{g}Bc {G}A3e ||
+d6 cd | c2 e2 ef3 | e8 | a2 a2 e2 e2 | 
+d4  e2cd | cada cd e2 | e2 e2 d4 | {g}d{e}d{G}de afec |
+{g}f2AB f2AB | ce2 e ef2 d | e2cd e2Bc | a2 a2 e2 {g}cB |
+{gAGAG}A2 {g}AB {gcd}c2 {g}B{d}A [M:3/2]| {g}eA{d}ce {g}dABd [M:C|]| {g}d2f2 a2 {g}e2 | {g}d{e}d{G}de A2 z2 |]
 
 X:7
 T:Mele's
@@ -90,9 +90,9 @@ L:1/8
 M:C|
 K:D
 Q:"87 bpm"
-[|: {gAGAG}A2 {g}AB {gcd}c2 {g}B{d}A | {g}eA{d}ce {g}fd{G}df | {g}eA{g}c{d}A {gcd}c2 {g}B{d}A | {g}fe{A}ec {A}B2 {g}cB |
-{gAGAG}A2 {g}AB {gcd}c2 {g}B{d}A | {g}eA{d}ce {g}fA{g}df | {ag}a2 {cd}ce {g}dB{g}GA | {g}B{G}B{g}Bc {G}A2{g}e2 :|]
-d4 c4 | c2 e2 effd |e4 e2 dc | dc c2 d2 cA | 
-d4 c4 | A2 GA AGAc | c4 B2 BA | G4 ABce |
-d4 d4 | A4 ABBA | c4 A2 GA | A4 d2 cB |
-{gAGAG}A2 {g}AB {gcd}c2 {g}B{d}A [M:3/2]| {g}eA{d}ce {g}A4 [M:C|]| {g}B2A2 A2 {g}A2 | dddc e z2 |]
+[| {gAGAG}A2 {g}AB {gcd}c2 {g}B{d}A | {g}eA{d}ce {g}fd{G}df | {g}eA{g}c{d}A {gcd}c2 {g}B{d}A | {g}fe{A}ec {A}B2 {g}cB |
+{gAGAG}A2 {g}AB {gcd}c2 {g}B{d}A | {g}eA{d}ce {g}fA{g}df | {ag}a2 {cd}ce {g}dB{g}GA | {g}B{G}B{g}Bc {G}A3e ||
+{g}fA{g}df a{g}aef | {g}eA{g}c{d}A {g}cd{G}df | {g}ec{g}AB {gcd}c2 {g}B{d}A | {g}fe{A}ec {A}B2 {g}B/c/e | 
+A8 | e2 f2 ef a2 | c4 B2 BA | G4 ABce |
+d4 d4 | Ac2A AB2A | c4 A2 GA | A4 B2 cB |
+{gAGAG}A2 {g}AB {gcd}c2 {g}B{d}A [M:3/2]| {g}eA{d}ce {g}A4 [M:C|]| {g}A2A2 A2 {g}A2 | dddc e z2 |]

@@ -15,6 +15,16 @@ K:D
 {GdG}c2 {G}c2  {gcd}c2 {e}B{d}c | {gef}e2 {A}e2 {g}f2 {g}e>c | {G}A2 {g}cB {G}A2 {g}A<{d}B | {G}A4 {GAG}A2 |]
 
 X:2
+T:The Minstrel Boy
+C:Trad., Arr. EUSPBA
+M:4/4
+L:1/8
+K:D
+[|: e | {gAGAG}A3 B {Gdc}dc {g}B{G}A | {gcd}c2 e2 {ag}a2 ga | {fg}f2 e2 {g}c2 {GdG}ec | {gBd}B4 [1 {G}A3 [2 {G}A2 :|]
+[| {gcd}ce | {ag}a2 {f}g2 {a}f2 {gf}ga | {f}g2 f2 {gef}e3 {A}e | {g}f3 c {GdG}c3 e | {g}f2/>e {g}fg a2 {g}a2 |
+{AGAG}A3 B {Gdc}dc {g}B{G}A | {gcd}c2 e2 {ag}a2 ga | {fg}f2 e2 {g}c2 {GdG}ec | {gBd}B4 {G}A2 |]
+
+X:3
 T:Wearing of the Green
 C:Traditional
 M:4/4
@@ -24,13 +34,3 @@ K:D
 [|: {g}A>B | {GdG}c2 {gcd}c{e}B {g}ce {A}ec | {gcd}cB {G}B>c {gBd}B2 {g}ce | {g}fd {ag}a>g {a}fe {gcd}cA | {gBd}BA {g}A>B {G}A2 :|]
 {ag}a>g | {a}fe {gef}ec {g}e>c {g}A>B | {gcd}c{e}B {g}c>d {gef}e2 {ag}a>g | {a}fe {gef}ec {g}e>c {g}A>B | {gcd}cB {G}B>c {gBd}B2 {g}A>B |
 {GdG}c2 {gcd}c{e}B {g}ce {A}ec | {gcd}cB {G}B>c {gBd}B2 {g}ce | {g}fd {ag}a>g {a}fe {gcd}cA | {gBd}BA {g}A>B {G}A2 |]
-
-X:3
-T:The Minstrel Boy
-C:Trad., Arr. EUSPBA
-M:4/4
-L:1/8
-K:D
-[|: e | {gAGAG}A3 B {Gdc}dc {g}B{G}A | {gcd}c2 e2 {ag}a2 ga | {fg}f2 e2 {g}c2 {GdG}ec | {gBd}B4 [1 {G}A3 [2 {G}A2 :|]
-[| {gcd}ce | {ag}a2 {f}g2 {a}f2 {gf}ga | {f}g2 f2 {gef}e3 {A}e | {g}f3 c {GdG}c3 e | {g}f2/>e {g}fg a2 {g}a2 |
-{AGAG}A3 B {Gdc}dc {g}B{G}A | {gcd}c2 e2 {ag}a2 ga | {fg}f2 e2 {g}c2 {GdG}ec | {gBd}B4 {G}A2 |]

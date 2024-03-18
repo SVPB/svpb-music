@@ -46,10 +46,10 @@ R:Slow Air
 M:3/4
 K:D
 Q:"68 bpm"
-[| {g}de | {g}f4 {ag}a2 | {ef}e4 de | {ge}f4 {gef}ed | {A}B4 {g}AB | {gc}d4 {g}de | {g}f4 {g}dA | {GdG}B2 d2 d2 | c4 Bc | 
-{g}dc dd ed | c6 | e2 d2 gf  | g6 | f4 d/e/f  | a4 a2 | g4 ag | f4 dc |
-f6 | f4 fe| dB de a2 |  g6 | f4 fe | a6 | g4 d2 | c4 de |
-{g}dc dd ed | c4 dc | e2 d2 gf  | g6 | f4 d/e/f  | a4 a2 | g4 ag | f4 dc |
+[| {g}de | {g}f4 {ag}a2 | {ef}e4 de | {ge}f4 {gef}ed | {A}B4 {g}AB | {gc}d4 {g}de | {g}f4 {g}dA | {GdG}B2 d2 d2 | c4 {g}Bc | 
+{g}dc {g}d{G}d {g}ed | {B}c6 | {g}e2 d2 {a}gf  | {gf}g6 | {a}f4 {g}d/e/f  | {ag}a4 {g}a2 | {f}g4 ag | f3 A{g}dc |
+{g}f6 | {e}f4 {g}fe| {g}dB {G}de {ag}a2 |  {f}g6 | {a}f4 {g}fe | {ag}a6 | {f}g4 d2 | {g}c4 {g}de |
+{g}dc {g}d{G}d {g}ed | {B}c4 {g}dc | {g}e2 d2 {a}gf  | {gf}g6 | {a}f4 {g}d/e/f [M: 5/4] [Q:1/4=120] | {ag}a4 {g}a2 f2 {ag}a2 |]
 
 X:5
 T:Angelsea Air
@@ -60,10 +60,10 @@ R:Slow Air
 M:3/4
 K:D
 Q:"68 bpm"
-[| {g}de | {g}f4 {ag}a2 | {ef}e4 de | {ge}f4 {gef}ed | {A}B4 {g}AB | {gc}d4 {g}de | {g}f4 {g}dA | {GdG}B4 {ge}f2 | {gef}e3 A{g}de | 
-{g}A6 | c2 B2 A2 | B2 A2 B2  | G3 {g}GAG | B4 B2 | c4 BA | B2 G2 B2  |A3 Adc|
-d6 | c3 cA2 | G2 A2 BA|  G3 {g}GAG | A6 | c4 Ac | d4 BA | A4 de |
-{g}A6 | A6 | B2 A2 B2  | G3 {g}GAG | B4 B/A/B | c4 BA | A6 
+[| {g}de | {g}f4 {ag}a2 | {ef}e4 {g}de | {g}f4 {gef}ed | {A}B4 {g}AB | {gc}d4 {g}de | {g}f4 {g}dA | {GdG}B4 {ge}f2 | {gef}e3 A{g}de | 
+{g}A6 | {g}c2 B2 {G}A2 | {g}B2 A2 B2  | {g}G3 {d}G{g}AG | {g}B4 {G}B2 | {g}c4 {g}BA | {g}B2 G2 B2  | {G}A4 {g}dc ||
+{g}d6 | {g}c3 {d}c{g}A2 | G2 A2 BA |  G3 {d}G{g}AG | {g}A6 | {g}c4 {g}Ac | {g}d4 {g}BA | {g}A4 {g}de |
+{g}A6 | {G}A6 | {g}B2 A2 B2  | G3 {d}G{g}AG | {g}B4 {g}B/A/B [M: 5/4] [Q:1/4=120] | {g}c4 {g}B<A {G}A2 {ag}a2 |]
 
 X:7
 T:Mele's

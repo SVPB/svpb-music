@@ -1,0 +1,56 @@
+%abc-2.2
+I:abc-include style.abh
+%%landscape 0
+%%scale 0.7
+X:1
+T:Wee Michael's March
+R:March
+C:John McCusker
+M:3/4
+L:1/8
+Q:"80 bpm"
+K:D
+[|{gef}e d/e | {ge}f2 {g}fa {f}g{a}f | e<{g}G {dc}d2 {g}B<{d}G | {g}A3 f g<{a}f | {gef}e3 A {gef}e d/e | 
+{ge}f2 {g}fa {f}g{a}f | g<{a}G {dc}d2 {g}B/A/G | {g}A3 {ge}f {g}e>>{gef}e | d3 A {gef}e d/e |
+{ge}f2 {g}fa {f}g{a}f | e<{g}G {dc}d2 {g}B<{d}G | {g}A3 f g<{a}f | {gef}e3 {A}e {g}fg | 
+{ag}a2 f>a {f}g>{a}f | g<{a}G {dc}d2 {g}B/A/G | {g}A3 {ge}f {g}e>>{gef}e | d3 A {Gdc}de/f/ ||
+{gf}g2 {f}g{a}f {a}g<a | {e}f2 {gf}ed {g}d<{e}(B [M:2/4] | B)A g<{a}f [M:3/4] | {gef}e4 {Gdc}de/f/ |
+{gf}g2 {f}g{a}f {a}g<a | {e}f2 {gf}ed {g}d<{e}(A [M:2/4] | A){ge}f {g}e>>{gef}e [M:3/4] | d3 A {Gdc}de/f/ |
+{gf}g2 {f}g{a}f {a}g<a | {e}f2 {gf}ed {g}d<{e}(B [M:2/4] | B)A g<{a}f [M:3/4] | {gef}e3 {A}e {g}fg |
+{ag}a2 f>a {f}g>{a}f | g<{a}G {dc}d2 {g}B/A/G | {g}A3 {ge}f {g}e>>{gef}e |  "Play full beat off on beat 2"d2 z4 |] 
+
+X:2
+T:Wee Michael's March
+T:Harmony 1
+R:March
+C:John McCusker
+M:3/4
+L:1/8
+Q:"80 bpm"
+K:D
+[|{gef}e d/e | {ge}f2 {g}fa {f}g{a}f | e<{g}G {dc}d2 {g}B<{d}G | {g}A3 f g<{a}f | {gef}e3 A {gef}e d/e | 
+{ge}f2 {g}fa {f}g{a}f | g<{a}G {dc}d2 {g}B/A/G | {g}A3 {ge}f {g}e>>{gef}e | d3 A {gef}e d/e |
+{ge}d6 | g<{a}d {gf}g4 | {g}f3 d {c}d2 | {ag}a4 {g}ag | 
+f2 d2 e2 | d2 g4 | {a}f3 d c2 | f4 {Gdc}de/f/ ||
+d6 | d2 a3 {g}a<(f [M:2/4] | f)f d2 [M:3/4] | d2 c2 {Gdc}de/f/ |
+d6 | d2 a3 {g}a<(f [M:2/4] | f)f c2 [M:3/4] | f4 {Gdc}de/f/ |
+d4 e2 | d2 ef a<(f [M:2/4] | f)f d2 [M:3/4] | {ag}a4 {g}ag | 
+f2 d2 e2 | d2 g4 | d4 c2 |  "Play full beat off on beat 2"f2 z4 |] 
+
+X:2
+T:Wee Michael's March
+T:Harmony 2
+R:March
+C:John McCusker
+M:3/4
+L:1/8
+Q:"80 bpm"
+K:D
+[|{gef}e d/e | {ge}f2 {g}fa {f}g{a}f | e<{g}G {dc}d2 {g}B<{d}G | {g}A3 f g<{a}f | {gef}e3 A {gef}e d/e | 
+{ge}f2 {g}fa {f}g{a}f | g<{a}G {dc}d2 {g}B/A/G | {g}A3 {ge}f {g}e>>{gef}e | d3 A {gef}e d/e |
+{ge}A6 | B4 d2 | {g}d3 B {c}A2 | A4 d2 | 
+c2 B2 B2 | B4 d/c/B | {a}d3 B A2 | A4 {Gdc}de/f/ ||
+B6 | A4 d(d [M:2/4] | d)d B2 [M:3/4] | A4 {Gdc}de/f/ |
+B6 | A2 cB (d2 [M:2/4] | d)d A2 [M:3/4] | A4 {Gdc}de/f/ |
+B6 | A2 cB B<(d [M:2/4] | d)d B2 [M:3/4] | A4 d2 | 
+c2 B2 B2 | B4 d/c/B | G4 G2 |  "Play full beat off on beat 2"A2 z4 |] 

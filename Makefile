@@ -36,13 +36,13 @@ G3MEDLEY = g3_medley_2024.abc g3_medley_2024_harmonies.abc
 #G3MSR = g3_msr.abc
 G3NEWMSR = g3_msr_2023.abc g3_msr_2023_reel.abc
 G368 = MarchOfTheRBL.abc Bengullion.abc john_barclay.abc 
-G3MARCHES = dream_valley.abc Killiecrankie.abc
+G3MARCHES = Killiecrankie.abc wee_michaels.abc
 G3MISC = grans.abc banks_of_the_lossie.abc tune_for_lottie.abc
 G3HORNPIPES = g3_hornpipes.abc
 #G3JIG = g3_jig.abc
 G4MEDLEY = g4_medley_2024.abc
 G4MSR = g4_msr_2024.abc
-G4MARCHES = dream_valley.abc Killiecrankie.abc
+G4MARCHES = dream_valley.abc Killiecrankie.abc wee_michaels.abc
 PARADE = banks_of_the_lossie.abc irish_set.abc MarchOfTheRBL.abc john_barclay.abc \
    dream_valley.abc castle_dangerous.abc Moonstar.abc Moonstar_seconds.abc
 WUSPBA = amazing_grace.abc green_hills.abc battles_oer.abc bonnie_dundee.abc \

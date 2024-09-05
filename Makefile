@@ -34,7 +34,7 @@ JOIN = gs -dBATCH -dNOPAUSE -q -sDEVICE=pdfwrite -sOutputFile=
 # The source files for all the music
 G3MEDLEY = g3_medley_2024.abc g3_medley_2024_harmonies.abc
 #G3MSR = g3_msr.abc
-G3NEWMSR = g3_msr_2023.abc g3_msr_2023_reel.abc
+G3NEWMSR = g3_msr_2025.abc
 G368 = MarchOfTheRBL.abc Bengullion.abc john_barclay.abc 
 G3MARCHES = Killiecrankie.abc wee_michaels.abc
 G3MISC = grans.abc banks_of_the_lossie.abc tune_for_lottie.abc

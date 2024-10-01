@@ -65,7 +65,7 @@ M:C
 L:1/8
 Q:"114 bpm"
 K:D
-[|: {g}A/ | {Gdc}d2 {gdG}d>f {g}e>d {g}e<f | {g}d>B {g}A>{d}B {g}B<e {A}e>f [M:5/4]| {Gdc}d2 {gdG}d>f {g}e>d {g}e<(f f2) [M:4/4] | {g}d>B {g}A>B {Gdc}d2 {gdG}d>A | 
+[| {Gdc}d2 {gdG}d>f {g}e>d {g}e<f | {g}d>B {g}A>{d}B {g}B<e {A}e>f [M:5/4]| {Gdc}d2 {gdG}d>f {g}e>d {g}e<(f f2) [M:4/4] | {g}d>B {g}A>B {Gdc}d2 {gdG}d>A | 
 {Gdc}d2 {gdG}d>f {g}e>d {g}e<f | {g}d>B {g}A>{d}B {g}B<e {A}e>f | {Gdc}d2 {gdG}d>f {g}e>d {g}e<f | {{g}d>B {g}A>B {Gdc}d2 {gdG}d>B ||
 {g}A>B {g}d<f {g}e>d {g}e<f | {g}d>B {g}A>{d}B {g}B<e {A}e2 | {g}A>B {g}d<f {g}e>d {g}e<f | {g}d>B {g}A>B {Gdc}d2 {gdG}d>B
 {g}A>B {g}d<f {g}e>d {g}e<f [M:2/4] | {g}d>B {g}A>{d}B [M:C|] "Reel Tempo" | {g}B<(e e4) f2 | {gc}d3 f {g}ed{g}ef | {g}dB{g}AB {g}d2 e2 |]
@@ -110,7 +110,7 @@ K:D
 [| {g}A3 {d}A {e}A2d2 | {g}Bd3 {g}A4 | {g}f3 g {ag}a3 d | {g}d4 {g}c2 B2 | 
 {g}A3 B {G}A4 | {g}B4 {g}c2{g}Bc | {g}d3 c {g}da3 | {f}g2 f2 {g}e2 {g}de || 
 {g}d4 {ag}a4 | {f}g4 f2{g}ed |{g}d4 c3 B | {g}c d3 {gf}g4 | 
-e4 {g}f4 | {gf} Hg2 Hf2 {ag}a4 | d3 c {g}d a3 | "Spey tempo - 112" {f}g2 f2 e4 |]
+e4 {g}f4 | {gf} Hg2 Hf2 {ag}a4 | d3 c {g}d a3 | "Spey tempo - 114" {f}g2 f2 e4 |]
 
 X:9
 T:The Maids of Jura, Thirds
@@ -122,4 +122,32 @@ K:D
 [| {g}A3 {d}A {e}A2d2 | {g}Bd3 {g}A4 | {g}f3 g {ag}a3 d | {g}d2 f2 {gef}e4 | 
 {g}A3 B {Gdc}d3 c | {g}Bd3 {gef}e4 | {gfg}f3 e f{g}A3 | {gBd}B4 {G}A2 {g}de || 
 {g}A8 | {g}G4 A4 |{g}d4 c3 B | {g}c d3 {g}d4 | 
-{g}A3 B {G}A4 | HG2 HA2 {g}c4 | d3 c {g}d e3 | "Spey tempo - 112" {g}e2 d2 c4 |]
+{g}A3 B {G}A4 | HG2 HA2 {g}c4 | d3 c {g}d e3 | "Spey tempo - 114" {g}e2 d2 c4 |]
+
+X:10
+T:Hey Johnnie, Seconds
+R:Strathspey
+L:1/8
+C:Trad
+M:C
+L:1/8
+Q:"114 bpm"
+K:D
+[| {g}f4 {ag}a4 | f4 c4 [M:5/4]| {g}f4 {ag}a6 [M:4/4] | {g}d>B {g}A>B {Gdc}d2 {gdG}d>A | 
+{Gdc}d2 {gdG}d>f {g}e>d {g}e<f | {g}d>B {g}A>{d}B {g}B<e {A}e>f | {Gdc}d2 {gdG}d>f {g}e>d {g}e<f | {{g}d>B {g}A>B {Gdc}d2 {gdG}d>B ||
+{g}A>B {g}d<f {g}e>d {g}e<f | {g}d>B {g}A>{d}B {g}B<e {A}e2 | {g}A>B {g}d<f {g}e>d {g}e<f | {g}d>B {g}A>B {Gdc}d2 {gdG}d>B
+{g}A>B {g}d<f {g}e>d {g}e<f [M:2/4] | {g}d>B {g}A>{d}B [M:C|] "Reel Tempo" | {g}B<(e e4) f2 | {gc}d3 f {g}ed{g}ef | {g}dB{g}AB {g}d2 e2 |]
+
+X:11
+T:Hey Johnnie, Thirds
+R:Strathspey
+L:1/8
+C:Trad
+M:C
+L:1/8
+Q:"114 bpm"
+K:D
+[| {g}A4 {g}c4 | {g}d4 {g}A4 [M:5/4]| {g}A4 {g}c>B {g}c4 [M:4/4] | {g}d>B {g}A>B {Gdc}d2 {gdG}d>A | 
+{Gdc}d2 {gdG}d>f {g}e>d {g}e<f | {g}d>B {g}A>{d}B {g}B<e {A}e>f | {Gdc}d2 {gdG}d>f {g}e>d {g}e<f | {{g}d>B {g}A>B {Gdc}d2 {gdG}d>B ||
+{g}A>B {g}d<f {g}e>d {g}e<f | {g}d>B {g}A>{d}B {g}B<e {A}e2 | {g}A>B {g}d<f {g}e>d {g}e<f | {g}d>B {g}A>B {Gdc}d2 {gdG}d>B
+{g}A>B {g}d<f {g}e>d {g}e<f [M:2/4] | {g}d>B {g}A>{d}B [M:C|] "Reel Tempo" | {g}B<(e e4) f2 | {gc}d3 f {g}ed{g}ef | {g}dB{g}AB {g}d2 e2 |]

@@ -29,7 +29,7 @@ M:4/4
 L:1/8
 Q:1/4=118
 K:D
-[|: [2 a/ | {fg}f>B ] f>B {gcd}c<{e}A {g}B>{d}c {gfg}f>e | {g}c<{GdG}e {gcd}c>B {g}A>{d}c {gef}e>c | {gfg}f>B {gcd}c<{e}A {g}B>{d}c {gfg}f>e | {g}f/e/c {gef}e>A {gcd}c<{e}B {gBG}B3/2 :|]
+[|: [2 a/ | {fg}f>B ] {g}f>B {gcd}c<{e}A {g}B>{d}c {gfg}f>e | {g}c<{GdG}e {gcd}c>B {g}A>{d}c {gef}e>c | {gfg}f>B {gcd}c<{e}A {g}B>{d}c {gfg}f>e | {g}f/e/c {gef}e>A {gcd}c<{e}B {gBG}B3/2 :|]
 e/ | {g}f<a {g}a>g {a}f<a {fg}f>e | {g}c<{GdG}e {gef}e>c {gfg}f>A {gef}e>c | {g}f<a {g}a>g {a}f<a {fg}f>e | {g}f/e/c {gef}e>A {gcd}c<{e}B {gBG}B>e | 
 {g}f<a {g}a>g {a}f<a {fg}f>e | {g}c<{GdG}e {gef}e>c {gfg}f>A {gef}e>c | {GdGcG}B2 {gcd}c<{e}A {g}B>{d}c {gfg}f>e | {g}f/e/c {gef}e>A {gcd}c<{e}B {gBG}B3/2 || 
 [|: f/ | {g}B2 {GdGe}B>{d}c {g}B>{d}c {gef}f>e | {gcd}c<{e}A {gAGAG}A2 {g}A>{d}c {gef}e>c | {g}B2 {GdGe}B>{d}c {g}B>{d}c {gef}f>e | {g}f/e/c {gef}e>A {gcd}c<{e}B {gBG}B3/2 :|]

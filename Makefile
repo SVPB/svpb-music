@@ -7,7 +7,7 @@
 #
 # YEAR is the year for which this project builds the binder
 
-YEAR=2024
+YEAR=2025
 
 RM = rm
 
@@ -28,14 +28,14 @@ PDF = ps2pdf
 # If you have installed GhostScript, then you can use that to join the PDFs:
 # gs -dBATCH -dNOPAUSE -q -sDEVICE=pdfwrite -sOutputFile=finished.pdf file1.pdf file2.pdf
 #
-# JOIN = join.py --output 
+# JOIN = join.py --output
 JOIN = gs -dBATCH -dNOPAUSE -q -sDEVICE=pdfwrite -sOutputFile=
 
 # The source files for all the music
 G3MEDLEY = g3_medley_2024.abc g3_medley_2024_harmonies.abc
 #G3MSR = g3_msr.abc
 G3NEWMSR = g3_msr_2025.abc
-G368 = MarchOfTheRBL.abc Bengullion.abc john_barclay.abc 
+G368 = MarchOfTheRBL.abc Bengullion.abc john_barclay.abc
 G3MARCHES = Killiecrankie.abc wee_michaels.abc
 G3MISC = grans.abc banks_of_the_lossie.abc tune_for_lottie.abc
 G3HORNPIPES = g3_hornpipes.abc
@@ -51,7 +51,7 @@ WUSPBA = amazing_grace.abc green_hills.abc battles_oer.abc bonnie_dundee.abc \
 CHRISTMAS = scotland_the_brave.abc auld_lang_syne.abc amazing_grace.abc \
     highland_cathedral.abc flower_of_scotland.abc o_come_all_ye_faithful.abc
 
-ABCFILES = $(G3MEDLEY) $(G3NEWMSR) $(G368) $(G3HORNPIPES) $(G3MARCHES) $(G3MISC) $(G4MEDLEY) $(G4MSR) $(G4MARCHES) $(PARADE) $(WUSPBA) 
+ABCFILES = $(G3MEDLEY) $(G3NEWMSR) $(G368) $(G3HORNPIPES) $(G3MARCHES) $(G3MISC) $(G4MEDLEY) $(G4MSR) $(G4MARCHES) $(PARADE) $(WUSPBA)
 PSFILES = $(ABCFILES:.abc=.ps)
 PDFFILES = $(PSFILES:.ps=.pdf)
 
@@ -81,7 +81,7 @@ G3_DIR = $(LOCAL_FOLDER)/$(YEAR)/g3/
 G4_DIR = $(LOCAL_FOLDER)/$(YEAR)/g4/
 FULL_DIR = $(LOCAL_FOLDER)/$(YEAR)/full_band/
 
-G3_FILES = $(G3MEDLEY) $(G3NEWMSR) $(G3MARCHES) $(G368) $(G3HORNPIPES)  $(G3MISC) 
+G3_FILES = $(G3MEDLEY) $(G3NEWMSR) $(G3MARCHES) $(G368) $(G3HORNPIPES)  $(G3MISC)
 G3_PS = $(G3_FILES:.abc=.ps)
 G3_PDFS = $(G3_PS:.ps=.pdf)
 

@@ -49,7 +49,7 @@ Q:"68 bpm"
 [| {g}de | {g}f4 {ag}a2 | {ef}e4 de | {ge}f4 {gef}ed | {A}B4 {g}AB | {gc}d4 {g}de | {g}f4 {g}dA | {GdG}B2 d2 d2 | c4 {g}Bc | 
 {g}dc {g}d{G}d {g}ed | {B}c6 | {g}e2 d2 {a}gf  | {gf}g6 | {a}f4 {g}d/e/f  | {ag}a4 {g}a2 | {f}g4 ag | f3 A{g}dc |
 {g}f6 | {e}f4 {g}fe| {g}dB {G}de {ag}a2 |  {f}g6 | {a}f4 {g}fe | {ag}a6 | {f}g4 d2 | {g}c4 {g}de |
-{g}dc {g}d{G}d {g}ed | {B}c4 {g}dc | {g}e2 d2 {a}gf  |"slow this measure" {gf}g6 [Q:1/4=120] | {a}f4 {g}d/e/f [M: 5/4] | {ag}a4 {g}a2 f4 |]
+{g}dc {g}d{G}d {g}ed | {B}c4 {g}dc | {g}e2 d2 {a}gf  |"slow this measure" {gf}g6 [Q:1/4=120] | {a}f4 d2 [M: 5/4] | {ag}a4 {g}a2 f4 |]
 
 X:5
 T:Angelsea Air
@@ -63,7 +63,7 @@ Q:"68 bpm"
 [| {g}de | {g}f4 {ag}a2 | {ef}e4 {g}de | {g}f4 {gef}ed | {A}B4 {g}AB | {gc}d4 {g}de | {g}f4 {g}dA | {GdG}B4 {ge}f2 | {gef}e3 A{g}de | 
 {g}A6 | {g}c2 B2 {G}A2 | {g}B2 A2 B2  | {g}G3 {d}G{g}AG | {g}B4 {G}B2 | {g}c4 {g}BA | {g}B2 G2 B2  | {G}A4 {g}dc ||
 {g}d6 | {g}c3 {d}c{g}A2 | G2 A2 BA |  G3 {d}G{g}AG | {g}A6 | {g}c4 {g}Ac | {g}d4 {g}BA | {g}A4 {g}de |
-{g}A6 | {G}A6 | {g}B2 A2 B2  |"slow this measure" G4 {g}AG [Q:1/4=120] | {g}B4 {g}B/A/B [M: 5/4] | {g}c4 {g}B<A {G}A4 |]
+{g}A6 | {G}A6 | {g}B2 A2 B2  |"slow this measure" G4 {g}AG [Q:1/4=120] | {g}B4 {g}B2 [M: 5/4] | {g}c4 {g}B<{d}A {G}A4 |]
 
 X:7
 T:Mele's

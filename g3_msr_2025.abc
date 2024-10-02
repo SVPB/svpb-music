@@ -20,7 +20,7 @@ K:D
 {g}c<{d}A{g}c<e {g}c<{d}A{g}c<e | {gde}d>B{g}f>e {gcd}c2{gde}d>c | {gBd}B2{g}c<e {g}f>e{gcd}c2 | {GBG}A4 {GAG}A2 :|]
 [|: {g}c<e | {g}f2{GdG}f>g a>g{a}f>e | {g}e2{GdG}e>c {g}f>e{gde}d>c | {g}B<{d}A{gde}d>c {g}f>e{g}A>B | {gcd}c2{g}B2  {GdGe}B2[1{g}c<e | 
 {g}f2{GdG}f>g a>g{a}f>e | {g}e2{GdG}e>c {gfg}f2{g}e>c | {gBd}B2{g}c<e {g}f>e{gcd}c2 | {GBG}A4 {GAG}A2 :|]
-[2 {g}A>B | {GdG}c2{g}c<e {gAGAG}A2{g}c<d | {g}f>e{g}A>B {gcd}c2{gde}d>c | {gBd}B2{g}c<e {g}f>e{gcd}c2 | {GBG}A4 {GAG}A2 |]
+[2 {g}A>B | {g}c<{d}A{g}c<e {g}c<{d}A{g}c<e | {gde}d>B{g}f>e {gcd}c2{gde}d>c | {gBd}B2{g}c<e {g}f>e{gcd}c2 | {GBG}A4 {GAG}A4  |]
 X:2
 T:Duncan Lamont
 C:Trad
@@ -29,9 +29,9 @@ M:4/4
 L:1/8
 Q:1/4=118
 K:D
-[|: [2 a/] | f>B {gcd}c<{e}A {g}B>{d}c {gfg}f>e | {g}c<{GdG}e {gcd}c>B {g}A>{d}c {gef}e>c | {gfg}f>B {gcd}c<{e}A {g}B>{d}c {gfg}f>e | {g}f/e/c {gef}e>A {gcd}c<{e}B {gBG}B3/2 :|]
-e/ | {g}f<a {g}a>g {a}f<a {fg}f>e | {g}c<{GdG}e {ge}e>c {gfg}f>A {gef}e>c | {g}f<a {g}a>g {a}f<a {fg}f>e | {g}f/e/c {gef}e>A {gcd}c<{e}B {gBG}B>e | 
-{g}f<a {g}a>g {a}f<a {fg}f>e | {g}c<{GdG}e {ge}e>c {gfg}f>A {gef}e>c | {GdGcG}B2 {gcd}c<{e}A {g}B>{d}c {gfg}f>e | {g}f/e/c {gef}e>A {gcd}c<{e}B {gBG}B3/2 || 
+[|: [2 a/ | {fg}f>B ] f>B {gcd}c<{e}A {g}B>{d}c {gfg}f>e | {g}c<{GdG}e {gcd}c>B {g}A>{d}c {gef}e>c | {gfg}f>B {gcd}c<{e}A {g}B>{d}c {gfg}f>e | {g}f/e/c {gef}e>A {gcd}c<{e}B {gBG}B3/2 :|]
+e/ | {g}f<a {g}a>g {a}f<a {fg}f>e | {g}c<{GdG}e {gef}e>c {gfg}f>A {gef}e>c | {g}f<a {g}a>g {a}f<a {fg}f>e | {g}f/e/c {gef}e>A {gcd}c<{e}B {gBG}B>e | 
+{g}f<a {g}a>g {a}f<a {fg}f>e | {g}c<{GdG}e {gef}e>c {gfg}f>A {gef}e>c | {GdGcG}B2 {gcd}c<{e}A {g}B>{d}c {gfg}f>e | {g}f/e/c {gef}e>A {gcd}c<{e}B {gBG}B3/2 || 
 [|: f/ | {g}B2 {GdGe}B>{d}c {g}B>{d}c {gef}f>e | {gcd}c<{e}A {gAGAG}A2 {g}A>{d}c {gef}e>c | {g}B2 {GdGe}B>{d}c {g}B>{d}c {gef}f>e | {g}f/e/c {gef}e>A {gcd}c<{e}B {gBG}B3/2 :|]
 e/ | {ag}a2 {GdG}a>e {g}f/g/a {fg}f>e | {g}f>A {gef}e>c {g}A>{d}c {gef}e>c | {ag}a2 {GdG}a>e {g}f/g/a {fg}f>e | {g}f/e/c {gef}e>A {gcd}c<{e}B {gBG}B>e |
 {ag}a2 {GdG}a>e {g}f/g/a {fg}f>e | {g}f/e/c {gcd}c>B {g}A>{d}c {gef}e>c | {GdGcG}B2 {gcd}c<{e}A (3{g}f<ag {fg}f>e | {g}f/e/c {gef}e>A {gcd}c<{e}B {gBG}B2 |]

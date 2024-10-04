@@ -1,6 +1,6 @@
 %abc-2.2
 I:abc-include style.abh
-%%footer "Page $P	SVPB G4 M/S/R 2024	Generated: $D"
+%%footer "Page $P	SVPB G4 M/S/R 2025	Generated: $D"
 %%landscape 1
 X:1
 T:King George V Army
@@ -10,13 +10,13 @@ M:2/4
 L:1/16
 Q:"76 bpm"
 K:D
-[|: {g}e>d | {gcd}c2{e}A2 {gAGAG}A2>B2 | {g}c<{d}A{g}c<e {g}f>e{g}d>c | {Gdc}d2{g}B2 {GdGe}B2>c2 | {Gdc}d>e{g}f<a {fg}f2{g}e>d | 
+[|: {g}e>d | {gcd}c2{e}A2 {gAGAG}A2>B2 | {g}c<{d}A{g}c<e {g}f>e{g}d>c | {Gdc}d2{g}B2 {GdGe}B2>c2 | {Gdc}d>e{g}f<a {fg}f2{g}e>d |
 {gcd}c2{e}A2 {gAGAG}A2>B2 | {g}c<{d}A{g}c<e {g}f>e{g}d>c | {Gdc}d2{g}f>d {gcd}c2{g}e>c | {gBd}B4 {G}A2 :|]
-[|: {g}c>d | {gef}e2a2 {g}a2g>f | {g}e2c2 {gcG}c2{g}e>c | {Gdc}d2{g}B2 {GdGe}B2{g}c<d | {gcd}c2{e}A2 {gAGAG}A2{g}c>d | 
+[|: {g}c>d | {gef}e2a2 {g}a2g>f | {g}e2c2 {gcG}c2{g}e>c | {Gdc}d2{g}B2 {GdGe}B2{g}c<d | {gcd}c2{e}A2 {gAGAG}A2{g}c>d |
 {gef}e2a2 {g}a2g>f | {g}e2c2 {gcG}c2{g}e>c | {Gdc}d2{g}f>d {gcd}c2{g}e>c | {gBd}B4 {G}A2 :|]
 [|: {g}e>d | {gcd}c2e2 {ag}a3e | {g}c>ea>e {g}f<ae>c | {Gdc}d2f2 {ag}a3f | {g}d>fa>d {g}f<a{fg}f>d |
 {gcd}c2e2 {ag}a3e | {g}c>ea>e {g}f<ae>c | {g}d>fa>d {g}c>ea>c | {gBd}B4 {G}A2 :|]
-[|: {g}e>d | {gcd}c2{g}e2 {A}e2>d2 | {g}c<e{A}e>a {fg}f>e{g}d>c | {Gdc}d2{g}f2 {e}f3e | {g}d<f{e}f>a {f}g>f{g}e>d | 
+[|: {g}e>d | {gcd}c2{g}e2 {A}e2>d2 | {g}c<e{A}e>a {fg}f>e{g}d>c | {Gdc}d2{g}f2 {e}f3e | {g}d<f{e}f>a {f}g>f{g}e>d |
 {gcd}c2{g}e2 {A}e2>d2 | {g}c<e{A}e>a {fg}f>e{g}d>c | {g}d>fa>d {g}c>ea>c | {gBd}B4 {G}A2 :|]
 
 

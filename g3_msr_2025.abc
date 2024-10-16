@@ -44,10 +44,10 @@ L:1/8
 Q:1/2=82
 K:D
 [| {gef}e2 {g}c<{d}A {g}f>e{g}f<a | {ef}e2 {g}c<{d}A {g}B>{d}B{e}B>f | {gef}e2 {g}c<{d}A {g}f>e{g}f<a | {cd}c2 {g}B<{d}c {g}A>{d}A{e}A>f | 
-{gef}e2 {g}c<{d}A {g}f>e{g}f<a | {ef}e2 {g}c<{d}A {g}B>{d}B{e}B>f | {gef}e2 {g}c<{d}A {g}f>e{g}f<a | {cd}c2 {g}B<{d}c {g}A>{d}A{e}A>e || 
-{ag}a2 e>f a>e{g}f<a | {ef}e2 {g}c<{d}A {g}B>{d}B{e}B>e | {ag}a2 e>f a>e{g}f<a | {cd}c2 {g}B<{d}c {g}A>{d}A{e}A>e | 
-{ag}a2 e>f a>e{g}f<a | {ef}e2 {g}c<{d}A {g}B>{d}B{e}B>f | {gef}e2 {g}c<{d}A {g}f>e{g}f<a | {cd}c2 {g}B<{d}c {g}A>{d}A{e}A>e ||
+{gef}e2 {g}c<{d}A {g}f>e{g}f<a | {ef}e2 {g}c<{d}A {g}B>{d}B{e}B>f | {gef}e2 {g}c<e {g}f>e{g}f<a | {cd}c2 {g}B<{d}c {g}A>{d}A{e}A>e || 
+{ag}a2 e>{g}f a>e{g}f<a | {ef}e2 {g}c<{d}A {g}B>{d}B{e}B>e | {ag}a2 e>{g}f a>e{g}f<a | {cd}c2 {g}B<{d}c {g}A>{d}A{e}A>e | 
+{ag}a2 e>{g}f a>e{g}f<a | {ef}e2 {g}c<{d}A {g}B>{d}B{e}B>f | {gef}e2 {g}c<e {g}f>e{g}f<a | {cd}c2 {g}B<{d}c {g}A>{d}A{e}A>e ||
 {g}A>{d}A{e}A>B {gcd}c2 {gef}e>c | {g}B<{d}A{g}B<{d}c {g}B>{d}B{e}B>e | {g}A>{d}A{e}A>B {gcd}c2 {gef}e>c | {g}B<{d}A{g}B<{d}c {g}A>{d}A{e}A>a | 
-{g}A>{d}A{e}A>B {gcd}c2 {gef}e>c | {g}B<{d}A{g}B<{d}c {g}B>{d}B{e}B>f | {gef}e2 {g}c<{d}A {g}f>e{g}f<a | {cd}c2 {g}B<{d}c {g}A>{d}A{e}A>e || 
+{g}A>{d}A{e}A>B {gcd}c2 {gef}e>c | {g}B<{d}A{g}B<{d}c {g}B>{d}B{e}B>f | {gef}e2 {g}c<e {g}f>e{g}f<a | {cd}c2 {g}B<{d}c {g}A>{d}A{e}A>e || 
 {g}f<ae>{g}f a>e{g}f<a | f>e{g}c<{d}A {g}B>{d}B{e}B>e | {g}f<ae>{g}f a>e{g}f<a | {cd}c2 {g}B<{d}c {g}A>{d}A{e}A>e | 
 {g}f<ae>{g}f a>e{g}f<a | f>e{g}c<{d}A {g}B>{d}B{e}B>f | {gef}e>A{d}c<e {g}f>ga>f | {g}e>c{g}B<{d}c {g}A>{d}A{e}A |]

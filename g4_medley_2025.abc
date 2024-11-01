@@ -42,7 +42,7 @@ K:D
 {gcd}c2d {g}ec{G}c | {g}fd{G}d {gef}e3 | {gcd}c2 d {g}eAe | {g}dc{G}c {g}B3 |
 {gcd}c2d {g}ec{G}c | {g}fd{G}d {gef}e2f |  {g}e2A  {g}dc{G}c | {g}B3 {G}A3 |
 {gcd}c2d {g}ec{G}c | {g}fd{G}d {gef}e3 | {gcd}c2 d {g}eAe | {g}dc{G}c {g}B2{g}(A |
-A2) B {g}c{d}c{e}c | {g}dc{G}c {g}B2 f | {g}eA(d d2)c "Slow Air Tempo" [M:2/4] | {g}B4 |]
+A2) B {g}c{d}c{e}c | {g}dc{G}c {g}B2 f | {g}eA(d d2)c [M:2/4] | {g}B4 |]
 
 X:4
 T:The Maids of Jura
@@ -63,7 +63,7 @@ L:1/8
 C:Trad
 M:C
 L:1/8
-Q:"114 bpm"
+Q:"112 bpm"
 K:D
 [| {Gdc}d2 {gdG}d>f {g}e>d {g}e<f | {g}d>B {g}A>{d}B {g}B<e {A}e>f [M:5/4]| {Gdc}d2 {gdG}d>f {g}e>d {g}e<(f f2) [M:4/4] | {g}d>B {g}A>B {Gdc}d2 {gdG}d>A |
 {Gdc}d2 {gdG}d>f {g}e>d {g}e<f | {g}d>B {g}A>{d}B {g}B<e {A}e>f | {Gdc}d2 {gdG}d>f {g}e>d {g}e<f | {{g}d>B {g}A>B {Gdc}d2 {gdG}d>B ||
@@ -131,7 +131,7 @@ L:1/8
 C:Trad
 M:C
 L:1/8
-Q:"114 bpm"
+Q:"112 bpm"
 K:D
 [| {g}f4 {ag}a4 | f4 c4 [M:5/4]| {g}f4 {ag}a6 [M:4/4] | {g}d>B {g}A>B {Gdc}d2 {gdG}d>A |
 {Gdc}d2 {gdG}d>f {g}e>d {g}e<f | {g}d>B {g}A>{d}B {g}B<e {A}e>f | {Gdc}d2 {gdG}d>f {g}e>d {g}e<f | {{g}d>B {g}A>B {Gdc}d2 {gdG}d>B ||
@@ -145,7 +145,7 @@ L:1/8
 C:Trad
 M:C
 L:1/8
-Q:"114 bpm"
+Q:"112 bpm"
 K:D
 [| {g}A4 {g}c4 | {g}d4 {g}A4 [M:5/4]| {g}A4 {g}c>B {g}c4 [M:4/4] | {g}d>B {g}A>B {Gdc}d2 {gdG}d>A |
 {Gdc}d2 {gdG}d>f {g}e>d {g}e<f | {g}d>B {g}A>{d}B {g}B<e {A}e>f | {Gdc}d2 {gdG}d>f {g}e>d {g}e<f | {{g}d>B {g}A>B {Gdc}d2 {gdG}d>B ||

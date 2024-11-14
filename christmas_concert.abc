@@ -51,9 +51,9 @@ M:9/8
 L:1/8
 Q:"80 bpm"
 K:D
-[| {g}A2B {Gdc}d3 {gdG}d3 | {ag}a2f {g}f>ed {gdG}d3 | {g}f>ed {gef}e3 {A}e2d | {g}f2d {g}B3 {G}B3 | 
+[| {g}A2B {Gdc}d3 {gdG}d3 | {ag}a2f {g}f2e {Gdc}d3 | {g}f>ed {gef}e3 {A}e2d | {g}fed {g}B3 {G}B3 | 
 {g}A2B {Gdc}d3 {gdG}d3 | {ag}a2f {g}f>ed {gdG}d3 | {g}f>ed {gef}e3 {A}e2d | {g}f2e {Gdc}d3 {gdG}d3 ||
-{g}A2B {Gdc}d3 {gdG}d3 | {g}ede {g}f3 {gAGAG}A3 | {g}A2B {Gdc}d3 {gdG}d3 | {g}ede {g}fa>f {g}e3 | 
+{g}A2B {Gdc}d3 {gdG}d3 | {g}ede {g}f3 {gAGAG}A3 | {g}A2B {Gdc}d3 {gdG}d3 | {g}ede {g}f3 {g}e3 | 
 {g}f2e {Gdc}d3 {gdG}d3 | {g}ede {g}f3 {gAGAG}A3 | {g}A2B {Gdc}d3 {g}A2f | {gef}e2{A}e {Gdc}d6 |]
 
 X:5

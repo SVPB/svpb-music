@@ -100,7 +100,7 @@ M:2/4
 L:1/8
 K:D
 [| {g}c{G}c {g}c2 | {g}c{G}c {g}c2 | {g}ce {g}A>B | {g}c4 |
-{g}d{G}d {g}d>{G}d | {g}dc {G}c{g}c/{G}c | {g}cB {G}B>c | {gBd}B2 {g}e2 | 
+{g}d{G}d {g}d>{G}d | {g}dc {G}c{g}c/{G}c/ | {g}cB {G}B>c | {gBd}B2 {g}e2 | 
 {g}c{G}c {g}c2 | {g}c{G}c {g}c2 | {g}ce {g}A>B | {g}c4 |
-{g}d{G}d {g}d>{G}d | {g}dc {G}c{g}c/{G}c | {g}e{A}e {g}dB | {G}A4 |]
+{g}d{G}d {g}d>{G}d | {g}dc {G}c{g}c/{G}c/ | {g}e{A}e {g}dB | {G}A4 |]
 

@@ -6,7 +6,7 @@ I:abc-include style.abh
 X:1
 T:Setting a Course for Lewis
 R:Air
-C:Freeland Babour
+C:Trad
 M:6/8
 L:1/8
 Q:"80 bpm"
@@ -46,7 +46,7 @@ K:D
 X:4
 T:Mingulay Boat Song
 R:March
-C:Freeland Babour
+C:Sir Hugh S. Roberton
 M:9/8
 L:1/8
 Q:"80 bpm"
@@ -91,3 +91,16 @@ e | {g}A>{d}A {e}A{d}c | {gBd}B>{e}A {GdG}B{gcd}c/B/ | {G}A>{GAG}A {gcd}ce | {fe
 {g}e>c {gcd}c{e}A | {GdG}B>{e}A {gBd}B{gcd}c/B/ | {G}A>{ge}f {g}fe | {gAGAG}A3 {ge}f |
 {gef}e>c {gcd}c{e}A | {GdG}B>{e}A {gBd}B{ge}f | {gef}e>c {gcd}ce | {g}f3 {ag}a |
 e>c {gcd}c{e}A | {GdG}B>{e}A {gBd}B{gcd}c/B/ | {G}A>{ge}f {g}fe | {gAGAG}A3 |
+
+X:8
+T:Jingle Bells
+C:Trad.
+R:March?
+M:2/4
+L:1/8
+K:D
+[| {g}c{G}c {g}c2 | {g}c{G}c {g}c2 | {g}ce {g}A>B | {g}c4 |
+{g}d{G}d {g}d>{G}d | {g}dc {G}c{g}c/{G}c | {g}cB {G}B>c | {gBd}B2 {g}e2 | 
+{g}c{G}c {g}c2 | {g}c{G}c {g}c2 | {g}ce {g}A>B | {g}c4 |
+{g}d{G}d {g}d>{G}d | {g}dc {G}c{g}c/{G}c | {g}e{A}e {g}dB | {G}A4 |]
+

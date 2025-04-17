@@ -1,10 +1,13 @@
 #!/usr/bin/perl
 use strict;
 use warnings FATAL => 'all';
+use LWP;
+use JSON;
 
 my $dir = $ENV{"ZULEIKA_DIR"};
 my $build_root = $ENV{"ZULEIKA_REPO"};
-my $current_branch = "2023";
+my $current_branch = $ENV{"ZULEIKA_CURRENT"};
+my $webhook = $ENV{"ZULEIKA_WEBHOOK"};
 
 # really, there ought to be a tool branch that maybe holds all the tools,
 # separate from the ABC files. As it is, let's just stack this up with
@@ -15,3 +18,17 @@ print "changed directory to $build_root/$current_branch\n";
 system('make sync');
 
 # refreshing the access token is a side effect of the sync process.
+# notify Slack
+my %payloadHash;
+$payloadHash{"text"} = "Box rsync token refreshed";
+my $jsonPayload = encode_json (\%payloadHash);
+my $ua = LWP::UserAgent->new;
+my $req = HTTP::Request->new(POST => $webhook);
+$req->content_type('application/json');
+$req->content($jsonPayload);
+my $res = $ua->request($req);
+if ($res->is_success) {
+	print "token refreshed, Slack notified"
+} else {
+	print "Failed to notify Slack: ", $res->status_line, "\n";
+}

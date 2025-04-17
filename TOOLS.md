@@ -35,5 +35,8 @@ sync (which is usually a no-op). This gets triggered by the systemd service `tok
 which is actually running the script of that name that is in the scripts directory in this
 repo.
 
+The way we edit the environment variables that are provided to the periodic jobs is via
+`systemctl edit <service>` where `<service>` is `tokenrefresh` or `triggercheck`.
+
 [lighttpd]: https://www.lighttpd.net
 [Apache]: https://httpd.apache.org

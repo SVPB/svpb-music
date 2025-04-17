@@ -24,9 +24,11 @@ At some point late in 2023, a whole bunch of Perl dependencies disappeared. This
  - PDF::API2
  - LWP::Protocol::https
 
-The most recent sweeping set of upgrades has meant that I needed to reinstall LWP:
-
-`apt-get install libwww-perl`
+The most recent sweeping set of upgrades has meant that I needed to reinstall
+ * LWP:`apt-get install libwww-perl`
+ * UUID: `apt-get install libdata-uuid-perl`
+ * PDF::API2: `apt-get install libpdf-api2-perl`
+ * LWP::Protocol::https: `apt-get install liblwp-protocol-https-perl`
 
 Furthermore, it should be noted that we keep the `rsync` token fresh by running a daily
 sync (which is usually a no-op). This gets triggered by the systemd service `tokenrefresh`

@@ -32,11 +32,11 @@ Q:"118 bpm"
 [| {g}f2A {g}Adf | {a}gB{G}B {ag}a2g | {a}f2{AGAG}A adf | {g}ec{d}A age | 
 {gfg}f2A {g}Adf | {a}gB{G}B {ag}a2g | {a}fda {ef}eca | d{g}d{G}d {g}dag | 
 {e}f2A {g}Adf | {a}gB{G}B {ag}a2g | {a}f2{AGAG}A a2{AGAG}A | {g}ec{d}A age |
-{g}A3 A3 | G3 G3 | A3 A3 | A3 A3 | 
-d3 d3 | d3 B3  | a2A d3 | c3 cBA |
-d3 d3  | d3 B3 |  dAd cAc | A3 ABc |
-{g}A3 A3 | G3 G3 | a2A d2A | A3 cBA |
-A3 A3 | B3 B3 | {gAGAG}A3 A3 [M:9/8] | A3 (B3 B3)| age {g}deg {a}edB [M:2/4] |  {gAGAG}A4 |]
+{g}A6 | {g}G6 | {g}A6 | {g}A6 | 
+{gc}d6 | {g}d3 B3  | a2A {g}d3 | {g}c3 {g}cBA |
+{g}d6  | {g}d3 B3 |  {g}dAd {g}cAc | A3 {g}ABc |
+{g}A6 | {g}G6 | a2A {g}d2A | {g}A3 {g}cBA |
+{g}A6 | {g}B6 | {gAGAG}A6 [M:9/8] | {g}A3 {d}(B3 B3)| age {g}deg {a}edB [M:2/4] |  {gAGAG}A4 |]
 X:5
 T:Angelsea Air
 T:Harmony 1

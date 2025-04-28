@@ -2,6 +2,7 @@
 I:abc-include style.abh
 %%landscape 0
 %%scale 0.7
+%%footer "Page $P	SVPB G3 Tuning Tune 2025 Generated: $D"
 X:1
 T:Wee Michael's March
 R:March

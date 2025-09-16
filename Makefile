@@ -7,7 +7,7 @@
 #
 # YEAR is the year for which this project builds the binder
 
-YEAR=2025
+YEAR=2026
 
 RM = rm
 

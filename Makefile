@@ -40,6 +40,7 @@ G3MISC = grans.abc banks_of_the_lossie.abc tune_for_lottie.abc
 G3HORNPIPES = g3_hornpipes.abc
 G4MEDLEY = g4_medley_2025.abc
 G4MSR = g4_msr_2025.abc
+G4SPEC = victoria_harbour.abc seonaidhs.abc bob_cooper.abc
 G4MARCHES = dream_valley.abc Killiecrankie.abc wee_michaels.abc
 PARADE = banks_of_the_lossie.abc irish_set.abc MarchOfTheRBL.abc john_barclay.abc \
    dream_valley.abc castle_dangerous.abc Moonstar.abc Moonstar_seconds.abc
@@ -48,7 +49,7 @@ WUSPBA = amazing_grace.abc green_hills.abc battles_oer.abc bonnie_dundee.abc \
    no_awa.abc rowan_tree.abc
 CHRISTMAS = christmas_concert.abc scotland_the_brave.abc Killiecrankie.abc wee_michaels.abc dream_valley.abc banks_of_the_lossie.abc
 
-ABCFILES = $(G3MEDLEY) $(G3NEWMSR) $(G368) $(G3HORNPIPES) $(G3MARCHES) $(G3MISC) $(G4MEDLEY) $(G4MSR) $(G4MARCHES) $(PARADE) $(WUSPBA)
+ABCFILES = $(G3MEDLEY) $(G3NEWMSR) $(G368) $(G3HORNPIPES) $(G3MARCHES) $(G3MISC) $(G4MEDLEY) $(G4MSR) $(G4MARCHES) $(G4SPEC) $(PARADE) $(WUSPBA)
 PSFILES = $(ABCFILES:.abc=.ps)
 PDFFILES = $(PSFILES:.ps=.pdf)
 
@@ -60,6 +61,7 @@ WUSPBA_SECTION = wuspba.pdf
 PARADE_SECTION = parade.pdf
 CHRISTMAS_SECTION = christmas.pdf
 G4_SECTION = g4.pdf
+G4_SPECULATIVE_SECTION = g4_spec.pdf
 G3_SECTION = g3.pdf
 
 
@@ -86,6 +88,10 @@ G4_FILES = $(G4MEDLEY) $(G4MSR) $(G4MARCHES)
 G4_PS = $(G4_FILES:.abc=.ps)
 G4_PDFS = $(G4_PS:.ps=.pdf)
 
+G4SPEC_FILES = $(G4SPEC)
+G4SPEC_PS = $(G4SPEC_FILES:.abc=.ps)
+G4SPEC_PDFS = $(G4SPEC_PS:.ps=.pdf)
+
 CHRISTMAS_PS = $(CHRISTMAS:.abc=.ps)
 CHRISTMAS_PDFS = $(CHRISTMAS_PS:.ps=.pdf)
 
@@ -103,8 +109,20 @@ INSTALL_DIR_FLAGS = -d
 # the binder PDF
 BINDER = $(YEAR)_binder.pdf
 
+# tunes we're considering but haven't decided upon yet
+SPECULATIVE = $(YEAR)_spec.pdf
+
+all: $(BINDER) speculative
+
+.PHONY: speculative clean dist install sync all install_concert
+
 $(BINDER): $(G3_SECTION) $(G4_SECTION) $(PARADE_SECTION) $(WUSPBA_SECTION)
-	$(JOIN)$(BINDER) $(G3_SECTION) $(G4_SECTION) $(PARADE_SECTION) $(WUSPBA_SECTION)
+	$(JOIN)$(BINDER) $(G3_SECTION) $(G4_SECTION) $(G4_SPECULATIVE_SECTION) $(PARADE_SECTION) $(WUSPBA_SECTION)
+
+speculative: $(SPECULATIVE)
+
+$(SPECULATIVE): $(G4_SPECULATIVE_SECTION)
+	$(JOIN)$(SPECULATIVE) $(G4_SPECULATIVE_SECTION)
 
 install_concert: $(CHRISTMAS_SECTION)
 	$(INSTALL) $(INSTALL_FLAGS) $(CHRISTMAS_SECTION) $(FULL_DIR)
@@ -116,6 +134,10 @@ $(G3_SECTION): $(G3_PDFS)
 $(G4_SECTION): $(G4_PDFS)
 	perl scripts/section_titles.pl g4_section.pdf "Grade 4 Tunes"
 	$(JOIN)$(G4_SECTION) g4_section.pdf $(G4_PDFS)
+
+$(G4_SPECULATIVE_SECTION): $(G4SPEC_PDFS)
+	perl scripts/section_titles.pl g4_speculative.pdf "Grade 4 Speculative"
+	$(JOIN)$(G4_SPECULATIVE_SECTION) g4_speculative.pdf $(G4SPEC_PDFS)
 
 $(PARADE_SECTION): $(PARADE_PDFS)
 	perl scripts/section_titles.pl parade_section.pdf "Parade Tunes"
@@ -141,9 +163,10 @@ clean:
 dist : clean $(BINDER)
 	-$(RM) *.ps
 
-install : $(BINDER)
+install : $(BINDER) speculative
 	$(INSTALL) $(INSTALL_DIR_FLAGS) $(FULL_DIR) $(G3_DIR) $(G4_DIR)
-	$(INSTALL) $(INSTALL_FLAGS) $(BINDER) $(FULL_PDFS) $(FULL_DIR)
+	$(INSTALL) $(INSTALL_FLAGS) $(BINDER) $(FULL_DIR)
+	$(INSTALL) $(INSTALL_FLAGS) $(SPECULATIVE) $(FULL_DIR)
 	$(INSTALL) $(INSTALL_FLAGS) $(G3_SECTION) $(G3_DIR)
 	$(INSTALL) $(INSTALL_FLAGS) $(G4_SECTION) $(G4_DIR)
 

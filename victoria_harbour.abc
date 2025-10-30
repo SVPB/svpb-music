@@ -1,0 +1,25 @@
+%abc-2.2
+I:abc-include style.abh
+%%landscape 1
+X:1
+T:Victoria Harbour
+R:Slow Air
+C:Bruce Gandy, harmony Rod Weeks
+Z:abc-transcription Stephen Beitzel, <sbeitzel@pobox.com>, 2025-10-29
+M:6/8
+L:1/8
+K:D
+%%score P1 P2
+V:P1 clef=treble name="Melody"   snm="First"
+V:P2 clef=treble name="Harmony"  snm="Second"
+[V:P1] [|: {g}A>Bd {g}e2 {gf}g | {Gdc}d>{g}eg {Bd}B<{e}AG | {g}A>e{a}g {ag}a2  e | {a}g>ed {gef}e3  |
+[V:P2] [|: {g}A>Bd {g}e2 {gf}g | {Gdc}d>{g}eg {Bd}B<{e}AG | {g}e>ad    {gef}e2 c | {g}d>cB {gcd}cde |
+% 5
+[V:P1]    {ag}A>g{a}e {gf}g2 e | {Gdc}d>{g}eg {Bd}B<{e}AG | {g}A>Bd {g}e<gB | {gBd}B>A{d}G {g}A3 :|]
+[V:P2]  {gef}e>d{g}c {Gdc}d2 B | {g}B>{g}cd   {gde}d<cd   | {g}A>Bd {g}e<gB | {gBd}B>A{d}G {g}A3 :|]
+% 9
+[V:P1] [|: {gef}e>dg {ef}e<dB | {Gdc}d>{g}eg {Bd}B<{e}AG | {g}A>e{a}g {ag}a>ea  | g>ed {gef}e3 |
+[V:P2] [|: {gef}e>dg {ef}e<dB | {Gdc}d>{g}eg {Bd}B<{e}AG | {g}e>ad    {gef}e>ce | d>cB {gcd}cde |
+% 13
+[V:P1] {a}g>ed {gef}e<dB | {Gdc}d>{g}eg {Bd}B<{e}AG | {g}A>Bd {g}e<gB | {gBd}B>A{d}G {g}A3 :|]
+[V:P2] {g}e>aB {gcd}c<BG | {gBe}B>{e}cd {gde}d<cd   | {g}A>Bd {g}e<gB | {gBd}B>A{d}G {g}A3 :|]

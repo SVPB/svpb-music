@@ -9,7 +9,11 @@
 
 YEAR=2026
 
-RM = rm
+# We perform the Christmas concert at the end of the year, at the same time that we're
+# settling on new tunes, so we've already switched to the next year's binder.
+CONCERT_YEAR := $(shell echo $$(( $(YEAR) - 1 )))
+
+RM = rm -f
 
 # The command which will be called with an ABC file as the one argument and which
 # will generate the PostScript file.
@@ -47,7 +51,8 @@ PARADE = banks_of_the_lossie.abc irish_set.abc MarchOfTheRBL.abc john_barclay.ab
 WUSPBA = amazing_grace.abc green_hills.abc battles_oer.abc bonnie_dundee.abc \
    brown_haired_maiden.abc highland_laddie.abc scotland_the_brave.abc \
    no_awa.abc rowan_tree.abc
-CHRISTMAS = christmas_concert.abc scotland_the_brave.abc Killiecrankie.abc wee_michaels.abc dream_valley.abc banks_of_the_lossie.abc
+CHRISTMAS = christmas_concert.abc scotland_the_brave.abc Killiecrankie.abc \
+   wee_michaels.abc dream_valley.abc banks_of_the_lossie.abc
 
 ABCFILES = $(G3MEDLEY) $(G3NEWMSR) $(G368) $(G3HORNPIPES) $(G3MARCHES) $(G3MISC) $(G4MEDLEY) $(G4MSR) $(G4MARCHES) $(G4SPEC) $(PARADE) $(WUSPBA)
 PSFILES = $(ABCFILES:.abc=.ps)
@@ -59,7 +64,7 @@ CONCERT_PDF = $(CONCERT_PS:.ps=.pdf)
 
 WUSPBA_SECTION = wuspba.pdf
 PARADE_SECTION = parade.pdf
-CHRISTMAS_SECTION = christmas.pdf
+CHRISTMAS_SECTION = $(CONCERT_YEAR)_christmas.pdf
 G4_SECTION = g4.pdf
 G4_SPECULATIVE_SECTION = g4_spec.pdf
 G3_SECTION = g3.pdf
@@ -112,9 +117,9 @@ BINDER = $(YEAR)_binder.pdf
 # tunes we're considering but haven't decided upon yet
 SPECULATIVE = $(YEAR)_spec.pdf
 
-all: $(BINDER) speculative
+all: $(BINDER) speculative concert
 
-.PHONY: speculative clean dist install sync all install_concert
+.PHONY: speculative clean dist install sync all install_concert concert
 
 $(BINDER): $(G3_SECTION) $(G4_SECTION) $(PARADE_SECTION) $(WUSPBA_SECTION)
 	$(JOIN)$(BINDER) $(G3_SECTION) $(G4_SECTION) $(G4_SPECULATIVE_SECTION) $(PARADE_SECTION) $(WUSPBA_SECTION)
@@ -126,6 +131,8 @@ $(SPECULATIVE): $(G4_SPECULATIVE_SECTION)
 
 install_concert: $(CHRISTMAS_SECTION)
 	$(INSTALL) $(INSTALL_FLAGS) $(CHRISTMAS_SECTION) $(FULL_DIR)
+
+concert: $(CHRISTMAS_SECTION)
 
 $(G3_SECTION): $(G3_PDFS)
 	perl scripts/section_titles.pl g3_section.pdf "Grade 3 Tunes"
@@ -148,7 +155,7 @@ $(WUSPBA_SECTION): $(WUSPBA_PDFS)
 	$(JOIN)$(WUSPBA_SECTION) wuspba_section.pdf $(WUSPBA_PDFS)
 
 $(CHRISTMAS_SECTION): $(CHRISTMAS_PDFS)
-	perl scripts/section_titles.pl christmas_section.pdf "Christmas Concert Tunes"
+	perl scripts/section_titles.pl christmas_section.pdf "Christmas Concert Tunes $(CONCERT_YEAR)"
 	$(JOIN)$(CHRISTMAS_SECTION) christmas_section.pdf $(CHRISTMAS_PDFS)
 
 %.ps: %.abc style.abh

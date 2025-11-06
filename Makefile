@@ -42,7 +42,7 @@ G368 = MarchOfTheRBL.abc Bengullion.abc john_barclay.abc
 G3MARCHES = snipe.abc Killiecrankie.abc wee_michaels.abc
 G3MISC = grans.abc banks_of_the_lossie.abc tune_for_lottie.abc
 G3HORNPIPES = g3_hornpipes.abc
-G4MEDLEY = g4_medley_2025.abc
+G4MEDLEY = g4_medley_2026.abc
 G4MSR = g4_msr_2025.abc
 G4SPEC = victoria_harbour.abc seonaidhs.abc bob_cooper.abc
 G4MARCHES = dream_valley.abc Killiecrankie.abc wee_michaels.abc
@@ -119,10 +119,20 @@ SPECULATIVE = $(YEAR)_spec.pdf
 
 all: $(BINDER) speculative concert
 
-.PHONY: speculative clean dist install sync all install_concert concert
+.PHONY: speculative clean dist install sync all install_concert concert g4 g3 parade wuspba binder
 
-$(BINDER): $(G3_SECTION) $(G4_SECTION) $(PARADE_SECTION) $(WUSPBA_SECTION)
+binder: $(BINDER)
+
+$(BINDER): g3 g4 parade wuspba speculative
 	$(JOIN)$(BINDER) $(G3_SECTION) $(G4_SECTION) $(G4_SPECULATIVE_SECTION) $(PARADE_SECTION) $(WUSPBA_SECTION)
+
+g3: $(G3_SECTION)
+
+g4: $(G4_SECTION)
+
+parade: $(PARADE_SECTION)
+
+wuspba: $(WUSPBA_SECTION)
 
 speculative: $(SPECULATIVE)
 

@@ -1,0 +1,17 @@
+%abc-2.2
+I:abc-include style.abh
+%%landscape 1
+X:1
+T:MacPhail of Bunessan
+R:March
+C:Unknown
+N:Arrangement attributed to Freeland Barbour
+N:Used as the first tune in the G4 medley, 2025
+M:4/4
+L:1/8
+Q:"80 bpm"
+K:D
+[| {g}f2 {g}e>f {g}ed {gdG}dc | {g}B<d {gf}gB {gBd}B{e}A {GAG}A2 | {g}B>c {Gdc}dB {gBd}B{e}A {Gdc}df | {ag}a>g {a}fg {ef}e2 {ag}a>g |
+{a}f2 {g}e>f {g}ed {gdG}dc | {g}B<d {gf}gB {gBd}B{e}A {GAG}A2 | {g}B>c {Gdc}dB {gBd}B{e}A {Gdc}df | {gf}g>e {gcd}ce {Gdc}d2 {g}c>d |
+{g}e>f {gf}ge {gcd}c{e}A {gcd}ce | {Gdc}d>e {g}fA {gBd}B{e}A {GAG}A2 | {g}B>c {Gdc}dB {gBd}B{e}A {Gdc}df | {ag}a>g {a}fg {ef}e2 {ag}a>g |
+{a}f2 {g}e>f {g}ed {gdG}dc | {g}B<d {gf}gB {gBd}B{e}A {GAG}A2 | {g}B>c {Gdc}dB {gBd}B{e}A {Gdc}df [M:2/4] | {gf}g>e {gcd}ce "Jig Time"[M:6/8] | {Gdc}(d3 d3) |]

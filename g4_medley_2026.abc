@@ -1,19 +1,18 @@
 %abc-2.2
 I:abc-include style.abh
-%%footer "Page $P	SVPB G4 Medley 2025	Generated: $D"
+%%footer "Page $P	SVPB G4 Medley 2026	Generated: $D"
 %%landscape 1
 X:1
-T:MacFail from Bunessan
+T:Margaret Boyd's Challenge
 R:March
-C:Freeland Babour
+C:Bruce Gandy
 M:4/4
 L:1/8
-Q:"80 bpm"
 K:D
-[| {g}f2 {g}e>f {g}ed {gdG}dc | {g}B<d {gf}gB {gBd}B{e}A {GAG}A2 | {g}B>c {Gdc}dB {gBd}B{e}A {Gdc}df | {ag}a>g {a}fg {ef}e2 {ag}a>g |
-{a}f2 {g}e>f {g}ed {gdG}dc | {g}B<d {gf}gB {gBd}B{e}A {GAG}A2 | {g}B>c {Gdc}dB {gBd}B{e}A {Gdc}df | {gf}g>e {gcd}ce {Gdc}d2 {g}c>d |
-{g}e>f {gf}ge {gcd}c{e}A {gcd}ce | {Gdc}d>e {g}fA {gBd}B{e}A {GAG}A2 | {g}B>c {Gdc}dB {gBd}B{e}A {Gdc}df | {ag}a>g {a}fg {ef}e2 {ag}a>g |
-{a}f2 {g}e>f {g}ed {gdG}dc | {g}B<d {gf}gB {gBd}B{e}A {GAG}A2 | {g}B>c {Gdc}dB {gBd}B{e}A {Gdc}df [M:2/4] | {gf}g>e {gcd}ce "Jig Time"[M:6/8] | {Gdc}(d3 d3) |]
+{g}B2 {GdGe}B{d}c {gfg}f2 {e}fc | {gef}e>c {g}B{d}c {G}A2 {gcd}c{e}A | {g}B2 {GdGe}B{d}c {g}fa e>f | {gcd}c2 {g}e>f {gef}e2 {g}fe/c/ |
+{g}B2 {GdGe}B{d}c {gfg}f2 {e}fc | {gef}e>c {g}B{d}c {G}A2 {g}A>B | {GdG}ce {ag}a>g {a}fa {ef}ec | {gBd}B2 {g}ce {gfg}f2 {g}B>c ||
+{Gdc}d>e {g}fa {fg}f2 {e}fe | {g}c<e {A}e>f {gef}e2 {g}A{d}c | {g}B2 {GdGe}B{d}c {g}fa e<f | {gcd}c2 {g}e>f {gef}e2 {g}B>c |
+{Gdc}d>e {g}fa {fg}f2 {e}fc | {gef}e>c {g}B{d}c {G}A2 {g}A>B | {GdG}ce {ag}a>g {a}fa {ef}ec | {gBd}B2 {g}ce {gfg}f4 |]
 
 X:2
 T:Bride's Jig
@@ -45,16 +44,17 @@ K:D
 A2) B {g}c{d}c{e}c | {g}dc{G}c {g}B2 f | {g}eA(d d2)c [M:2/4] | {g}B4 |]
 
 X:4
-T:The Maids of Jura
+T:Angel in Blue
 R:Slow March
-C:John Maclellan, Dunoon
+C:Scott McClellan
 M:4/4
 L:1/8
+H:In memory of Detective LaVern Brann, Battle Creek (Michigan) Police Department and in honor of all who protect and serve
 K:D
-[| {g}A3 {d}A {e}A2d2 | {g}Bd3 {g}A4 | {g}f3 g {ag}a3 d | {g}d2 f2 {gef}e4 |
-{g}A3 B {Gdc}d3 c | {g}Bd3 {gef}e4 | {gfg}f3 e f{g}A3 | {gBd}B4 {G}A2 {g}de ||
-{gfg}f3 e{A} e3 f | {g}e d3 B {Gdc}d4 |{ag}a3 f {gef}e3 d | {g}e f2 A {g}B4 |
-{g}A3 B {Gdc}d3 c | {g} HB2 Hd2 {gef}e4 | {gfg}f3 e f {g}A3 | "Spey tempo - 112"{gBd}B2 {g}A2 {GAG}A4 |]
+[| {g}A{d}A | {gef}e4-ec {gde}d<c | {G}A6 {g}A{d}A | {gef}e4-ea f<d | {gcd}c6 {Gdc}d>c |
+   {gBd}B4-Bc {g}d<e | {gAGAG}A6 {g}A{d}A | {g}e{d}c-c3 e {gde}d>c | {G}A6 |]
+[| {g}A{d}A | {ag}a4-ae {g}f/e/d | {g}c<e-e4 {g}B>c | {Gdc}d4-df {g}e>d | {gcd}c6 {g}A{d}A |
+   {ag}a4-ae {g}f/e/d | {gcd}c6 {g}A{d}A | {a}e{d}c-c3 e {gde}d>c | {G}A6 |]
 
 X:5
 T:Hey Johnnie
@@ -66,7 +66,7 @@ L:1/8
 Q:"112 bpm"
 K:D
 [| {Gdc}d2 {gdG}d>f {g}e>d {g}e<f | {g}d>B {g}A>{d}B {g}B<e {A}e>f [M:5/4]| {Gdc}d2 {gdG}d>f {g}e>d {g}e<(f f2) [M:4/4] | {g}d>B {g}A>B {Gdc}d2 {gdG}d>A |
-{Gdc}d2 {gdG}d>f {g}e>d {g}e<f | {g}d>B {g}A>{d}B {g}B<e {A}e>f | {Gdc}d2 {gdG}d>f {g}e>d {g}e<f | {{g}d>B {g}A>B {Gdc}d2 {gdG}d>B ||
+{Gdc}d2 {gdG}d>f {g}e>d {g}e<f | {g}d>B {g}A>{d}B {g}B<e {A}e>f | {Gdc}d2 {gdG}d>f {g}e>d {g}e<f | {g}d>B {g}A>B {Gdc}d2 {gdG}d>B ||
 {g}A>B {g}d<f {g}e>d {g}e<f | {g}d>B {g}A>{d}B {g}B<e {A}e2 | {g}A>B {g}d<f {g}e>d {g}e<f | {g}d>B {g}A>B {Gdc}d2 {gdG}d>B
 {g}A>B {g}d<f {g}e>d {g}e<f [M:2/4] | {g}d>B {g}A>{d}B [M:C|] "Reel Tempo" | {g}B<(e e4) f2 | {gc}d3 f {g}ed{g}ef | {g}dB{g}AB {g}d2 e2 |]
 
@@ -100,30 +100,6 @@ K:D
 {g}A3 {d}c {g}eA{d}ca | c{g}c{G}cB c{g}c{G}cB | {g}A3 {d}c {g}eA{d}ca | B{g}B{G}BA {g}Bd{g}cB |
 {g}A3 {d}c {g}eA{d}ca | c{g}c{G}cB {g}c2 e2 | {g}f3 e {g}fe{g}fg | af{g}ec {g}Bd{g}cB | {g}A8 |]
 
-X:8
-T:The Maids of Jura, Seconds
-R:Slow March
-C:John Maclellan, Dunoon
-M:4/4
-L:1/8
-K:D
-[| {g}A3 {d}A {e}A2d2 | {g}Bd3 {g}A4 | {g}f3 g {ag}a3 d | {g}d4 {g}c2 B2 |
-{g}A3 B {G}A4 | {g}B4 {g}c2{g}Bc | {g}d3 c {g}da3 | {f}g2 f2 {g}e2 {g}de ||
-{g}d4 {ag}a4 | {f}g4 f2{g}ed |{g}d4 c3 B | {g}c d3 {gf}g4 |
-e4 {g}f4 | {gf} Hg2 Hf2 {ag}a4 | d3 c {g}d a3 | "Spey tempo - 114" {f}g2 f2 e4 |]
-
-X:9
-T:The Maids of Jura, Thirds
-R:Slow March
-C:John Maclellan, Dunoon
-M:4/4
-L:1/8
-K:D
-[| {g}A3 {d}A {e}A2d2 | {g}Bd3 {g}A4 | {g}f3 g {ag}a3 d | {g}d2 f2 {gef}e4 |
-{g}A3 B {Gdc}d3 c | {g}Bd3 {gef}e4 | {gfg}f3 e f{g}A3 | {gBd}B4 {G}A2 {g}de ||
-{g}A8 | {g}G4 A4 |{g}d4 c3 B | {g}c d3 {g}d4 |
-{g}A3 B {G}A4 | HG2 HA2 {g}c4 | d3 c {g}d e3 | "Spey tempo - 114" {g}e2 d2 c4 |]
-
 X:10
 T:Hey Johnnie, Seconds
 R:Strathspey
@@ -134,7 +110,7 @@ L:1/8
 Q:"112 bpm"
 K:D
 [| {g}f4 {ag}a4 | f4 c4 [M:5/4]| {g}f4 {ag}a6 [M:4/4] | {g}d>B {g}A>B {Gdc}d2 {gdG}d>A |
-{Gdc}d2 {gdG}d>f {g}e>d {g}e<f | {g}d>B {g}A>{d}B {g}B<e {A}e>f | {Gdc}d2 {gdG}d>f {g}e>d {g}e<f | {{g}d>B {g}A>B {Gdc}d2 {gdG}d>B ||
+{Gdc}d2 {gdG}d>f {g}e>d {g}e<f | {g}d>B {g}A>{d}B {g}B<e {A}e>f | {Gdc}d2 {gdG}d>f {g}e>d {g}e<f | {g}d>B {g}A>B {Gdc}d2 {gdG}d>B ||
 {g}A>B {g}d<f {g}e>d {g}e<f | {g}d>B {g}A>{d}B {g}B<e {A}e2 | {g}A>B {g}d<f {g}e>d {g}e<f | {g}d>B {g}A>B {Gdc}d2 {gdG}d>B
 {g}A>B {g}d<f {g}e>d {g}e<f [M:2/4] | {g}d>B {g}A>{d}B [M:C|] "Reel Tempo" | {g}B<(e e4) f2 | {gc}d3 f {g}ed{g}ef | {g}dB{g}AB {g}d2 e2 |]
 
@@ -148,6 +124,6 @@ L:1/8
 Q:"112 bpm"
 K:D
 [| {g}A4 {g}c4 | {g}d4 {g}A4 [M:5/4]| {g}A4 {g}c>B {g}c4 [M:4/4] | {g}d>B {g}A>B {Gdc}d2 {gdG}d>A |
-{Gdc}d2 {gdG}d>f {g}e>d {g}e<f | {g}d>B {g}A>{d}B {g}B<e {A}e>f | {Gdc}d2 {gdG}d>f {g}e>d {g}e<f | {{g}d>B {g}A>B {Gdc}d2 {gdG}d>B ||
+{Gdc}d2 {gdG}d>f {g}e>d {g}e<f | {g}d>B {g}A>{d}B {g}B<e {A}e>f | {Gdc}d2 {gdG}d>f {g}e>d {g}e<f | {g}d>B {g}A>B {Gdc}d2 {gdG}d>B ||
 {g}A>B {g}d<f {g}e>d {g}e<f | {g}d>B {g}A>{d}B {g}B<e {A}e2 | {g}A>B {g}d<f {g}e>d {g}e<f | {g}d>B {g}A>B {Gdc}d2 {gdG}d>B
 {g}A>B {g}d<f {g}e>d {g}e<f [M:2/4] | {g}d>B {g}A>{d}B [M:C|] "Reel Tempo" | {g}B<(e e4) f2 | {gc}d3 f {g}ed{g}ef | {g}dB{g}AB {g}d2 e2 |]

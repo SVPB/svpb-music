@@ -1,0 +1,138 @@
+%abc-2.2
+I:abc-include style.abh
+%%footer "Page $P	SVPB G3 Medley 2026	Generated: $D"
+%%landscape 1
+%%scale 0.6
+X:1
+T:PM Sandy Spence
+C:Gordon Duncan
+L:1/16
+R:2/4 March
+M:2/4
+K:D
+Q:"76 bpm"
+[|: {g}A>B | {gcd}c4 {g}c>B{g}A>c | {gBd}B2{e}A3 {GAG}A2a>g | {a}f4 {g}f>e{g}f>g | a>f{g}e>c {g}c<e{g}A>B |
+{gcd}c4 {g}c>B{g}A>c | {gBd}B2{e}A3 {GAG}A2a>g | {a}f>e{g}f>g {a}f<aA>c | {gBd}B2{e}A2 {GAG}A>e :|]
+[|: (3{g}Bce | {g}f4 {g}f>e{g}f>g | a>f{g}e>c {g}c<e{g}f>g | a2{GdG}a>c {g}B<{d}A{GAG}A2 | {gcd}c2{g}B<{d}A [1 {g}B2{g}c<e [2 {g}B>e{g}A>B | 
+[1{g}f4 {g}f>e{g}f>g | a>f{g}e>c {g}c<e{g}f>g | a>g{a}f>e {a}f<aA>c | {gBd}B2{e}A2 {GAG}A>e :|]
+[2 {gcd}c4 {g}c>B{g}A>c | {g}B2{e}(A2 A)(a a2)>g [M:3/4]| {a}f>e{g}f>g {a}f<aA>c {gBd}B2{e}A2 [M:6/8] [Q:3/8=118]| {GAG}A12 |]
+
+X:2
+T:The Skylark's Ascension
+C:Archie Lindsay
+L:1/8
+R:Jig
+M:6/8
+K:D
+Q:"118 bpm"
+[|: a{g}a{g}a fa{g}a | fe{A}e {gcd}c2B | {g}A{d}A{e}A {g}A2B | {g}ce{A}e {gef}e2c |
+{ge}f3 {g}fec | {g}ef{e}f {gcd}c2B | {g}Aa{g}a fec | {gef}e3 {A}e2f :|]
+{ag}a3 {g}af{g}e | f{g}f{e}f {g}f2e | {gB}c3 {g}cf{e}f | {g}ecB {g}c2e | 
+{ag}a3 {g}af{g}e | f{g}f{e}f {g}f2e | {g}Aa{g}a fec | {g}e2 f2 g2 | 
+a2{g}(a a)fe | f2 {g}(f f2) e | {gB}c3 {g}cf{e}f |{g}ecB {g}c2e | 
+{ag}a3 {g}afe | {g}ef{e}f {gcd}c2B | {g}Aa{g}a fec | {g}e6 |]
+
+X:2
+T:The Radar Racketeer
+C:Murray Blair & Adrian Melvin
+L:1/8
+R:Jig
+M:6/8
+K:D
+Q:"118 bpm"
+[| {g}f2 B {g}fed | {g}AeA {g}edc | {g}Bf{e}f {g}fed | {g}e2 (f f)ed |
+{g}Bf{e}f {g}fed | {g}AeA {g}edc | {g}Bde {g}faf | {g}edc {g}B3 | 
+{g}fB{G}B {g}fed | {g}eA{d}c {g}edc | {g}Bf{e}f {g}fed | {g}e2 (f f)ed |
+{g}Bf{e}f {g}fed | {g}AeA {g}edc | {g}Bde {g}faf | {g}edc {g}B3 ||
+{g}faB {g}fed | {g}AeA {g}edc | B{e}B{G}B d{g}d{G}d | {gef}ede {g}f2 {e}f | 
+[1{g}BfB {g}fed | {g}AeA {g}edc | {g}Bde {g}faf | {g}edc {g}B3 :|]
+[2 {g}BfB {g}fed [M:9/8] | {g}AeA {g}edc {g}Bde [M:6/8] | {g}f2 a2 c2 [Q:1/4=70] | {g}B6 |]
+X:4
+T:The Parting Glass
+C:Trad
+L:1/8
+R:Air
+M:4/4
+K:D
+Q:"70 bpm"
+{g}fe | {Gdc}d3B {gBd}B2{g}AB | {gc}d2{e}A2 {gef}e3 {g}d/e/ | {g}f3g {fg}fe {g}de | {g}f2 {g}A2 {GAG}A2 {g}fe | {Gdc}d3 {g}c/d/ {gBd}B2 {g}AB [M:2/4] | {gc}d2 {c}d2 [M:4/4] | {gef}e6 {g}de | {g}f2 {ag}a2 f3 {g}e/f/ [Q:1/4=118] | {g}d4 {e}A4 | {GdG}B8 |]
+
+X:5
+T:The Smith is a Gallant Fireman
+C:trad
+L:1/8
+R:Strathspey
+M:4/4
+K:D
+Q:1/4=120
+[| {g}A2 {GdGe}A>{d}c {g}e>f {gef}e>c | {g}e>f {ag}a>e {g}d>c {g}B<{d}A | {g}B2 {GdGe}B>{d}c {g}B>c {g}B<{d}A | {g}B>c {Gdc}d>e {g}f2 {ag}a2 | 
+{g}A2 {GdGe}A>{d}c {g}e>f {gef}e>c | {g}e>f {ag}a>e {g}d>c {g}B<{d}A | {Gdc}d>e {g}f>A {g}c2 {GdG}e>c | {g}B>c {Gdc}d>e {g}f2 {g}e/f/g ||
+{ag}a2 {GdG}a>e {ag}a2 {GdG}a>f | {g}e>f {ag}a>e {g}d>c {g}B<{d}A | {g}B2 {GdGe}B>{d}c {g}B>c {g}B<{d}A | {g}B>c {Gdc}d>e {g}f2 {g}e/f/g | 
+{ag}a2 {GdG}a>e {ag}a2 {GdG}a>f | {g}e>f {ag}a>e {g}d>c {g}B<{d}A | {Gdc}d>e {g}f>A {g}c2 {GdG}e>c | {g}B>c {Gdc}d>e {g}f2 {ag}a2 |]
+
+X:6
+T:Ernie's Manor
+C:Colin Elder
+L:1/8
+R:Air
+M:C|
+K:D
+Q:"87 bpm"
+[|: {gf}g3a ge{g}fd | {g}eA{g}A{d}A {gf}g2 {a}fg | {a}fd{g}d{G}d {g}fd{g}ef | ge{g}fd {g}eA{g}ef |
+{gf}g3a ge{g}fd | {g}eA{g}A{d}A {gf}g2 {a}fg | af{a}ge {g}de{g}fd | {g}eg{a}fd {gef}e4 :|]
+[|: {g}Bgf{g}(e e)B{g}B{G}B | {gf}g3a ge{g}e{A}e | {g}fd{g}d{G}d {g}fd{g}ef | ge{g}fd {g}eA{g}ef |
+{g}Bgf{g}(e e)B{g}B{G}B | {gf}g3a ge{g}e{A}e | af{a}ge {g}de{g}fd | {g}eg{a}fd {gef}e4 :|]
+
+X:7
+T:Mele's
+R:Reel
+C:Chris Gray
+L:1/8
+M:C|
+K:D
+Q:1/2=87
+[| {gAGAG}A2 {g}AB {gcd}c2 {g}B{d}A | {g}eA{d}ce {g}fd{G}df | {g}eA{g}c{d}A {gcd}c2 {g}B{d}A | {g}fe{A}ec {A}B2 {g}cB |
+{gAGAG}A2 {g}AB {gcd}c2 {g}B{d}A | {g}eA{d}ce {g}fA{g}df | {ag}a2 {cd}ce {g}dB{g}GA | {g}B{G}B{g}Bc {G}A3e ||
+{g}fA{g}df a{g}aef | {g}eA{g}c{d}A {g}cd{G}df | {g}ec{g}AB {gcd}c2 {g}B{d}A | {g}fe{A}ec {A}B2 {g}B/c/e | 
+{g}fA{g}df a{g}aef | {g}ec{g}B{d}c {g}AB{g}c{d}A | {ag}a2 {cd}ce {g}dB{g}GA | {g}B{G}B{g}Bc {g}AB{g}ce | 
+{g}fA{g}df a{g}aef | {g}eA{g}c{d}A {g}cd{G}df | {g}ec{g}AB {gcd}c2 {g}B{d}A | {g}fe{A}ec {A}B2 {g}cB | 
+{gAGAG}A2 {g}AB {gcd}c2 {g}B{d}A [M:3/2]| {g}eA{d}ce {g}f4 [M:C|]| {g}f2{ag}a2 e2 {g}cA | {g}B{G}B{g}Bc {g}A2 z2 |]
+
+X:4
+T:The Parting Glass
+C:Trad
+L:1/8
+R:Air
+M:4/4
+K:D
+Q:"70 bpm"
+{g}fe | {Gdc}d3B {gBd}B2{g}AB | {gc}d2{e}A2 {gef}e3 {g}d/e/ | {g}f3g {fg}fe {g}de | {g}f4 e2 fe | {Gdc}f4 {gBd}g4 [M:2/4] | {g}B2 e2  [M:4/4] | {gef}a4 {g}de | {g}d2 {ag}c2  d3 {g}e/f/ [Q:1/4=118] | {g}f4 {e}e4 | {GdG}f8 |]
+
+X:4
+T:The Parting Glass
+C:Trad
+L:1/8
+R:Air
+M:4/4
+K:D
+Q:"70 bpm"
+{g}fe | {Gdc}d3B {gBd}B2{g}AB | {gc}d2{e}A2 {gef}e3 {g}d/e/ | {g}f3g {fg}fe {g}de | {g}f4 e2 fe | {Gdc}f4 {gBd}g4 [M:2/4] | {g}g2 e2  [M:4/4] | {gef}d4 c2 {g}de | {g}a2 {ag}f2  a3 {g}e/f/ [Q:1/4=118] | {g}d4 {e}A4 | {GdG}f8 |]
+
+X:4
+T:The Parting Glass
+C:Trad
+L:1/8
+R:Air
+M:4/4
+K:D
+Q:"70 bpm"
+{g}fe | {Gdc}d3B {gBd}B2{g}AB | {gc}d2{e}A2 {gef}c3 {g}B/c/ | {g}d4 {fg}dc {g}A2 | {g}A4 c2 c2 | {Gdc}A4 {gBd}G4 [M:2/4] | {g}G2 A2  [M:4/4] | {gef}A6 {g}B2 | {g}A2 {ag}A2  B3 {g}e/f/ [Q:1/4=118] | {g}d4 {e}A4 | {GdG}B8 |]
+X:4
+T:The Parting Glass
+C:Trad
+L:1/8
+R:Air
+M:4/4
+K:D
+Q:"70 bpm"
+{g}fe | {Gdc}d3B {gBd}B2{g}AB | {gc}d2{e}A2 {gef}e3 {g}d/e/ | {g}f3g {fg}fe {g}de | {g}f2 A2 {GAG}A2 {g}fe | {Gdc}d3 {g}c/d/ {gBd}B2 {g}AB [M:2/4] | {g}d2 {c}d2 [M:4/4] | {gef}B6 {g}de | {g}f2 {ag}a2 f3 {g}e/f/ [Q:1/4=118] | {g}d4 {e}A4 | {GdG}B8 |]

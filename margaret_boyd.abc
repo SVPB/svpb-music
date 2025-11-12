@@ -1,0 +1,14 @@
+%abc-2.2
+I:abc-include style.abh
+%%landscape 1
+X:1
+T:Margaret Boyd's Challenge
+R:March
+C:Bruce Gandy
+M:4/4
+L:1/8
+K:D
+{g}B2 {GdGe}B{d}c {gfg}f2 {e}fc | {gef}e>c {g}B{d}c {G}A2 {gcd}c{e}A | {g}B2 {GdGe}B{d}c {g}fa e>f | {gcd}c2 {g}e>f {gef}e2 {g}fe/c/ |
+{g}B2 {GdGe}B{d}c {gfg}f2 {e}fc | {gef}e>c {g}B{d}c {G}A2 {g}A>B | {GdG}ce {ag}a>g {a}fa {ef}ec | {gBd}B2 {g}ce {gfg}f2 {g}B>c ||
+{Gdc}d>e {g}fa {fg}f2 {e}fe | {g}c<e {A}e>f {gef}e2 {g}A{d}c | {g}B2 {GdGe}B{d}c {g}fa e<f | {gcd}c2 {g}e>f {gef}e2 {g}B>c |
+{Gdc}d>e {g}fa {fg}f2 {e}fc | {gef}e>c {g}B{d}c {G}A2 {g}A>B | {GdG}ce {ag}a>g {a}fa {ef}ec | {gBd}B2 {g}ce {gfg}f4 |]

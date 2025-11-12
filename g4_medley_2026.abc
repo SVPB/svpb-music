@@ -3,16 +3,19 @@ I:abc-include style.abh
 %%footer "Page $P	SVPB G4 Medley 2026	Generated: $D"
 %%landscape 1
 X:1
-T:Margaret Boyd's Challenge
+T:Bob Cooper of Winnipeg
 R:March
-C:Bruce Gandy
+C:Bob Worrall, Arrangment by Jack Lee
+Z:abc-transcription Stephen Beitzel, <sbeitzel@pobox.com>, 2025-10-29
 M:4/4
 L:1/8
 K:D
-{g}B2 {GdGe}B{d}c {gfg}f2 {e}fc | {gef}e>c {g}B{d}c {G}A2 {gcd}c{e}A | {g}B2 {GdGe}B{d}c {g}fa e>f | {gcd}c2 {g}e>f {gef}e2 {g}fe/c/ |
-{g}B2 {GdGe}B{d}c {gfg}f2 {e}fc | {gef}e>c {g}B{d}c {G}A2 {g}A>B | {GdG}ce {ag}a>g {a}fa {ef}ec | {gBd}B2 {g}ce {gfg}f2 {g}B>c ||
-{Gdc}d>e {g}fa {fg}f2 {e}fe | {g}c<e {A}e>f {gef}e2 {g}A{d}c | {g}B2 {GdGe}B{d}c {g}fa e<f | {gcd}c2 {g}e>f {gef}e2 {g}B>c |
-{Gdc}d>e {g}fa {fg}f2 {e}fc | {gef}e>c {g}B{d}c {G}A2 {g}A>B | {GdG}ce {ag}a>g {a}fa {ef}ec | {gBd}B2 {g}ce {gfg}f4 |]
+[|: {g}A{Gdc}d | {gfg}f2 {e}fa {e}f2 {g}ed | {gf}g2 {a}g<a {A}B2 {gde}d>B | {g}A2 {GAG}Ad {g}f<a df | {a}g>f d<{e}B {gef}e2 {g}A{Gdc}d |
+{gfg}f2 {e}fA {e}f2 {g}ef | {a}g>f a<g {A}B2 {gde}d>B | {g}A2 {GAG}Ad {g}f<a | {ef}eA {g}f/e/c [1 {gc}d2 :|[2 {gc}d3 |]
+[|: A | {ag}a2 {fg}f>e {Gdc}d2 {g}ed | {gf}g2 {a}g<a {A}B2 {gde}d>B | {g}A2 {GAG}Ad {g}f<a df |[1 {a}g>f d<{e}B {gef}e3 A |
+[1 {ag}a2 {fg}f>e {Gdc}d2 {g}ef | {gf}g2 {a}g<a {A}B2 {gde}d>B | {g}A2 {GAG}Ad {g}d<f {g}f<a | {ef}eA {g}f/e/c {gc}d3 :|
+[2 {a}g>f d<{e}B {gef}e2 A{Gdc}d | {gfg}f2 {e}fa {g}ef | {a}g>f a<g {A}B2 {gde}d>B | {g}A2 {GAG}Ad {g}d<f {g}f<a |
+[2 {ef}eA {g}f/e/c {gc}d4 |]
 
 X:2
 T:Bride's Jig

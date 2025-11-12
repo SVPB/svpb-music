@@ -44,7 +44,7 @@ G3MISC = grans.abc banks_of_the_lossie.abc tune_for_lottie.abc
 G3HORNPIPES = g3_hornpipes.abc
 G4MEDLEY = g4_medley_2026.abc
 G4MSR = g4_msr_2025.abc
-G4SPEC = victoria_harbour.abc seonaidhs.abc bob_cooper.abc
+G4SPEC = victoria_harbour.abc seonaidhs.abc margaret_boyd.abc
 G4MARCHES = dream_valley.abc Killiecrankie.abc wee_michaels.abc
 PARADE = banks_of_the_lossie.abc irish_set.abc MarchOfTheRBL.abc john_barclay.abc \
    dream_valley.abc castle_dangerous.abc Moonstar.abc Moonstar_seconds.abc

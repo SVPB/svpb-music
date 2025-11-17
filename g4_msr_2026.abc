@@ -1,6 +1,6 @@
 %abc-2.2
 I:abc-include style.abh
-%%footer "Page $P	SVPB G4 M/S/R 2025	Generated: $D"
+%%footer "Page $P	SVPB G4 M/S/R 2026	Generated: $D"
 %%landscape 1
 X:1
 T:King George V Army
@@ -19,7 +19,6 @@ K:D
 [|: {g}e>d | {gcd}c2{g}e2 {A}e2>d2 | {g}c<e{A}e>a {fg}f>e{g}d>c | {Gdc}d2{g}f2 {e}f3e | {g}d<f{e}f>a {f}g>f{g}e>d |
 {gcd}c2{g}e2 {A}e2>d2 | {g}c<e{A}e>a {fg}f>e{g}d>c | {g}d>fa>d {g}c>ea>c | {gBd}B4 {G}A2 :|]
 
-
 X:2
 T:Susan Salsitz
 R:Strathspey
@@ -36,16 +35,17 @@ a>f {g}f/e/d {g}d<f {g}A>f | a>d {gf}g>f {gef}e2 {A}e>f | a>f {g}f/e/d {g}d<f {g
 a>f {g}f/e/d {g}d<f {g}A>f | a>d {gf}g>f {gef}e2 {A}e>f | {g}B/c/d {g}A>f {g}f/e/d {gBd}B>d | {g}e>d {g}f>e {Gdc}d2 {g}d2 |]
 
 X:3
-T:Lexie McAskill
+T:Kalabakan (Borneo)
 R:Reel
-C:John McAskill
+C:P/M A. MacDonald
+Z:abc-transcription Stephen Beitzel, <sbeitzel@pobox.com>, 2025-11-16
 M:C|
 L:1/8
-Q:"80 bpm"
 K:D
-[|: [2 a/ ] | {ef}e2 {A}e2 {g}d>e{A}e>d | {gef}e2 {g}d>B {g}G>{d}B{G}B>d | {gef}e2 {A}e2 {g}d>e{A}e>d | {g}e>g{a}f>d {gef}e2 {A}e3/2 :|]
-[|: f/ | {gf}g2 {a}f2 {gef}e2 {g}d>B | {gAd}A2 {g}d>B {g}G>{d}B{G}B>e | {gf}g2 {a}f2 {gef}e2 {g}d>B | {g}e>g{a}f>d {gef}e2 {A}e3/2 :|]
-g/ | {ef}e2 {A}e2 {gef}e2 {g}d>B | {g}A>{d}A{e}A>{d}B {g}G>A{g}B<d | {gef}e2 {A}e2 {gef}e2 {g}d>B |  {g}e>g{a}f>d {gef}e2 {A}e>g |
-{ef}e2 {A}e2 {gef}e2 {g}d>B | {g}A>{d}A{e}A>{d}B {g}G>A{g}B<d | {gef}e2 {A}e2 {gef}e2 {g}d>B | {g}e>g{a}f>d {gef}e2 {gf}g2 ||
-a>e{A}e>a e<{A}e{g}d>B | {gAd}A2 {g}d>B {g}G>{d}B{G}B>e | a>e{A}e>a e<{A}e{g}d>B | {g}e>g{a}f>d {gef}e2 {gf}g2 |
-a>e{A}e>a e<{A}e{g}d>B | {gAd}A2 {g}d>B {g}G>{d}B{G}B>e | a>e{A}e>a e<{A}e{g}d>B | {g}e>g{a}f>d {gef}e2 {A}e |]
+[|: A/ | {Gdc}d2 {e}A>d {g}B<{d}A{g}B<d | {g}A<{d}A{g}B<d {g}f>e{A}e>f | {Gdc}d2 {e}A>d {g}B<{d}A{g}B<d | {g}A<{d}A{g}f>e {Gdc}d2 {g}d3/2 :|]
+[| f | {ag}a2 f>a {g}a2 f<{ag}a | {AGAG}A2 {g}B<d {g}f>e{A}e>f | {ag}a2 f>a {g}a2 f<{ag}a | {AGAG}A2 {g}f>e {Gdc}d2 {g}d>f |
+{ag}a2 f>a {g}a2 f<{ag}a | {AGAG}A2 {g}B<d {g}f>e{A}e>f | {Gdc}d2 {e}A>d {g}B<{d}A{g}B<d | {g}A<{d}A{g}f<e {Gdc}d2 {g}d3/2 |]
+[| A/ | {g}B<d{e}A>d {g}B<{d}A{g}B<d | {g}f>A {gAGAG}A2 {g}f>e{A}e<f | {g}B<d{e}A>d {g}B<{d}A{g}B<d | {g}A<{d}A{g}f>e {Gdc}d2 {g}d>A |
+{g}B<d{e}A>d {g}B<{d}A{g}B<d | {g}f>A {gAGAG}A2 {g}f>e{A}e<f | {Gdc}d2 {e}A>d {g}B<{d}A{g}B<d | {g}A<{d}A{g}f>e {Gdc}d2 {g}d3/2 |]
+[| a/ | {fg}f2 {g}f<a {ef}e2 {A}e>f | {Gdc}d2 {g}e>d {g}B<d{g}B<{d}A | {g}B<d{e}A>d {g}B<{d}A{g}B<d | {g}f>e{A}e>f {gef}e2 {A}e<a |
+{fg}f2 {g}f<a {ef}e2 {A}e>f | {Gdc}d2 {g}e>d {g}B<d{g}B<{d}A | {Gdc}d2 {e}A>d {g}B<{e}A{g}B<d | {g}A<{d}A{g}f>e {Gdc}d2 {g}d3/2 |]

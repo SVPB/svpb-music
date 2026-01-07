@@ -9,11 +9,12 @@ C:Bob Worrall, Arr. Malcolm Roux
 Z:abc-transcription Stephen Beitzel, <sbeitzel@pobox.com>, 2025-10-29
 M:4/4
 L:1/8
+Q:"80 bpm"
 K:D
  {g}A{Gdc}d | {gfg}f2 {e}fa {e}f2 {g}ed | {gf}g2 {a}g<a {A}B2 {gde}d>B | {g}A2 {GAG}Ad {g}f<a df | {a}g>f d<{g}B {gef}e2 {g}A{Gdc}d |
  {gfg}f2 {e}fa {e}f2 {g}ef | {a}g>f a<g {A}B2 {gde}d>B | {g}A2 {GAG}Ad {g}d<f {g}f<a | {ef}eA {g}f/e/c {gc}d3 |
  A | {ag}a2 {fg}f>e {Gdc}d2 {g}ed | {gf}g2 {a}g<a {A}B2 {gde}d>B | {g}A2 {GAG}Ad {g}f<a df | {a}g>f d<{g}B {gef}e2 A{Gdc}d |
-{gfg}f2 {e}fA {e}f2 {g}ef | {a}g>f a<g {A}B2 {gde}d>B | {g}A2 {GAG}Ad {g}d<f {g}f<a | {ef}eA {g}f/e/c {gc}d4 |
+{gfg}f2 {e}fA {g}f2 {g}ef | {a}g>f a<g {A}B2 {gde}d>B | {g}A2 {GAG}Ad {g}d<f {g}f<a | {ef}eA {g}f/e/c {gc}d4 |
 
 X:2
 T:Bride's Jig
@@ -50,6 +51,7 @@ R:Slow March
 C:Scott McClellan
 M:4/4
 L:1/8
+Q:"78 bpm"
 H:In memory of Detective LaVern Brann, Battle Creek (Michigan) Police Department and in honor of all who protect and serve
 K:D
 [| {g}A{d}A | {gef}e4-ec {gde}d<c | {G}A6 {g}A{d}A | {gef}e4-ea f<d | {gcd}c6 {Gdc}d>c |

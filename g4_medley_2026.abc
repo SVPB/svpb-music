@@ -11,10 +11,10 @@ M:4/4
 L:1/8
 Q:"80 bpm"
 K:D
- {g}A{Gdc}d | {gfg}f2 {e}fa {e}f2 {g}ed | {gf}g2 {a}g<a {A}B2 {gde}d>B | {g}A2 {GAG}Ad {g}f<a df | {a}g>f d<{g}B {gef}e2 {g}A{Gdc}d |
+ {g}Ad | {gfg}f2 {e}fa {e}f2 {g}ed | {gf}g2 {a}g<a {A}B2 {gde}d>B | {g}A2 {GAG}Ad {g}f<a df | {a}g>f d<{g}B {gef}e2 {g}Ad |
  {gfg}f2 {e}fa {e}f2 {g}ef | {a}g>f a<g {A}B2 {gde}d>B | {g}A2 {GAG}Ad {g}d<f {g}f<a | {ef}eA {g}f/e/c {gc}d3 |
- A | {ag}a2 {fg}f>e {Gdc}d2 {g}ed | {gf}g2 {a}g<a {A}B2 {gde}d>B | {g}A2 {GAG}Ad {g}f<a df | {a}g>f d<{g}B {gef}e2 A{Gdc}d |
-{gfg}f2 {e}fA {g}f2 {g}ef | {a}g>f a<g {A}B2 {gde}d>B | {g}A2 {GAG}Ad {g}d<f {g}f<a | {ef}eA {g}f/e/c {gc}d4 |
+ A | {ag}a2 {fg}f>e {Gdc}d2 {g}ed | {gf}g2 {a}g<a {A}B2 {gde}d>B | {g}A2 {GAG}Ad {g}f<a df | {a}g>f d<{g}B {gef}e2 Ad |
+{gfg}f2 {e}fA {g}f2 {g}ef | {a}g>f a<g {A}B2 {gde}d>B | {g}A2 {GAG}Ad {g}d<f {g}f<a [M:6/8] | {ef}e2A {g}fec {g}d4 |]
 
 
 X:2
@@ -39,10 +39,8 @@ R:Jig
 M:6/8
 K:D
 Q:"114 bpm"
-[| {g}f2 B {g}fed | {g}AeA {g}edc | {g}Bf{e}f {g}fed | {g}e2 (f f)ed |
-{g}Bf{e}f {g}fed | {g}AeA {g}edc | {g}Bde {g}faf | {g}edc {g}B3 | 
-{g}fB{G}B {g}fed | {g}eA{d}c {g}edc | {g}Bf{e}f {g}fed | {g}e2 (f f)ed |
-{g}Bf{e}f {g}fed | {g}AeA {g}edc | {g}Bde {g}faf | {g}edc {g}B3 ||
+[|: {g}f2 B {g}fed | {g}AeA {g}edc | {g}Bf{e}f {g}fed | {g}e2 (f f)ed |
+{g}Bf{e}f {g}fed | {g}AeA {g}edc | {g}Bde {g}faf | {g}edc {g}B3 :|]
 [|:{g}faB {g}fed | {g}AeA {g}edc | B{e}B{G}B d{g}d{G}d | {gef}ede {g}f2 {e}f | 
 [1{g}BfB {g}fed | {g}AeA {g}edc | {g}Bde {g}faf | {g}edc {g}B3 :|]
 [2 {g}BfB {g}fed [M:9/8] | {g}AeA {g}edc {g}Bde [M:6/8] | {g}f2 a2 c2 [Q:1/4=70] | {g}B6 |]

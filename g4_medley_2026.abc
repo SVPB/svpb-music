@@ -16,21 +16,8 @@ K:D
  A | {ag}a2 {fg}f>e {Gdc}d2 {g}ed | {gf}g2 {a}g<a {A}B2 {gde}d>B | {g}A2 {GAG}Ad {g}f<a df | {a}g>f d<{g}B {gef}e2 A{Gdc}d |
 {gfg}f2 {e}fA {g}f2 {g}ef | {a}g>f a<g {A}B2 {gde}d>B | {g}A2 {GAG}Ad {g}d<f {g}f<a | {ef}eA {g}f/e/c {gc}d4 |
 
+
 X:2
-T:Bride's Jig
-R:Jig
-C:Trad
-M:6/8
-L:1/8
-Q:"114 bpm"
-K:D
-[|: {g}B{d}B{e}B {Gdc}d2 e | {g}fed {gcd}c2 B | {g}A{d}A{e}A {gcd}c2d | {g}caf {g}ecA |
-{g}B{d}B{e}B {Gdc}d2 e | {g}fed {gcd}c2e | {g}df{e}f {g}edc | {g}B{d}B{e}B {g}f3 :|]
-[|: {Gdc}d2e {g}f2g | afd afd | {g}A2B {GdG}c2 d | {g}caf {g}ecA |
-{Gdc}d2e {g}f2g | afd {g}cde | {g}df{e}f {g}edc | {g}B{d}B{e}B {g}f3 :|]
-
-
-X:3
 T:Archie Beag
 R:Jig
 C:Donald Morrison
@@ -40,39 +27,48 @@ Q:"114 bpm"
 K:D
 [|: {g}A2 B {g}c{d}c{e}c | {g}dB{G}B {gef}e3 | {g}A2 B {g}c{d}c{e}c | {g}d2c {g}BGB |
 {g}A2 B {g}c{d}c{e}c | {g}dc{G}c {g}B2 f | {g}e2A  {g}dc{G}c | {g}B3 {G}A3 :|]
-{gcd}c2d {g}ec{G}c | {g}fd{G}d {gef}e3 | {gcd}c2 d {g}eAe | {g}dc{G}c {g}B3 |
+[| {gcd}c2d {g}ec{G}c | {g}fd{G}d {gef}e3 | {gcd}c2 d {g}eAe | {g}dc{G}c {g}B3 |
 {gcd}c2d {g}ec{G}c | {g}fd{G}d {gef}e2f |  {g}e2A  {g}dc{G}c | {g}B3 {G}A3 |
-{gcd}c2d {g}ec{G}c | {g}fd{G}d {gef}e3 | {gcd}c2 d {g}eAe | {g}dc{G}c {g}B2{g}(A |
-A2) B {g}c{d}c{e}c | {g}dc{G}c {g}B2 f | {g}eA(d d2)c [M:2/4] | {g}B4 |]
+{gcd}c2d {g}ec{G}c | {g}fd{G}d {gef}e3 | {gcd}c2 d {g}eAe | {g}dc{G}c {g}B2 {g}(A |
+A2) B {g}c{d}c{e}c | {g}dc{G}c {g}B2 f | {g}e2A  {g}dc{G}c | {g}B3 {G}A3 |]
+X:3
+T:The Radar Racketeer
+C:Murray Blair & Adrian Melvin
+L:1/8
+R:Jig
+M:6/8
+K:D
+Q:"114 bpm"
+[| {g}f2 B {g}fed | {g}AeA {g}edc | {g}Bf{e}f {g}fed | {g}e2 (f f)ed |
+{g}Bf{e}f {g}fed | {g}AeA {g}edc | {g}Bde {g}faf | {g}edc {g}B3 | 
+{g}fB{G}B {g}fed | {g}eA{d}c {g}edc | {g}Bf{e}f {g}fed | {g}e2 (f f)ed |
+{g}Bf{e}f {g}fed | {g}AeA {g}edc | {g}Bde {g}faf | {g}edc {g}B3 ||
+[|:{g}faB {g}fed | {g}AeA {g}edc | B{e}B{G}B d{g}d{G}d | {gef}ede {g}f2 {e}f | 
+[1{g}BfB {g}fed | {g}AeA {g}edc | {g}Bde {g}faf | {g}edc {g}B3 :|]
+[2 {g}BfB {g}fed [M:9/8] | {g}AeA {g}edc {g}Bde [M:6/8] | {g}f2 a2 c2 [Q:1/4=70] | {g}B6 |]
 
 X:4
-T:Angel in Blue
-R:Slow March
-C:Scott McClellan
-M:4/4
+T:The Parting Glass
+C:Trad
 L:1/8
-Q:"78 bpm"
-H:In memory of Detective LaVern Brann, Battle Creek (Michigan) Police Department and in honor of all who protect and serve
+R:Air
+M:4/4
 K:D
-[| {g}A{d}A | {gef}e4-ec {gde}d<c | {G}A6 {g}A{d}A | {gef}e4-ea f<d | {gcd}c6 {Gdc}d>c |
-   {gBd}B4-Bc {g}d<e | {gAGAG}A6 {g}A{d}A | {g}e{d}c-c3 e {gde}d>c | {G}A6 |]
-[| {g}A{d}A | {ag}a4-ae {g}f/e/d | {g}c<e-e4 {g}B>c | {Gdc}d4-df {g}e>d | {gcd}c6 {g}A{d}A |
-   {ag}a4-ae {g}f/e/d | {gcd}c6 {g}A{d}A | {a}e{d}c-c3 e {gde}d>c | {G}A6 |]
+Q:"70 bpm"
+{g}fe | {Gdc}d3B {gBd}B2{g}AB | {gc}d2{e}A2 {gef}e3 {g}d/e/ | {g}f3g {fg}fe {g}de | {g}f2 {g}A2 {GAG}A2 {g}fe | {Gdc}d3 {g}c/d/ {gBd}B2 {g}AB [M:2/4] | {gc}d2 {c}d2 [M:4/4] | {gef}e6 {g}de | {g}f2 {ag}a2 f3 {g}e/f/ [Q:1/4=115] | {g}d4 {e}A4 | {GdG}B8 |]
 
 X:5
-T:Hey Johnnie
-R:Strathspey
+T:PM Sandy Gordon
+C:Bruce Gandy
 L:1/8
-C:Trad
-M:C
-L:1/8
-Q:"112 bpm"
+R:Air
+M:4/4
 K:D
-[| {Gdc}d2 {gdG}d>f {g}e>d {g}e<f | {g}d>B {g}A>{d}B {g}B<e {A}e>f [M:5/4]| {Gdc}d2 {gdG}d>f {g}e>d {g}e<(f f2) [M:4/4] | {g}d>B {g}A>B {Gdc}d2 {gdG}d>A |
-{Gdc}d2 {gdG}d>f {g}e>d {g}e<f | {g}d>B {g}A>{d}B {g}B<e {A}e>f | {Gdc}d2 {gdG}d>f {g}e>d {g}e<f | {g}d>B {g}A>B {Gdc}d2 {gdG}d>B ||
-{g}A>B {g}d<f {g}e>d {g}e<f | {g}d>B {g}A>{d}B {g}B<e {A}e2 | {g}A>B {g}d<f {g}e>d {g}e<f | {g}d>B {g}A>B {Gdc}d2 {gdG}d>B
-{g}A>B {g}d<f {g}e>d {g}e<f [M:2/4] | {g}d>B {g}A>{d}B [M:C|] "Reel Tempo" | {g}B<(e e4) f2 | {gc}d3 f {g}ed{g}ef | {g}dB{g}AB {g}d2 e2 |]
-
+Q:"115 bpm"
+[| {Gdc}d2 {ag}a>e {g}f/e/d {gdG}d<A | {g}B<e {A}e>f {gf}g>e {gcd}c<e | {Gdc}d2 {ag}a>e {g}f/e/d {g}e>f | {gf}g>e a/g/f {gef}e2 {A}e>f | 
+{Gdc}d2 {ag}a>e {g}f/e/d {gdG}d<A | {g}B<e {A}e>f {gf}g>e {gcd}c<e | {ag}a>f {gf}g>e {g}f/e/d {gcd}c<{e}A | {g}e>f {a}g/f/e {Gdc}d2 {gdG}d3/2 ||
+f | {ag}a2 {fg}f>e {Gdc}d>e {gde}d>A | {g}B<e {A}e>f {gf}g>e {gcd}c<e | {ag}a2 {fg}f>e {Gdc}d>e {g}f>d | {gf}g>e a/g/f {gef}e2 {A}e>f | 
+{ag}a2 {fg}f>e {Gdc}d>e {gde}d>A | {g}B<e {A}e>f {gf}g>e {gcd}c<e | {ag}a>f {gf}g>e {g}f/e/d {gcd}c<{e}A [M:2/4] | {g}e>f {a}g/f/e [M:C|] [Q:1/2=76] | {Gdc}d4 e4 |]
 X:6
 T:The Bouncing Czech
 R:Reel
@@ -88,45 +84,79 @@ K:D
 {g}f2{g}fe {g}fa{g}ae | {g}fa{g}ae {g}f2{g}ed | {g}cA{g}ce {g}faec | {g}dB{G}Bc {gBd}B4 |]
 
 X:7
-T:Mrs. MacLeod of Raasay
+T:Kelsey's Wee Reel
 R:Reel
 L:1/8
-C:Trad.
-N:Probably composed by Alexander MacDonald, but unknown which or when. See history at URL
-H:https://tunearch.org/wiki/Annotation:Mrs._MacLeod_of_Raasay_(1)
+C:Iain Symington
 M:C|
 L:1/8
 Q:"76 bpm"
 K:D
-[| {g}A2 {ag}a2 fe{g}fa | c{g}c{G}cB c{g}c{G}cB | {g}A2 {ag}a2 fe{g}fa | B{g}B{G}BA {g}Bd{g}cB |
- {g}A2 {ag}a2 fe{g}fa | c{g}c{G}cB {g}cd{g}ec | {g}f3 e {g}fe{g}fg | af{g}ec {g}Bd{g}cB  ||
-{g}A3 {d}c {g}eA{d}ca | c{g}c{G}cB c{g}c{G}cB | {g}A3 {d}c {g}eA{d}ca | B{g}B{G}BA {g}Bd{g}cB |
-{g}A3 {d}c {g}eA{d}ca | c{g}c{G}cB {g}c2 e2 | {g}f3 e {g}fe{g}fg | af{g}ec {g}Bd{g}cB | {g}A8 |]
+[| {g}A2 {g}cA {g}ec{g}c{G}c | {g}Aa{g}ae {g}fe{g}fa | {AGAG}A2 {g}cA {g}ec{g}c{G}c | {g}Bcde {g}fe{g}fa | 
+{AGAG}A2 {g}cA {g}ec{g}c{G}c | {g}Aa{g}ae {g}fe{g}fa | Aa{g}ae {g}fc{g}c{G}c | {g}Bcde {g}fe{g}fa || 
+Aa{g}aB ac{g}ca | Aa{g}ae {g}fe{g}fa | Aa{g}aB ac{g}ca | Bcde {g}fe{g}fa |
+Aa{g}aB ac{g}ca | faea {g}ac{g}ca | Aa{g}aB ac{g}ca | Bcde {g}fe{g}fa |
+Aa{g}aB ac{g}ca | Aa{g}ae {g}fe{g}fa | Aa{g}aB ac{g}ca | Bcde {g}fe{g}fa |
+Aa{g}aB ac{g}ca | faea daca |  Aa{g}aB ac{g}ca | Bcde {g}fafe | A8 |]
 
-X:10
-T:Hey Johnnie, Seconds
-R:Strathspey
+X:7
+T:Kelsey's Wee Reel Alternate
+R:Reel
 L:1/8
-C:Trad
-M:C
+C:Iain Symington
+M:C|
 L:1/8
-Q:"112 bpm"
+Q:"76 bpm"
 K:D
-[| {g}f4 {ag}a4 | f4 c4 [M:5/4]| {g}f4 {ag}a6 [M:4/4] | {g}d>B {g}A>B {Gdc}d2 {gdG}d>A |
-{Gdc}d2 {gdG}d>f {g}e>d {g}e<f | {g}d>B {g}A>{d}B {g}B<e {A}e>f | {Gdc}d2 {gdG}d>f {g}e>d {g}e<f | {g}d>B {g}A>B {Gdc}d2 {gdG}d>B ||
-{g}A>B {g}d<f {g}e>d {g}e<f | {g}d>B {g}A>{d}B {g}B<e {A}e2 | {g}A>B {g}d<f {g}e>d {g}e<f | {g}d>B {g}A>B {Gdc}d2 {gdG}d>B
-{g}A>B {g}d<f {g}e>d {g}e<f [M:2/4] | {g}d>B {g}A>{d}B [M:C|] "Reel Tempo" | {g}B<(e e4) f2 | {gc}d3 f {g}ed{g}ef | {g}dB{g}AB {g}d2 e2 |]
+[| {g}A2 {g}cA {g}ec{g}c{G}c | {g}Aa{g}ae {g}fe{g}fa | {AGAG}A2 {g}cA {g}ec{g}c{G}c | {g}Bcde {g}fe{g}fa | 
+{AGAG}A2 {g}cA {g}ec{g}c{G}c | {g}Aa{g}ae {g}fe{g}fa | Aa{g}ae {g}fc{g}c{G}c | {g}Bcde {g}fe{g}fa || 
+Aa{g}aB ac{G}ca | Aa{g}ae {g}fe{g}fa | Aa{g}aB ac{G}ca | Bcde {g}fe{g}fa |
+Aa{g}aB ac{G}ca | faea {g}ac{g}ca | Aa{g}aB ac{G}ca | Bcde {g}fe{g}fa |
+{AGAG}A2 {g}cA {g}ec{g}c{G}c | {g}Aa{g}ae {g}fe{g}fa | {g}G2{g}BG {g}dB{g}B{G}B | {g}Bg{f}gd {g}ed{g}eg | 
+{AGAG}A2 {g}cA {g}ec{g}c{G}c | {g}Aa{g}ae {g}fe{g}fa |Aa{g}ae {g}fc{g}c{G}c | {g}Bcde {g}fafe | A8 |]
 
-X:11
-T:Hey Johnnie, Thirds
-R:Strathspey
-L:1/8
+
+
+X:4
+T:The Parting Glass
+T:Harmony 1
 C:Trad
-M:C
 L:1/8
-Q:"112 bpm"
+R:Air
+M:4/4
 K:D
-[| {g}A4 {g}c4 | {g}d4 {g}A4 [M:5/4]| {g}A4 {g}c>B {g}c4 [M:4/4] | {g}d>B {g}A>B {Gdc}d2 {gdG}d>A |
-{Gdc}d2 {gdG}d>f {g}e>d {g}e<f | {g}d>B {g}A>{d}B {g}B<e {A}e>f | {Gdc}d2 {gdG}d>f {g}e>d {g}e<f | {g}d>B {g}A>B {Gdc}d2 {gdG}d>B ||
-{g}A>B {g}d<f {g}e>d {g}e<f | {g}d>B {g}A>{d}B {g}B<e {A}e2 | {g}A>B {g}d<f {g}e>d {g}e<f | {g}d>B {g}A>B {Gdc}d2 {gdG}d>B
-{g}A>B {g}d<f {g}e>d {g}e<f [M:2/4] | {g}d>B {g}A>{d}B [M:C|] "Reel Tempo" | {g}B<(e e4) f2 | {gc}d3 f {g}ed{g}ef | {g}dB{g}AB {g}d2 e2 |]
+Q:"70 bpm"
+{g}fe | {Gdc}d3B {gBd}B2{g}AB | {gc}d2{e}A2 {gef}e3 {g}d/e/ | {g}f3g {fg}fe {g}de | {g}f4 e2 fe | {Gdc}f4 {gBd}g4 [M:2/4] | {g}B2 e2  [M:4/4] | {gef}a4 {g}de | {g}d2 {ag}c2  d3 {g}e/f/ [Q:1/4=118] | {g}f4 {e}e4 | {GdG}f8 |]
+
+X:4
+T:The Parting Glass
+T:Harmony 2
+C:Trad
+L:1/8
+R:Air
+M:4/4
+K:D
+Q:"70 bpm"
+{g}fe | {Gdc}d3B {gBd}B2{g}AB | {gc}d2{e}A2 {gef}e3 {g}d/e/ | {g}f3g {fg}fe {g}de | {g}f4 e2 fe | {Gdc}f4 {gBd}g4 [M:2/4] | {g}g2 e2  [M:4/4] | {gef}d4 c2 {g}de | {g}a2 {ag}f2  a3 {g}e/f/ [Q:1/4=118] | {g}d4 {e}A4 | {GdG}f8 |]
+
+X:4
+T:The Parting Glass
+T:Harmony 3
+C:Trad
+L:1/8
+R:Air
+M:4/4
+K:D
+Q:"70 bpm"
+{g}fe | {Gdc}d3B {gBd}B2{g}AB | {gc}d2{e}A2 {gef}c3 {g}B/c/ | {g}d4 {fg}dc {g}A2 | {g}A4 c2 c2 | {Gdc}A4 {gBd}G4 [M:2/4] | {g}G2 A2  [M:4/4] | {gef}A6 {g}B2 | {g}A2 {ag}A2  B3 {g}e/f/ [Q:1/4=118] | {g}d4 {e}A4 | {GdG}B8 |]
+
+X:4
+T:The Parting Glass
+T:Harmony 4
+C:Trad
+L:1/8
+R:Air
+M:4/4
+K:D
+Q:"70 bpm"
+{g}fe | {Gdc}d3B {gBd}B2{g}AB | {gc}d2{e}A2 {gef}e3 {g}d/e/ | {g}f3g {fg}fe {g}de | {g}f2 A2 {GAG}A2 {g}fe | {Gdc}d3 {g}c/d/ {gBd}B2 {g}AB [M:2/4] | {g}d2 {c}d2 [M:4/4] | {gef}B6 {g}de | {g}f2 {ag}a2 f3 {g}e/f/ [Q:1/4=118] | {g}d4 {e}A4 | {GdG}B8 |]

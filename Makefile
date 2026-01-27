@@ -117,14 +117,19 @@ BINDER = $(YEAR)_binder.pdf
 # tunes we're considering but haven't decided upon yet
 SPECULATIVE = $(YEAR)_spec.pdf
 
-all: $(BINDER) speculative concert
+all: binder speculative concert
 
 .PHONY: speculative clean dist install sync all install_concert concert g4 g3 parade wuspba binder
 
 binder: $(BINDER)
 
-$(BINDER): g3 g4 parade wuspba speculative
-	$(JOIN)$(BINDER) $(G3_SECTION) $(G4_SECTION) $(G4_SPECULATIVE_SECTION) $(PARADE_SECTION) $(WUSPBA_SECTION)
+# In 2026 we only have a G4 band
+# Also, as of the end of January 2026, we have settled on tunes so we don't need the
+# speculative section.
+# $(BINDER): g3 g4 parade wuspba speculative
+$(BINDER): g4 parade wuspba speculative
+# 	$(JOIN)$(BINDER) $(G3_SECTION) $(G4_SECTION) $(G4_SPECULATIVE_SECTION) $(PARADE_SECTION) $(WUSPBA_SECTION)
+	$(JOIN)$(BINDER) $(G4_SECTION) $(PARADE_SECTION) $(WUSPBA_SECTION)
 
 g3: $(G3_SECTION)
 
@@ -184,7 +189,7 @@ install : $(BINDER) speculative
 	$(INSTALL) $(INSTALL_DIR_FLAGS) $(FULL_DIR) $(G3_DIR) $(G4_DIR)
 	$(INSTALL) $(INSTALL_FLAGS) $(BINDER) $(FULL_DIR)
 	$(INSTALL) $(INSTALL_FLAGS) $(SPECULATIVE) $(FULL_DIR)
-	$(INSTALL) $(INSTALL_FLAGS) $(G3_SECTION) $(G3_DIR)
+#	$(INSTALL) $(INSTALL_FLAGS) $(G3_SECTION) $(G3_DIR)
 	$(INSTALL) $(INSTALL_FLAGS) $(G4_SECTION) $(G4_DIR)
 
 sync : install install_concert

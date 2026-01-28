@@ -14,7 +14,7 @@ K:D
  {g}Ad | {gfg}f2 {e}fa {e}f2 {g}ed | {gf}g2 {a}g<a {A}B2 {gde}d>B | {g}A2 {GAG}Ad {g}f<a df | {gf}g>f d<{e}B {gef}e2 {g}Ad |
  {gfg}f2 {e}fa {e}f2 {g}ef | {gf}g>{a}f a<g {A}B2 {gde}d>B | {g}A2 {GAG}Ad {g}d<f {g}f<a | {ef}eA {g}f/e/c {gc}d3 |
  A | {ag}a2 {fg}f>e {Gdc}d2 {g}ed | {gf}g2 {a}g<a {A}B2 {gde}d>B | {g}A2 {GAG}Ad {g}f<a df | {gf}g>f d<{e}B {gef}e2 {g}A/B/d |
-{ge}f2 {e}fA {g}f2 {gef}e/d/{g}e/f/ [M:6/4] | {gf}g>{a}f a<g {A}(B2 B4) {gde}d>B [M:4/4] | {g}A2 {GAG}Ad {g}d<f {g}f<a [M:6/8] | {ef}e2A {g}fec | {g}d4 |]
+{ge}f2 {e}fA {g}f2 {gef}e/d/e/f/ [M:6/4] | {gf}g>{a}f a<g {A}(B2 B4) {gde}d>B [M:4/4] | {g}A2 {GAG}Ad {g}d<f {g}f<a [M:6/8] | {ef}e2A {g}fec | {g}d4 |]
 
 
 X:2
@@ -109,9 +109,26 @@ K:D
 [| {g}A2 {g}cA {g}ec{g}c{G}c | {g}Aa{g}ae {g}fe{g}fa | {AGAG}A2 {g}cA {g}ec{g}c{G}c | {g}Bcde {g}fe{g}fa | 
 {AGAG}A2 {g}cA {g}ec{g}c{G}c | {g}Aa{g}ae {g}fe{g}fa | Aa{g}ae {g}fc{g}c{G}c | {g}Bcde {g}fe{g}fa || 
 Aa{g}aB ac{G}ca | Aa{g}ae {g}fe{g}fa | Aa{g}aB ac{G}ca | Bcde {g}fe{g}fa |
-Aa{g}aB ac{G}ca | faea {g}ac{g}ca | Aa{g}aB ac{G}ca | Bcde {g}fe{g}fa |
+Aa{g}aB ac{G}ca | faea {g}ac{G}ca | Aa{g}aB ac{G}ca | Bcde {g}fe{g}fa |
 {AGAG}A2 {g}cA {g}ec{g}c{G}c | {g}Aa{g}ae {g}fe{g}fa | {g}G2{g}BG {g}dB{g}B{G}B | {g}Gg{a}gd {g}ed{g}eg | 
-{AGAG}A2 {g}cA {g}ec{g}c{G}c | {g}Aa{g}ae {g}fe{g}fa |Aa{g}ae {g}fc{g}c{G}c | {g}Bcde {g}fafe | A8 |]
+{AGAG}A2 {g}cA {g}ec{g}c{G}c | {g}Aa{g}ae {g}fe{g}fa |Aa{g}ae {g}fc{g}c{G}c | {g}Bcde {g}fedB | {g}A8 |]
+
+X:7
+T:Kelsey's Wee Reel Alternate
+T:Harmony 1
+R:Reel
+L:1/8
+C:Iain Symington
+M:C|
+L:1/8
+Q:"76 bpm"
+K:D
+[| {g}A2 {g}cA {g}ec{g}c{G}c | {g}Aa{g}ae {g}fe{g}fa | {AGAG}A2 {g}cA {g}ec{g}c{G}c | {g}Bcde {g}fe{g}fa | 
+{AGAG}A2 {g}cA {g}ec{g}c{G}c | {g}Aa{g}ae {g}fe{g}fa | Aa{g}ae {g}fc{g}c{G}c | {g}Bcde {g}fe{g}fa || 
+Aa{g}aB ac{G}ca | Aa{g}ae {g}fe{g}fa | Aa{g}aB ac{G}ca | Bcde {g}fe{g}fa |
+Aa{g}aB ac{G}ca | faea {g}ac{G}ca | Aa{g}aB ac{G}ca | Bcde {g}fe{g}fa |
+{AGAG}A2 {g}cA {g}ec{g}c{G}(c | c8) | {g}G2{g}BG {g}dB{g}B{G}(B | B8) | 
+{AGAG}A2 {g}cA {g}ec{g}c{G}c | {g}Aa{g}ae {g}fe{g}fa |Aa{g}ae {g}fc{g}c{G}c | {g}Bcde {g}fedB | {g}A8 |]
 
 
 

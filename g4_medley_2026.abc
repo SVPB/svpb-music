@@ -63,8 +63,8 @@ R:Strathspey
 M:4/4
 K:D
 Q:"115 bpm"
-[| {Gdc}d2 {ag}a>e {g}f/e/d {gdG}d<A | {g}B<e {A}e>f {gf}g>e {gcd}c<e | {Gdc}d2 {ag}a>e {g}f/e/d {g}e>f | {gf}g>e a/g/f {gef}e2 {A}e>f | 
-{Gdc}d2 {ag}a>e {g}f/e/d {gdG}d<A | {g}B<e {A}e>f {gf}g>e {gcd}c<e | {ag}a>f {gf}g>e {g}f/e/d {gcd}c<{e}A | {g}e>f {a}g/f/e {Gdc}d2 {gdG}d3/2 ||
+[| {Gdc}d2 {ag}a>e {g}f/e/d {gdG}d>A | {g}B<e {A}e>f {gf}g>e {gcd}c<e | {Gdc}d2 {ag}a>e {g}f/e/d {g}e>f | {gf}g>e a/g/f {gef}e2 {A}e>f | 
+{Gdc}d2 {ag}a>e {g}f/e/d {gdG}d>A | {g}B<e {A}e>f {gf}g>e {gcd}c<e | {ag}a>f {gf}g>e {g}f/e/d {gcd}c<{e}A | {g}e>f {a}g/f/e {Gdc}d2 {gdG}d3/2 ||
 f | {ag}a2 {fg}f>e {Gdc}d>e {gde}d>A | {g}B<e {A}e>f {gf}g>e {gcd}c<e | {ag}a2 {fg}f>e {Gdc}d>e {g}f>d | {gf}g>e a/g/f {gef}e2 {A}e>f | 
 {ag}a2 {fg}f>e {Gdc}d>e {gde}d>A | {g}B<e {A}e>f {gf}g>e {gcd}c<e | {ag}a>f {gf}g>e {g}f/e/d {gcd}c<{e}A [M:2/4] | {g}e>f {a}g/f/e [M:C|] [Q:1/2=76] | {Gdc}d4 e4 |]
 X:6

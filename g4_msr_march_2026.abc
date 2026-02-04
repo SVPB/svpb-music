@@ -12,15 +12,15 @@ L:1/16
 Q:"76 bpm"
 K:D
 [|: {g}A>d | {gfg}f4 {gef}e2>>c2 | {Gdc}d>e{g}f>A {gBd}B2{G}A2 | {gf}g4 {afg}f2>>e2 | {Gdc}d>fa>f {gef}e2{g}A>d |
-{gfg}f4 {gef}e2>>c2 | {Gdc}d>e{g}f<a {Bd}B2{G}A2 | {gf}g2{a}d2 {GBG}A>{d}ca>f  {gef}e2d2 {gdc}d2 :|]
+{gfg}f4 {gef}e2>>c2 | {Gdc}d>e{g}f<a {Bd}B2{G}A2 | {gf}g2{a}d2 {GBG}A>{d}ca>f  | {gef}e4 {Gdc}d2  :|]
 [|: {g}f>g | {ag}a2>>f2 {gf}g2a2 | f>ga>f {gef}e2{Gdc}d2 | {gf}g2a2 {fg}f2>>e2 |  {Gdc}d>fa>f {gef}e2{g}f>g |
-[1 {ag}a2>>f2 {gf}g2a2 | f>ga>f {gef}e2{Gdc}d2 | {gf}g2{a}d2 {GBG}A>{d}ca>f | {gef}e2d2 {gdc}d2 :|]
-[2 a>f{a}g>e {g}f>d{gef}e>c | {gde}d>B{GdG}g2 {aBd}B2{G}A2 |  {gf}g2{a}d2 {GBG}A>{d}ca>f | {gef}e2d2 {gdc}d2 ||
+[1 {ag}a2>>f2 {gf}g2a2 | f>ga>f {gef}e2{Gdc}d2 | {gf}g2{a}d2 {GBG}A>{d}ca>f | {gef}e4 {Gdc}d2  :|]
+[2 a>f{a}g>e {g}f>d{gef}e>c | {gde}d>B{GdG}g2 {aBd}B2{G}A2 |  {gf}g2{a}d2 {GBG}A>{d}ca>f | {gef}e4 {Gdc}d2  ||
 [|: {g}A>d | {gfg}f2{g}A>d {gef}e2{g}A>d | {g}B2{Gdc}d2 {gBd}B2{g}A>d | {gf}g2{a}A>d {gfg}f2{g}A>d | {g}c2{Gdc}d2 {gef}e2{g}A>d |
-{gfg}f2{g}A>d {gef}e2{g}A>d | {g}B>d{g}c<d {gBd}B2{G}A2 | {gf}g2{a}d2 {GBG}A>{d}ca>f | {gef}e2d2 {gdc}d2 :|]
+{gfg}f2{g}A>d {gef}e2{g}A>d | {g}B>d{g}c<d {gBd}B2{G}A2 | {gf}g2{a}d2 {GBG}A>{d}ca>f | {gef}e4 {Gdc}d2  :|]
 [|: {g}f>g | a>ga>f g>{a}fg>e | {g}f>ga>f {gef}e2{Gdc}d2 | {gf}g>ag>e {g}f>ga>d | {g}c<{d}B{g}c>d {gef}e2{g}f>g |
-[1 a>ga>f g>{a}fg>e | {g}f>ga>d {gBd}B2{G}A2 | {gf}g2{a}d2 {GBG}A>{d}ca>f | {gef}e2d2 {gdc}d2 :|]
-[2 a>da>d {g}f>da>d | {gef}e>d{g}B<d {gBd}B2{G}A2 | {gf}g2{a}d2 {GBG}A>{d}ca>f | {gef}e2d2 {gdc}d2 |]
+[1 a>ga>f g>{a}fg>e | {g}f>ga>d {gBd}B2{G}A2 | {gf}g2{a}d2 {GBG}A>{d}ca>f | {gef}e4 {Gdc}d2  :|]
+[2 a>da>d {g}f>da>d | {gef}e>d{g}B<d {gBd}B2{G}A2 | {gf}g2{a}d2 {GBG}A>{d}ca>f | {gef}e4 {Gdc}d2  |]
 
 X:1
 T:Detroit Highlanders

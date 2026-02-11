@@ -90,31 +90,15 @@ M:C|
 L:1/8
 Q:"76 bpm"
 K:D
-[| {g}A2 {g}cA {g}ec{g}c{G}c | {g}Aa{g}ae {g}fe{g}fa | {AGAG}A2 {g}cA {g}ec{g}c{G}c | {g}Bcde {g}fe{g}fa | 
-{AGAG}A2 {g}cA {g}ec{g}c{G}c | {g}Aa{g}ae {g}fe{g}fa | Aa{g}ae {g}fc{g}c{G}c | {g}Bcde {g}fe{g}fa || 
-Aa{g}aB ac{g}ca | Aa{g}ae {g}fe{g}fa | Aa{g}aB ac{g}ca | Bcde {g}fe{g}fa |
-Aa{g}aB ac{g}ca | faea {g}ac{g}ca | Aa{g}aB ac{g}ca | Bcde {g}fe{g}fa |
-Aa{g}aB ac{g}ca | Aa{g}ae {g}fe{g}fa | Aa{g}aB ac{g}ca | Bcde {g}fe{g}fa |
-Aa{g}aB ac{g}ca | faea daca |  Aa{g}aB ac{g}ca | Bcde {g}fafe | A8 |]
-
-X:7
-T:Kelsey's Wee Reel Alternate
-R:Reel
-L:1/8
-C:Iain Symington
-M:C|
-L:1/8
-Q:"76 bpm"
-K:D
 [| {g}A2 {g}cA {g}ec{g}c{G}c | {g}Aa{g}ae {g}fe{g}fa | {AGAG}A2 {g}cA {g}ec{g}c{G}c | {g}Bc{g}de {g}fe{g}fa | 
 {AGAG}A2 {g}cA {g}ec{g}c{G}c | {g}Aa{g}ae {g}fe{g}fa | Aa{g}ae {g}fc{g}c{G}c | {g}Bc{g}de {g}fe{g}fa || 
-Aa{g}aB ac{G}ca | Aa{g}ae {g}fe{g}fa | Aa{g}aB ac{G}ca | Bcde {g}fe{g}fa |
-Aa{g}aB ac{G}ca | faea {g}ac{G}ca | Aa{g}aB ac{G}ca | Bcde {g}fe{g}fa |
+Aa{g}aB ac{G}ca | Aa{g}ae {g}fe{g}fa | Aa{g}aB ac{G}ca | Bc{g}de {g}fe{g}fa |
+Aa{g}aB ac{G}ca | faea {g}ac{G}ca | Aa{g}aB ac{G}ca | Bc{g}de {g}fe{g}fa |
 {AGAG}A2 {g}cA {g}ec{g}c{G}c | {g}Aa{g}ae {g}fe{g}fa | G2{g}BG {g}dB{g}B{G}B | {g}Gg{a}gd {g}ed{g}eg | 
 {AGAG}A2 {g}cA {g}ec{g}c{G}c | {g}Aa{g}ae {g}fe{g}fa |Aa{g}ae {g}fc{g}c{G}c | {g}Bc{g}de {g}fe{g}dB | {gAGAG}A8 |]
 
 X:7
-T:Kelsey's Wee Reel Alternate
+T:Kelsey's Wee Reel
 T:Harmony 1
 R:Reel
 L:1/8
@@ -128,7 +112,7 @@ K:D
 Aa{g}aB ac{G}ca | Aa{g}ae {g}fe{g}fa | Aa{g}aB ac{G}ca | Bcde {g}fe{g}fa |
 Aa{g}aB ac{G}ca | faea {g}ac{G}ca | Aa{g}aB ac{G}ca | Bcde {g}fe{g}fa |
 {AGAG}A2 {g}cA {g}ec{g}c{G}(c | c8) | {g}G2{g}BG {g}dB{g}B{G}(B | B8) | 
-{AGAG}A2 {g}cA {g}ec{g}c{G}c | {g}Aa{g}ae {g}fe{g}fa |Aa{g}ae {g}fc{g}c{G}c | {g}Bcde {g}fedB | {g}A8 |]
+{AGAG}A2 {g}cA {g}ec{g}c{G}c | {g}Aa{g}ae {g}fe{g}fa |Aa{g}ae {g}fc{g}c{G}c | {g}Bcde {g}fedB | {gAGAG}A8 |]
 
 
 

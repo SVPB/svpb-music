@@ -107,15 +107,63 @@ M:C|
 L:1/8
 Q:"76 bpm"
 K:D
-[| {g}A2 {g}cA {g}ec{g}c{G}c | {g}Aa{g}ae {g}fe{g}fa | {AGAG}A2 {g}cA {g}ec{g}c{G}c | {g}Bcde {g}fe{g}fa | 
-{AGAG}A2 {g}cA {g}ec{g}c{G}c | {g}Aa{g}ae {g}fe{g}fa | Aa{g}ae {g}fc{g}c{G}c | {g}Bcde {g}fe{g}fa || 
-Aa{g}aB ac{G}ca | Aa{g}ae {g}fe{g}fa | Aa{g}aB ac{G}ca | Bcde {g}fe{g}fa |
-Aa{g}aB ac{G}ca | faea {g}ac{G}ca | Aa{g}aB ac{G}ca | Bcde {g}fe{g}fa |
+[| {g}A2 {g}cA {g}ec{g}c{G}c | {g}Aa{g}ae {g}fe{g}fa | {AGAG}A2 {g}cA {g}ec{g}c{G}c | {g}Bc{g}de {g}fe{g}fa | 
+{AGAG}A2 {g}cA {g}ec{g}c{G}c | {g}Aa{g}ae {g}fe{g}fa | Aa{g}ae {g}fc{g}c{G}c | {g}Bc{g}de {g}fe{g}fa || 
+Aa{g}aB ac{G}ca | Aa{g}ae {g}fe{g}fa | Aa{g}aB ac{G}ca | Bc{g}de {g}fe{g}fa |
+Aa{g}aB ac{G}ca | faea {g}ac{G}ca | Aa{g}aB ac{G}ca | Bc{g}de {g}fe{g}fa |
 {AGAG}A2 {g}cA {g}ec{g}c{G}(c | c8) | {g}G2{g}BG {g}dB{g}B{G}(B | B8) | 
 {AGAG}A2 {g}cA {g}ec{g}c{G}c | {g}Aa{g}ae {g}fe{g}fa |Aa{g}ae {g}fc{g}c{G}c | {g}Bcde {g}fedB | {gAGAG}A8 |]
 
+X:7
+T:Kelsey's Wee Reel
+T:Harmony 2
+R:Reel
+L:1/8
+C:Iain Symington
+M:C|
+L:1/8
+Q:"76 bpm"
+K:D
+[| {g}A2 {g}cA {g}ec{g}c{G}c | {g}Aa{g}ae {g}fe{g}fa | {AGAG}A2 {g}cA {g}ec{g}c{G}c | {g}Bcde {g}fe{g}fa | 
+{AGAG}A2 {g}cA {g}ec{g}c{G}c | {g}Aa{g}ae {g}fe{g}fa | Aa{g}ae {g}fc{g}c{G}c | {g}Bcde {g}fe{g}fa || 
+e3 f2 a{g}(a2 | a8) | e3 f2 a{g}a2 | fefa a4 |
+e3 f2 a{g}a2 | {g}a2 {g}(a2 a){g}a{g}a2 |e3 f2 a{g}a2 | Bc{g}de {g}fe{g}fa |
+{AGAG}A2 {g}cA {g}(e4 | e8) | {g}G2{g}BG {g}(d4 | d8) | 
+{AGAG}A2 {g}cA {g}ec{g}c{G}c | {g}Aa{g}ae {g}fe{g}fa | e3 (a a4) | fefa {g}a2fe | c8|]
 
+X:7
+T:Kelsey's Wee Reel
+T:Harmony 3
+R:Reel
+L:1/8
+C:Iain Symington
+M:C|
+L:1/8
+Q:"76 bpm"
+K:D
+[| {g}A2 {g}cA {g}ec{g}c{G}c | {g}Aa{g}ae {g}fe{g}fa | {AGAG}A2 {g}cA {g}ec{g}c{G}c | {g}Bcde {g}fe{g}fa | 
+{AGAG}A2 {g}cA {g}ec{g}c{G}c | {g}Aa{g}ae {g}fe{g}fa | Aa{g}ae {g}fc{g}c{G}c | {g}Bcde {g}fe{g}fa || 
+c3 d2 e{A}(e2 | e4) {g}dcdf |c3 d2 e{A}e2 | dcde dcdf |
+c3 d2 e{A}e2 | d2 (c2 c)e{A}e2 | c3 d2 e{A}e2 | Bc{g}de {g}fe{g}fa |
+{AGAG}A2 {g}cA {g}ec{g}c{G}c | A8 | G2{g}BG {g}dB{g}B{G}B | G8 | 
+{AGAG}A2 {g}cA {g}ec{g}c{G}c | {g}Aa{g}ae {g}fe{g}fa | A3 c de3 | dcde {g}fedB | e8|]
 
+X:7
+T:Kelsey's Wee Reel
+T:Harmony 4
+R:Reel
+L:1/8
+C:Iain Symington
+M:C|
+L:1/8
+Q:"76 bpm"
+K:D
+ {g}A2 {g}cA {g}ec{g}c{G}c | {g}Aa{g}ae {g}fe{g}fa | {AGAG}A2 {g}cA {g}ec{g}c{G}c | {g}Bc{g}de {g}fe{g}fa | 
+{AGAG}A2 {g}cA {g}ec{g}c{G}c | {g}Aa{g}ae {g}fe{g}fa | Aa{g}ae {g}fc{g}c{G}c | {g}Bc{g}de {g}fe{g}fa || 
+Aa{g}aB ac{G}ca | Aa{g}ae {g}fe{g}fa | Aa{g}aB ac{G}ca | BABc {g}dc{g}df |
+A3 B2 c{A}c2 | f2 (e2 e)c{A}c2 | A3 B2 c{A}c2  | Bc{g}de {g}fe{g}fa |
+{AGAG}A2 {g}cA {g}e2 (a2 | a8) | G2{g}BG {g}d2 (g2 | g8) | 
+{AGAG}A2 {g}cA {g}ec{g}c{G}c | {g}Aa{g}ae {g}fe{g}fa | A8 | BABc defe | a8|]
 X:4
 T:The Parting Glass
 T:Harmony 1

@@ -110,8 +110,8 @@ Q:"114 bpm"
 [| {g}f2 B {g}fed | {g}AeA {g}edc | {g}Bf{e}f {g}fed | {g}e2 (f f)ed |
 {g}Bf{e}f {g}fed | {g}AeA {g}edc | {g}Bde {g}faf | {g}edc {g}B3 |
 {g}f2 B {g}fed | {g}AeA {g}edc | {g}Bf{e}f {g}fed | {g}c2 (d d)cB |
-{g}B6 | {g}c6 | {g}6 | {g}cBe {g}f3 |]
-[|:{g}f6 | {g}e6 | d3 B3 | {g}ABC {g}d3 | 
+{g}B6 | {g}c6 | {g}B6 | {g}cBe {g}f3 |
+[|:{g}f6 | {g}e6 | d3 B3 | {g}ABc {g}d3 | 
 [1 {g}fB(f f3) | {g}eA(e e3) | {g}dBc {g}d2 a | g3 f3 :|]
 [2 {g}fB(f f3) [M:9/8] | {g}eA(e e3) {g}Bde [M:6/8] | {g}f2 a2 g2 [Q:1/4=70] | {a}f6 |]
 
@@ -129,7 +129,7 @@ Q:"114 bpm"
 [|{g}faB {g}fed | {g}AeA {g}edc | B{e}B{G}B d{g}d{G}d | {gef}ede {g}f2 {e}f | 
 {g}BfB {g}fed | {g}AeA {g}edc | {g}Bde {g}faf | {g}edc {g}B3 |
 {g}B6 | A6 | {gf}g6 | gfg a3 | 
-[2 {g}B6[M:9/8] | {g}A6 {g}Bde [M:6/8] | {g}B2 c2 e2 [Q:1/4=70] | {g}d6 |]
+{g}B6[M:9/8] | {g}A6 {g}Bde [M:6/8] | {g}B2 c2 e2 [Q:1/4=70] | {g}d6 |]
 
 X:3
 T:The Radar Racketeer
@@ -145,7 +145,7 @@ Q:"114 bpm"
 [|{g}faB {g}fed | {g}AeA {g}edc | B{e}B{G}B d{g}d{G}d | {gef}ede {g}f2 {e}f | 
 {g}BfB {g}fed | {g}AeA {g}edc | {g}Bde {g}faf | {g}edc {g}B3 |
 {g}faB {g}fed | {g}AeA {g}edc | {g}G6 | AGA A3 |
-[2 {g}BfB {g}fed [M:9/8] | {g}AeA {g}edc {g}Bde [M:6/8] | {g}d2 e2 g2 [Q:1/4=70] | {g}f6 |]
+{g}BfB {g}fed [M:9/8] | {g}AeA {g}edc {g}Bde [M:6/8] | {g}d2 e2 g2 [Q:1/4=70] | {g}f6 |]
 
 
 X:7

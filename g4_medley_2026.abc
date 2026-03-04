@@ -31,6 +31,7 @@ K:D
 {gcd}c2d {g}ec{G}c | {g}fd{G}d {gef}e2f |  {g}e2A  {g}dc{G}c | {g}B3 {G}A3 |
 {gcd}c2d {g}ec{G}c | {g}fd{G}d {gef}e3 | {gcd}c2 d {g}eAe | {g}dc{G}c {g}B2 {g}(A |
 A2) B {g}c{d}c{e}c | {g}dc{G}c {g}B2 f | {g}e2A  {g}dc{G}c | {g}B3 {G}A3 |]
+
 X:3
 T:The Radar Racketeer
 C:Murray Blair & Adrian Melvin
@@ -41,7 +42,7 @@ K:D
 Q:"114 bpm"
 [|: {g}f2 B {g}fed | {g}AeA {g}edc | {g}Bf{e}f {g}fed | {g}e2 (f f)ed |
 {g}Bf{e}f {g}fed | {g}AeA {g}edc | {g}Bde {g}faf | {g}edc {g}B3 :|]
-[|:{g}faB {g}fed | {g}AeA {g}edc | B{e}B{G}B d{g}d{G}d | {gef}ede {g}f2 {e}f | 
+[|:{g}faB {g}fed | {g}AeA {g}edc | B{e}B{G}B d{g}d{G}d | {gef}ede {g}f2 {e}f |
 [1{g}BfB {g}fed | {g}AeA {g}edc | {g}Bde {g}faf | {g}edc {g}B3 :|]
 [2 {g}BfB {g}fed [M:9/8] | {g}AeA {g}edc {g}Bde [M:6/8] | {g}f2 a2 c2 [Q:1/4=70] | {g}B6 |]
 
@@ -63,10 +64,11 @@ R:Strathspey
 M:4/4
 K:D
 Q:"115 bpm"
-[| {Gdc}d2 {ag}a>e {g}f/e/d {gdG}d>A | {g}B<e {A}e>f {gf}g>e {gcd}c<e | {Gdc}d2 {ag}a>e {g}f/e/d {g}e>f | {gf}g>e a/g/f {gef}e2 {A}e>f | 
+[| {Gdc}d2 {ag}a>e {g}f/e/d {gdG}d>A | {g}B<e {A}e>f {gf}g>e {gcd}c<e | {Gdc}d2 {ag}a>e {g}f/e/d {g}e>f | {gf}g>e a/g/f {gef}e2 {A}e>f |
 {Gdc}d2 {ag}a>e {g}f/e/d {gdG}d>A | {g}B<e {A}e>f {gf}g>e {gcd}c<e | {ag}a>f {gf}g>e {g}f/e/d {gcd}c<{e}A | {g}e>f {a}g/f/e {Gdc}d2 {gdG}d3/2 ||
-f | {ag}a2 {fg}f>e {g}d>e {g}d>A | {g}B<e {A}e>f {gf}g>e {gcd}c<e | {ag}a2 {fg}f>e {Gdc}d>e {g}f>d | {gf}g>e a/g/f {gef}e2 {A}e>f | 
+f | {ag}a2 {fg}f>e {Gdc}d>e {g}d>A | {g}B<e {A}e>f {gf}g>e {gcd}c<e | {ag}a2 {fg}f>e {Gdc}d>e {g}f>d | {gf}g>e a/g/f {gef}e2 {A}e>f |
 {ag}a2 {fg}f>e {Gdc}d>e {g}d>A | {g}B<e {A}e>f {gf}g>e {gcd}c<e | {ag}a>f {gf}g>e {g}f/e/d {gcd}c<{e}A [M:2/4] | {g}e>f {a}g/f/e [M:C|] [Q:1/2=76] | {Gdc}d4 e4 |]
+
 X:6
 T:The Bouncing Czech
 R:Reel
@@ -90,15 +92,15 @@ M:C|
 L:1/8
 Q:"76 bpm"
 K:D
-[| {g}A2 {g}cA {g}ec{g}c{G}c | {g}Aa{g}ae {g}fe{g}fa | {AGAG}A2 {g}cA {g}ec{g}c{G}c | {g}Bc{g}de {g}fe{g}fa | 
-{AGAG}A2 {g}cA {g}ec{g}c{G}c | {g}Aa{g}ae {g}fe{g}fa | Aa{g}ae {g}fc{g}c{G}c | {g}Bc{g}de {g}fe{g}fa || 
+[| {g}A2 {g}cA {g}ec{g}c{G}c | {g}Aa{g}ae {g}fe{g}fa | {AGAG}A2 {g}cA {g}ec{g}c{G}c | {g}Bc{g}de {g}fe{g}fa |
+{AGAG}A2 {g}cA {g}ec{g}c{G}c | {g}Aa{g}ae {g}fe{g}fa | Aa{g}ae {g}fc{g}c{G}c | {g}Bc{g}de {g}fe{g}fa ||
 Aa{g}aB ac{G}ca | Aa{g}ae {g}fe{g}fa | Aa{g}aB ac{G}ca | Bc{g}de {g}fe{g}fa |
 Aa{g}aB ac{G}ca | faea {g}ac{G}ca | Aa{g}aB ac{G}ca | Bc{g}de {g}fe{g}fa |
-{AGAG}A2 {g}cA {g}ec{g}c{G}c | {g}Aa{g}ae {g}fe{g}fa | G2{g}BG {g}dB{g}B{G}B | {g}Gg{a}gd {g}ed{g}eg | 
+{AGAG}A2 {g}cA {g}ec{g}c{G}c | {g}Aa{g}ae {g}fe{g}fa | G2{g}BG {g}dB{g}B{G}B | {g}Gg{a}gd {g}ed{g}eg |
 {AGAG}A2 {g}cA {g}ec{g}c{G}c | {g}Aa{g}ae {g}fe{g}fa |Aa{g}ae {g}fc{g}c{G}c | {g}Bc{g}de {g}fe{g}dB | {gAGAG}A8 |]
 
 
-X:3
+X:8
 T:The Radar Racketeer
 T:Harmony 1
 C:Murray Blair & Adrian Melvin
@@ -111,11 +113,11 @@ Q:"114 bpm"
 {g}Bf{e}f {g}fed | {g}AeA {g}edc | {g}Bde {g}faf | {g}edc {g}B3 |
 {g}f2 B {g}fed | {g}AeA {g}edc | {g}Bf{e}f {g}fed | {g}c2 (d d)cB |
 {g}B6 | {g}c6 | {g}B6 | {g}cBe {g}f3 |
-[|:{g}f6 | {g}e6 | d3 B3 | {g}ABc {g}d3 | 
+[|:{g}f6 | {g}e6 | d3 B3 | {g}ABc {g}d3 |
 [1 {g}fB(f f3) | {g}eA(e e3) | {g}dBc {g}d2 a | g3 f3 :|]
 [2 {g}fB(f f3) [M:9/8] | {g}eA(e e3) {g}Bde [M:6/8] | {g}f2 a2 g2 [Q:1/4=70] | {a}f6 |]
 
-X:3
+X:9
 T:The Radar Racketeer
 T:Harmony 2
 C:Murray Blair & Adrian Melvin
@@ -126,12 +128,12 @@ K:D
 Q:"114 bpm"
 [|: {g}f2 B {g}fed | {g}AeA {g}edc | {g}Bf{e}f {g}fed | {g}e2 (f f)ed |
 {g}Bf{e}f {g}fed | {g}AeA {g}edc | {g}Bde {g}faf | {g}edc {g}B3 :|]
-[|{g}faB {g}fed | {g}AeA {g}edc | B{e}B{G}B d{g}d{G}d | {gef}ede {g}f2 {e}f | 
+[|{g}faB {g}fed | {g}AeA {g}edc | B{e}B{G}B d{g}d{G}d | {gef}ede {g}f2 {e}f |
 {g}BfB {g}fed | {g}AeA {g}edc | {g}Bde {g}faf | {g}edc {g}B3 |
-{g}B6 | A6 | {gf}g6 | gfg a3 | 
+{g}B6 | A6 | {gf}g6 | gfg a3 |
 {g}B6[M:9/8] | {g}A6 {g}Bde [M:6/8] | {g}B2 c2 e2 [Q:1/4=70] | {g}d6 |]
 
-X:3
+X:10
 T:The Radar Racketeer
 T:Harmony 3
 C:Murray Blair & Adrian Melvin
@@ -142,13 +144,13 @@ K:D
 Q:"114 bpm"
 [|: {g}f2 B {g}fed | {g}AeA {g}edc | {g}Bf{e}f {g}fed | {g}e2 (f f)ed |
 {g}Bf{e}f {g}fed | {g}AeA {g}edc | {g}Bde {g}faf | {g}edc {g}B3 :|]
-[|{g}faB {g}fed | {g}AeA {g}edc | B{e}B{G}B d{g}d{G}d | {gef}ede {g}f2 {e}f | 
+[|{g}faB {g}fed | {g}AeA {g}edc | B{e}B{G}B d{g}d{G}d | {gef}ede {g}f2 {e}f |
 {g}BfB {g}fed | {g}AeA {g}edc | {g}Bde {g}faf | {g}edc {g}B3 |
 {g}faB {g}fed | {g}AeA {g}edc | {g}G6 | AGA A3 |
 {g}BfB {g}fed [M:9/8] | {g}AeA {g}edc {g}Bde [M:6/8] | {g}d2 e2 g2 [Q:1/4=70] | {g}f6 |]
 
 
-X:7
+X:11
 T:Kelsey's Wee Reel
 T:Harmony 1
 R:Reel
@@ -158,14 +160,14 @@ M:C|
 L:1/8
 Q:"76 bpm"
 K:D
-[| {g}A2 {g}cA {g}ec{g}c{G}c | {g}Aa{g}ae {g}fe{g}fa | {AGAG}A2 {g}cA {g}ec{g}c{G}c | {g}Bc{g}de {g}fe{g}fa | 
-{AGAG}A2 {g}cA {g}ec{g}c{G}c | {g}Aa{g}ae {g}fe{g}fa | Aa{g}ae {g}fc{g}c{G}c | {g}Bc{g}de {g}fe{g}fa || 
+[| {g}A2 {g}cA {g}ec{g}c{G}c | {g}Aa{g}ae {g}fe{g}fa | {AGAG}A2 {g}cA {g}ec{g}c{G}c | {g}Bc{g}de {g}fe{g}fa |
+{AGAG}A2 {g}cA {g}ec{g}c{G}c | {g}Aa{g}ae {g}fe{g}fa | Aa{g}ae {g}fc{g}c{G}c | {g}Bc{g}de {g}fe{g}fa ||
 Aa{g}aB ac{G}ca | Aa{g}ae {g}fe{g}fa | Aa{g}aB ac{G}ca | Bc{g}de {g}fe{g}fa |
 Aa{g}aB ac{G}ca | faea {g}ac{G}ca | Aa{g}aB ac{G}ca | Bc{g}de {g}fe{g}fa |
-{AGAG}A2 {g}cA {g}ec{g}c{G}(c | c8) | {g}G2{g}BG {g}dB{g}B{G}(B | B8) | 
+{AGAG}A2 {g}cA {g}ec{g}c{G}(c | c8) | {g}G2{g}BG {g}dB{g}B{G}(B | B8) |
 {AGAG}A2 {g}cA {g}ec{g}c{G}c | {g}Aa{g}ae {g}fe{g}fa |Aa{g}ae {g}fc{g}c{G}c | {g}Bcde {g}fedB | {gAGAG}A8 |]
 
-X:7
+X:12
 T:Kelsey's Wee Reel
 T:Harmony 2
 R:Reel
@@ -175,14 +177,14 @@ M:C|
 L:1/8
 Q:"76 bpm"
 K:D
-[| {g}A2 {g}cA {g}ec{g}c{G}c | {g}Aa{g}ae {g}fe{g}fa | {AGAG}A2 {g}cA {g}ec{g}c{G}c | {g}Bcde {g}fe{g}fa | 
-{AGAG}A2 {g}cA {g}ec{g}c{G}c | {g}Aa{g}ae {g}fe{g}fa | Aa{g}ae {g}fc{g}c{G}c | {g}Bcde {g}fe{g}fa || 
+[| {g}A2 {g}cA {g}ec{g}c{G}c | {g}Aa{g}ae {g}fe{g}fa | {AGAG}A2 {g}cA {g}ec{g}c{G}c | {g}Bcde {g}fe{g}fa |
+{AGAG}A2 {g}cA {g}ec{g}c{G}c | {g}Aa{g}ae {g}fe{g}fa | Aa{g}ae {g}fc{g}c{G}c | {g}Bcde {g}fe{g}fa ||
 e3 f2 a{g}(a2 | a8) | e3 f2 a{g}a2 | fefa a4 |
 e3 f2 a{g}a2 | {g}a2 {g}(a2 a){g}a{g}a2 |e3 f2 a{g}a2 | Bc{g}de {g}fe{g}fa |
-{AGAG}A2 {g}cA {g}(e4 | e8) | {g}G2{g}BG {g}(d4 | d8) | 
+{AGAG}A2 {g}cA {g}(e4 | e8) | {g}G2{g}BG {g}(d4 | d8) |
 {AGAG}A2 {g}cA {g}ec{g}c{G}c | {g}Aa{g}ae {g}fe{g}fa | e3 (a a4) | fefa {g}a2fe | c8|]
 
-X:7
+X:13
 T:Kelsey's Wee Reel
 T:Harmony 3
 R:Reel
@@ -192,14 +194,14 @@ M:C|
 L:1/8
 Q:"76 bpm"
 K:D
-[| {g}A2 {g}cA {g}ec{g}c{G}c | {g}Aa{g}ae {g}fe{g}fa | {AGAG}A2 {g}cA {g}ec{g}c{G}c | {g}Bcde {g}fe{g}fa | 
-{AGAG}A2 {g}cA {g}ec{g}c{G}c | {g}Aa{g}ae {g}fe{g}fa | Aa{g}ae {g}fc{g}c{G}c | {g}Bcde {g}fe{g}fa || 
+[| {g}A2 {g}cA {g}ec{g}c{G}c | {g}Aa{g}ae {g}fe{g}fa | {AGAG}A2 {g}cA {g}ec{g}c{G}c | {g}Bcde {g}fe{g}fa |
+{AGAG}A2 {g}cA {g}ec{g}c{G}c | {g}Aa{g}ae {g}fe{g}fa | Aa{g}ae {g}fc{g}c{G}c | {g}Bcde {g}fe{g}fa ||
 c3 d2 e{A}(e2 | e4) {g}dcdf |c3 d2 e{A}e2 | dcde dcdf |
 c3 d2 e{A}e2 | d2 (c2 c)e{A}e2 | c3 d2 e{A}e2 | Bc{g}de {g}fe{g}fa |
-{AGAG}A2 {g}cA {g}ec{g}c{G}c | A8 | G2{g}BG {g}dB{g}B{G}B | G8 | 
+{AGAG}A2 {g}cA {g}ec{g}c{G}c | A8 | G2{g}BG {g}dB{g}B{G}B | G8 |
 {AGAG}A2 {g}cA {g}ec{g}c{G}c | {g}Aa{g}ae {g}fe{g}fa | A3 c de3 | dcde {g}fedB | e8|]
 
-X:7
+X:14
 T:Kelsey's Wee Reel
 T:Harmony 4
 R:Reel
@@ -209,52 +211,57 @@ M:C|
 L:1/8
 Q:"76 bpm"
 K:D
- {g}A2 {g}cA {g}ec{g}c{G}c | {g}Aa{g}ae {g}fe{g}fa | {AGAG}A2 {g}cA {g}ec{g}c{G}c | {g}Bc{g}de {g}fe{g}fa | 
-{AGAG}A2 {g}cA {g}ec{g}c{G}c | {g}Aa{g}ae {g}fe{g}fa | Aa{g}ae {g}fc{g}c{G}c | {g}Bc{g}de {g}fe{g}fa || 
+ {g}A2 {g}cA {g}ec{g}c{G}c | {g}Aa{g}ae {g}fe{g}fa | {AGAG}A2 {g}cA {g}ec{g}c{G}c | {g}Bc{g}de {g}fe{g}fa |
+{AGAG}A2 {g}cA {g}ec{g}c{G}c | {g}Aa{g}ae {g}fe{g}fa | Aa{g}ae {g}fc{g}c{G}c | {g}Bc{g}de {g}fe{g}fa ||
 Aa{g}aB ac{G}ca | Aa{g}ae {g}fe{g}fa | Aa{g}aB ac{G}ca | BABc {g}dc{g}df |
 A3 B2 c{A}c2 | f2 (e2 e)c{A}c2 | A3 B2 c{A}c2  | Bc{g}de {g}fe{g}fa |
-{AGAG}A2 {g}cA {g}e2 (a2 | a8) | G2{g}BG {g}d2 (g2 | g8) | 
+{AGAG}A2 {g}cA {g}e2 (a2 | a8) | G2{g}BG {g}d2 (g2 | g8) |
 {AGAG}A2 {g}cA {g}ec{g}c{G}c | {g}Aa{g}ae {g}fe{g}fa | A8 | BABc defe | a8|]
-X:4
+
+X:15
 T:The Parting Glass
 T:Harmony 1
-C:Trad
+C:Trad, Arr. Adam Blaine
 L:1/8
 R:Air
 M:4/4
 K:D
 Q:"70 bpm"
-{g}fe | {Gdc}d3B {gBd}B2{g}AB | {gc}d2{e}A2 {gef}e3 {g}d/e/ | {g}f3g {fg}fe {g}de | {g}f4 e2 fe | {Gdc}f4 {gBd}g4 [M:2/4] | {g}B2 e2  [M:4/4] | {gef}a4 {g}de | {g}d2 {ag}c2  d3 {g}e/f/ [Q:1/4=118] | {g}f4 {e}e4 | {GdG}f8 |]
+{g}fe | {Gdc}d3B {gBd}B2{g}AB | {gc}d2{e}A2 {gef}e3 {g}d/e/ | {g}f3g {fg}fe {g}de |
+{g}f4 e2 fe | {g}f4 {a}g4 [M:2/4] | {g}B2 e2  [M:4/4] | a4 {g}de | {g}d2 {g}c2  d3 {g}e/f/ [Q:1/4=118] | {g}f4 {g}e4 | f8 |]
 
-X:4
+X:16
 T:The Parting Glass
 T:Harmony 2
-C:Trad
+C:Trad, Arr. Adam Blaine
 L:1/8
 R:Air
 M:4/4
 K:D
 Q:"70 bpm"
-{g}fe | {Gdc}d3B {gBd}B2{g}AB | {gc}d2{e}A2 {gef}e3 {g}d/e/ | {g}f3g {fg}fe {g}de | {g}f4 e2 fe | {Gdc}f4 {gBd}g4 [M:2/4] | {g}g2 e2  [M:4/4] | {gef}d4 c2 {g}de | {g}a2 {ag}f2  a3 {g}e/f/ [Q:1/4=118] | {g}d4 {e}A4 | {GdG}f8 |]
+{g}fe | {Gdc}d3B {gBd}B2{g}AB | {gc}d2{e}A2 {gef}e3 {g}d/e/ | {g}f3g {fg}fe {g}de |
+{g}f4 e2 fe | {g}f4 {a}g4 [M:2/4] | {a}g2 e2  [M:4/4] | {g}d4 c2 {g}de | a2 f2  a3 e/f/ [Q:1/4=118] | {g}d4 {e}A4 | f8 |]
 
-X:4
+X:17
 T:The Parting Glass
 T:Harmony 3
-C:Trad
+C:Trad, Arr. Adam Blaine
 L:1/8
 R:Air
 M:4/4
 K:D
 Q:"70 bpm"
-{g}fe | {Gdc}d3B {gBd}B2{g}AB | {gc}d2{e}A2 {gef}c3 {g}B/c/ | {g}d4 {fg}dc {g}A2 | {g}A4 c2 c2 | {Gdc}A4 {gBd}G4 [M:2/4] | {g}G2 A2  [M:4/4] | {gef}A6 {g}B2 | {g}A2 {ag}A2  B3 {g}e/f/ [Q:1/4=118] | {g}d4 {e}A4 | {GdG}B8 |]
+{g}fe | {Gdc}d3B {gBd}B2{g}AB | {gc}d2{e}A2 {gef}c3 {g}B/c/ | {g}d4 {fg}dc {g}A2 |
+{g}A4 c4 | {g}A4 G4- [M:2/4] | G2 A2-  [M:4/4] | A6 {g}B2 | {g}A2 {g}A2  B3 {g}e/f/ [Q:1/4=118] | {g}d4 {e}A4 | {GdG}B8 |]
 
-X:4
+X:18
 T:The Parting Glass
 T:Harmony 4
-C:Trad
+C:Trad, Arr. Adam Blaine
 L:1/8
 R:Air
 M:4/4
 K:D
 Q:"70 bpm"
-{g}fe | {Gdc}d3B {gBd}B2{g}AB | {gc}d2{e}A2 {gef}e3 {g}d/e/ | {g}f3g {fg}fe {g}de | {g}f2 A2 {GAG}A2 {g}fe | {Gdc}d3 {g}c/d/ {gBd}B2 {g}AB [M:2/4] | {g}d2 {c}d2 [M:4/4] | {gef}B6 {g}de | {g}f2 {ag}a2 f3 {g}e/f/ [Q:1/4=118] | {g}d4 {e}A4 | {GdG}B8 |]
+{g}fe | {Gdc}d3B {gBd}B2{g}AB | {gc}d2{e}A2 {gef}e3 {g}d/e/ | {g}f3g {fg}fe {g}de |
+{g}f2 A2 {GAG}A2 {g}fe | {Gdc}d3 {g}c/d/ {gBd}B2 {g}AB [M:2/4] | {g}d2 {c}d2 [M:4/4] | {g}B6 {g}de | {g}f2 {ag}a2 f3 {g}e/f/ [Q:1/4=118] | {g}d4 {e}A4 | {GdG}B8 |]

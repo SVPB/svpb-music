@@ -54,7 +54,8 @@ R:Air
 M:4/4
 K:D
 Q:"70 bpm"
-{g}fe | {Gdc}d3B {gBd}B2{g}AB | {gc}d2{e}A2 {gef}e3 {g}d/e/ | {g}f3g {fg}fe {g}de | {g}f2 {g}A2 {GAG}A2 {g}fe | {Gdc}d3 {g}c/d/ {gBd}B2 {g}AB [M:2/4] | {gc}d2 {c}d2 [M:4/4] | {gef}e6 {g}de | {g}f2 {ag}a2 f3 {g}e/f/ [Q:1/4=115] | {g}d4 {e}A4 | {GdG}B8 |]
+{g}fe | {Gdc}d3B {gBd}B2{g}AB | {gc}d2{e}A2 {gef}e3 {g}d/e/ | {g}f3g {fg}fe {g}de | {g}f2 {g}A2 {GAG}A2 {g}fe |
+{Gdc}d3 {g}c/d/ {gBd}B2 {g}AB [M:5/4]| {gc}d2 {c}d2 {gef}e6 [M:3/4] | {g}de {g}Hf2 {ag}Ha2 [M:4/4] [Q:1/4=115] | f6 {g}ef | {g}d4 {e}A4 | {GdG}B8 |]
 
 X:5
 T:PM Sandy Gordon
@@ -228,7 +229,7 @@ M:4/4
 K:D
 Q:"70 bpm"
 {g}fe | {Gdc}d3B {gBd}B2{g}AB | {gc}d2{e}A2 {gef}e3 {g}d/e/ | {g}f3g {fg}fe {g}de |
-{g}f4 e2 fe | {g}f4 {a}g4 [M:2/4] | {g}B2 e2  [M:4/4] | a4 {g}de | {g}d2 {g}c2  d3 {g}e/f/ [Q:1/4=118] | {g}f4 {g}e4 | f8 |]
+{g}f4 e2 {g}fe | {g}f4 {gf}g4 [M:5/4] | {a}B2 e2 {ag}a6 [M:3/4] | de {g}Hd2 {g}Hc2  [Q:1/4=115] [M:4/4] | {g}d6 {g}ef  | {g}f4 {g}e4 | {ge}f8 |]
 
 X:16
 T:The Parting Glass
@@ -240,7 +241,7 @@ M:4/4
 K:D
 Q:"70 bpm"
 {g}fe | {Gdc}d3B {gBd}B2{g}AB | {gc}d2{e}A2 {gef}e3 {g}d/e/ | {g}f3g {fg}fe {g}de |
-{g}f4 e2 fe | {g}f4 {a}g4 [M:2/4] | {a}g2 e2  [M:4/4] | {g}d4 c2 {g}de | a2 f2  a3 e/f/ [Q:1/4=118] | {g}d4 {e}A4 | f8 |]
+{g}f4 e2 {g}fe | {g}f4 {gf}g4 [M:5/4] | {a}g2 e2  {g}d4 c2 [M:3/4] | {g}de {ag}Ha2 Hf2 [Q:1/4=115] [M:4/4]| {ag}a6 ef  | {g}d4 {e}A4 | {ge}f8 |]
 
 X:17
 T:The Parting Glass
@@ -251,8 +252,8 @@ R:Air
 M:4/4
 K:D
 Q:"70 bpm"
-{g}fe | {Gdc}d3B {gBd}B2{g}AB | {gc}d2{e}A2 {gef}c3 {g}B/c/ | {g}d4 {fg}dc {g}A2 |
-{g}A4 c4 | {g}A4 G4- [M:2/4] | G2 A2-  [M:4/4] | A6 {g}B2 | {g}A2 {g}A2  B3 {g}e/f/ [Q:1/4=118] | {g}d4 {e}A4 | {GdG}B8 |]
+{g}fe | {Gdc}d3B {gBd}B2{g}AB | {gc}d2{e}A2 {g}c3 {g}B/c/ | {gc}d4 {g}dc A2 |
+{g}A4 c4 | {g}A4 G4- [M:5/4] | G2 {g}A8 [M:3/4]| {g}B2 HA2 {g}HA2 [Q:1/4=115] [M:4/4]| {g}B6 {g}ef | {g}d4 {e}A4 | {GdG}B8 |]
 
 X:18
 T:The Parting Glass
@@ -264,4 +265,4 @@ M:4/4
 K:D
 Q:"70 bpm"
 {g}fe | {Gdc}d3B {gBd}B2{g}AB | {gc}d2{e}A2 {gef}e3 {g}d/e/ | {g}f3g {fg}fe {g}de |
-{g}f2 A2 {GAG}A2 {g}fe | {Gdc}d3 {g}c/d/ {gBd}B2 {g}AB [M:2/4] | {g}d2 {c}d2 [M:4/4] | {g}B6 {g}de | {g}f2 {ag}a2 f3 {g}e/f/ [Q:1/4=118] | {g}d4 {e}A4 | {GdG}B8 |]
+{g}f2 A2 {GAG}A2 {g}fe | {Gdc}d3 {g}c/d/ {gBd}B2 {g}AB [M:5/4] | {g}d2 {c}d2 {g}B6 [M:3/4] | {g}de {g}Hf2 {ag}Ha2 [Q:1/4=115] [M:4/4]| f6 {g}ef | {g}d4 {e}A4 | {GdG}B8 |]

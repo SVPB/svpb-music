@@ -31,6 +31,12 @@ the current year.
 
 We save our tunes as ABC files. For details on ABC, refer to the [ABC standard](http://abcnotation.com/wiki/abc:standard:v2.2). Most graphical music programs understand ABC and can import it (e.g. [CelticPipes](https://www.celticpipes.net/), [MuseScore](https://musescore.org/en), &c) but since it is a text format and not binary, it compresses well and is much friendlier for revision control systems than their native binary formats. Also, since ABC is a text format, you don't need a particular application which may not be available on your platform - just edit the text.
 
-To produce PDF files which we print and put in our binders, we use a series of tools. First, we use [abcm2ps](https://github.com/leesavide/abcm2ps) to convert the ABC files to PostScript. Then, we convert the PostScript to PDF. MacOS ships with a script, `pstopdf`, which can do this, and other systems can install [Ghostscript](https://www.ghostscript.com/), which provides a similar tool, `ps2pdf`, which does the same thing.
+To produce PDF files which we print and put in our binders, we use a series of tools. First, we use [abcm2ps](https://github.com/sbeitzel/abcm2ps) to convert the ABC files to PostScript. Then, we convert the PostScript to PDF. MacOS used
+to ship with a tool, `pstopdf`, which could do this. macOS 26 (Tahoe) and later no longer includes this tool.
+[Ghostscript](https://www.ghostscript.com/) provides, `ps2pdf`, which does this.
 
+## abcm2ps
 
+Originally, we used a vanilla build of Jean-François Moine's `abcm2ps` to generate PostScript files. That tool
+has now been [archived](https://github.com/lewdlime/abcm2ps) as M. Moine has decided to go in the direction of JavaScript
+in the browser. Thus, we continue development on our own fork of the project.

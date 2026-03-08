@@ -25,6 +25,7 @@ At some point late in 2023, a whole bunch of Perl dependencies disappeared. This
  - LWP::Protocol::https
 
 The most recent sweeping set of upgrades has meant that I needed to reinstall
+
  * LWP:`apt-get install libwww-perl`
  * UUID: `apt-get install libdata-uuid-perl`
  * PDF::API2: `apt-get install libpdf-api2-perl`

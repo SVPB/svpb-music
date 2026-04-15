@@ -9,13 +9,14 @@ C:Angus Lawrie
 M:C
 L:1/8
 Q:"115 bpm"
+N:Transcribed from RSPBA MAP tune setting, modified grace on E in 4th measure
 K:D
-[|: {gBG}B2 {Gdc}d>e {gfg}f>e {Gdc}d>B | {g}A2 {GdGe}A>{d}c {g}c<e {A}e>f | {gBG}B2 {Gdc}d>e {gfg}f>e {Gdc}d>f | {gef}e>c {ag}a>c {g}d<B {GdG}B2 :|]
-{Gdc}d>e {g}f>g {ag}a>f {Gdc}d>B | {g}A2 {GdGe}A>{d}c {g}c<e {A}e>f | {Gdc}d>e {g}f>g {ag}a>f {Gdc}d>B |  {gef}e>c {ag}a>c {g}d<B {GdG}B2 |
-{Gdc}d>e {g}f>g {ag}a>f {Gdc}d>B | {g}A2 {GdGe}A>{d}c {g}c<e {A}e>f | {gBG}B2 {Gdc}d>e {gfg}f>e {Gdc}d>f | {gef}e>c {ag}a>c {g}d<B {GdG}B2 ||
-[|: {gBGdG}B2 {gcd}c<{e}A {g}B>c {Gdc}d>B | {g}A2 {GdGe}A>{d}c {g}c<e {A}e>f | {gBGdG}B2 {gcd}c<{e}A {g}B>c {Gdc}d>f | {gef}e>c {ag}a>c {g}d<B {GdG}B2 :|]
-{gfg}f>e {Gdc}d>f {ag}a>f {Gdc}d>B | {g}A2 {GdGe}A>{d}c {g}c<e {A}e>f | {gfg}f>e {Gdc}d>f {ag}a>f {Gdc}d>f | {gef}e>c {ag}a>c {g}d<B {GdG}B2
-{gfg}f>e {Gdc}d>f {ag}a>f {Gdc}d>B | {g}A2 {GdGe}A>{d}c {g}c<e {A}e>f | {g}B<d {g}c<e {g}f/e/d {ag}a>f | {gef}e>c {ag}a>c {g}d<B {GdG}B2 |]
+[|: {gBG}B2 {Gdc}d>e {gfg}f>e {Gdc}d>B | {g}A2 {GdGe}A>{d}c {g}c<e {A}e>f | {gBG}B2 {Gdc}d>e {gfg}f>e {Gdc}d>f | {g}e>c {ag}a>c {g}d<B {GdG}B2 :|]
+{Gdc}d>e {g}f>g {ag}a>f {Gdc}d>B | {g}A2 {GdGe}A>{d}c {g}c<e {A}e>f | {Gdc}d>e {g}f>g {ag}a>f {Gdc}d>B |  {g}e>c {ag}a>c {g}d<B {GdG}B2 |
+{Gdc}d>e {g}f>g {ag}a>f {Gdc}d>B | {g}A2 {GdGe}A>{d}c {g}c<e {A}e>f | {gBG}B2 {Gdc}d>e {gfg}f>e {Gdc}d>f | {g}e>c {ag}a>c {g}d<B {GdG}B2 ||
+[|: {gBGdG}B2 {gcd}c<{e}A {g}B>c {Gdc}d>B | {g}A2 {GdGe}A>{d}c {g}c<e {A}e>f | {gBGdG}B2 {gcd}c<{e}A {g}B>c {Gdc}d>f | {g}e>c {ag}a>c {g}d<B {GdG}B2 :|]
+{gfg}f>e {Gdc}d>f {ag}a>f {Gdc}d>B | {g}A2 {GdGe}A>{d}c {g}c<e {A}e>f | {gfg}f>e {Gdc}d>f {ag}a>f {Gdc}d>f | {g}e>c {ag}a>c {g}d<B {GdG}B2
+{gfg}f>e {Gdc}d>f {ag}a>f {Gdc}d>B | {g}A2 {GdGe}A>{d}c {g}c<e {A}e>f | {g}B<d {g}c<e {g}f/e/d {ag}a>f | {g}e>c {ag}a>c {g}d<B {GdG}B2 |]
 
 X:3
 T:Kalabakan (Borneo)

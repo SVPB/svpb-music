@@ -10,9 +10,10 @@ M:C
 L:1/8
 Q:"115 bpm"
 N:Transcribed from RSPBA MAP tune setting, modified grace on E in 4th measure
+N:Changed B to f in measure 7
 K:D
 [|: {gBG}B2 {Gdc}d>e {gfg}f>e {Gdc}d>B | {g}A2 {GdGe}A>{d}c {g}c<e {A}e>f | {gBG}B2 {Gdc}d>e {gfg}f>e {Gdc}d>f | {g}e>c {ag}a>c {g}d<B {GdG}B2 :|]
-{Gdc}d>e {g}f>g {ag}a>f {Gdc}d>B | {g}A2 {GdGe}A>{d}c {g}c<e {A}e>f | {Gdc}d>e {g}f>g {ag}a>f {Gdc}d>B |  {g}e>c {ag}a>c {g}d<B {GdG}B2 |
+{Gdc}d>e {g}f>g {ag}a>f {Gdc}d>B | {g}A2 {GdGe}A>{d}c {g}c<e {A}e>f | {Gdc}d>e {g}f>g {ag}a>f {Gdc}d>f |  {g}e>c {ag}a>c {g}d<B {GdG}B2 |
 {Gdc}d>e {g}f>g {ag}a>f {Gdc}d>B | {g}A2 {GdGe}A>{d}c {g}c<e {A}e>f | {gBG}B2 {Gdc}d>e {gfg}f>e {Gdc}d>f | {g}e>c {ag}a>c {g}d<B {GdG}B2 ||
 [|: {gBGdG}B2 {gcd}c<{e}A {g}B>c {Gdc}d>B | {g}A2 {GdGe}A>{d}c {g}c<e {A}e>f | {gBGdG}B2 {gcd}c<{e}A {g}B>c {Gdc}d>f | {g}e>c {ag}a>c {g}d<B {GdG}B2 :|]
 {gfg}f>e {Gdc}d>f {ag}a>f {Gdc}d>B | {g}A2 {GdGe}A>{d}c {g}c<e {A}e>f | {gfg}f>e {Gdc}d>f {ag}a>f {Gdc}d>f | {g}e>c {ag}a>c {g}d<B {GdG}B2
@@ -33,4 +34,4 @@ K:D
 [| A/ | {g}B<d{e}A>d {g}B<{d}A{g}B<d | {g}f>A {gAGAG}A2 {g}f>e{A}e>f | {g}B<d{e}A>d {g}B<{d}A{g}B<d | {g}A<{d}A{g}f>e {Gdc}d2 {g}d>A |
 {g}B<d{e}A>d {g}B<{d}A{g}B<d | {g}f>A {gAGAG}A2 {g}f>e{A}e>f | {Gdc}d2 {e}A>d {g}B<{d}A{g}B<d | {g}A<{d}A{g}f>e {Gdc}d2 {g}d3/2 |]
 [| a/ | {fg}f2 {g}f<a {ef}e2 {A}e>f | {Gdc}d2 {g}e>d {g}B<d{g}B<{d}A | {g}B<d{e}A>d {g}B<{d}A{g}B<d | {g}f>e{A}e>f {gef}e2 a2 |
-{fg}f2 {g}f<a {ef}e2 {A}e>f | {Gdc}d2 {g}e>d {g}B<d{g}B<{d}A | {Gdc}d2 {e}A>d {g}B<{e}A{g}B<d | {g}A<{d}A{g}f>e {Gdc}d2 z |]
+{fg}f2 {g}f<a {ef}e2 {A}e>f | {Gdc}d2 {g}e>d {g}B<d{g}B<{d}A | {Gdc}d2 {e}A>d {g}B<{d}A{g}B<d | {g}A<{d}A{g}f>e {Gdc}d2 z |]

@@ -13,6 +13,10 @@ job on the build server that looks for these files; when it finds one, it pulls 
 from Github, builds the binder, syncs the files to Box (via [rclone](https://rclone.org))
 and sends a message to Slack.
 
+> *Note*
+> A different build system is under development. The author hopes it will supersede
+> this system sometime in 2026.
+
 ## Setting Up A New Year
 
 1. create the new branch and push it to Github

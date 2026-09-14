@@ -1,0 +1,23 @@
+%abc-2.2
+I:abc-include ckstyle.abh
+%%landscape 0
+%%ceolkit::scale 0.65
+X:1
+T:Detroit Highlanders
+T:Alternate Setting
+R:March
+C:A. MacNeill
+M:2/4
+L:1/16
+Q:1/4 = 76
+K:D
+[|: {g}A>d | {gfg}f4 {gef}e2>>c2 | {Gdc}d>e{g}f>A {g}B2{G}A2 | {gf}g4 {afg}f2>>e2 | {Gdc}d>fa>f {g}e2{g}A>d |
+{gfg}f4 {gef}e2>>c2 | {Gdc}d>e{g}f<a B2{G}A2 | {gf}g2{a}d>>B {G}A>ca>f  | {gef}e4 {Gdc}d2 :|]
+[|: {g}f>g | {ag}a2>>f2 {gf}g2a2 | f>ga>f {g}e2{Gdc}d2 | {gf}g2a2 {fg}f2>>e2 |  {Gdc}d>fa>f {g}e2{g}f>g |
+[1 {ag}a2>>f2 {gf}g2a2 | f>ga>f {g}e2{Gdc}d2 | {gf}g2{a}d>>B {G}A>ca>f  | {gef}e4 {Gdc}d2 :|]
+[2 a>fg>e {g}f>d{g}e>c | {gde}d>B{GdG}g2 B2{G}A2 | {gf}g2{a}d>>B {G}A>ca>f  | {gef}e4 {Gdc}d2 ||
+[|: {g}A>d | {gfg}f2{g}A>d {gef}e2{g}A>d | {g}B2{Gdc}d2 {g}B2{g}A>d | {gf}g2{a}A>d {gfg}f2{g}A>d | {g}c2{Gdc}d2 {gef}e2{g}A>d |
+{gfg}f2{g}A>d {gef}e2{g}A>d | {g}B>d{g}c<d {g}B2{G}A2 | {gf}g2{a}d>>B {G}A>ca>f  | {gef}e4 {Gdc}d2 :|]
+[|: {g}f>g | a>ga>f g>{a}fg>e | {g}f>ga>f {g}e2{Gdc}d2 | {gf}g>ag>e {g}f>ga>d | {g}c<{d}B{g}c>d {gef}e2{g}f>g |
+[1 a>ga>f g>{a}fg>e | {g}f>ga>d {g}B2{G}A2 | {gf}g2{a}d>>B {G}A>ca>f  | {gef}e4 {Gdc}d2 :|]
+[2 a>da>d {g}f>da>d | {gef}e>d{g}B<d {g}B2{G}A2 | {gf}g2{a}d>>B {G}A>ca>f  | {gef}e4 {Gdc}d2 |]

@@ -1,0 +1,20 @@
+%abc-2.2
+I:abc-include ckstyle.abh
+%%landscape 1
+%%ceolkit:gracenotespacing 1.5
+X:12
+T:Kelsey's Wee Reel
+T:Harmony 2
+R:Reel
+L:1/8
+C:Iain Symington
+M:C|
+L:1/8
+Q:1/4 = 76
+K:D
+[| {g}A2 {g}cA {g}ec{g}c{G}c | {g}Aa{g}ae {g}fe{g}fa | {AGAG}A2 {g}cA {g}ec{g}c{G}c | {g}Bcde {g}fe{g}fa |
+{AGAG}A2 {g}cA {g}ec{g}c{G}c | {g}Aa{g}ae {g}fe{g}fa | Aa{g}ae {g}fc{g}c{G}c | {g}Bcde {g}fe{g}fa ||
+e3 f2 a{g}(a2 | a8) | e3 f2 a{g}a2 | fefa a4 |
+e3 f2 a{g}a2 | {g}a2 {g}(a2 a){g}a{g}a2 |e3 f2 a{g}a2 | Bc{g}de {g}fe{g}fa |
+{AGAG}A2 {g}cA {g}(e4 | e8) | {g}G2{g}BG {g}(d4 | d8) |
+{AGAG}A2 {g}cA {g}ec{g}c{G}c | {g}Aa{g}ae {g}fe{g}fa | e3 (a a4) | fefa {g}a2fe | c8|]

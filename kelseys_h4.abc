@@ -1,0 +1,19 @@
+%abc-2.2
+I:abc-include ckstyle.abh
+%%landscape 1
+X:14
+T:Kelsey's Wee Reel
+T:Harmony 4
+R:Reel
+L:1/8
+C:Iain Symington
+M:C|
+L:1/8
+Q:1/4 = 76
+K:D
+ {g}A2 {g}cA {g}ec{g}c{G}c | {g}Aa{g}ae {g}fe{g}fa | {AGAG}A2 {g}cA {g}ec{g}c{G}c | {g}Bc{g}de {g}fe{g}fa |
+{AGAG}A2 {g}cA {g}ec{g}c{G}c | {g}Aa{g}ae {g}fe{g}fa | Aa{g}ae {g}fc{g}c{G}c | {g}Bc{g}de {g}fe{g}fa ||
+Aa{g}aB ac{G}ca | Aa{g}ae {g}fe{g}fa | Aa{g}aB ac{G}ca | BABc {g}dc{g}df |
+A3 B2 c{A}c2 | f2 (e2 e)c{A}c2 | A3 B2 c{A}c2  | Bc{g}de {g}fe{g}fa |
+{AGAG}A2 {g}cA {g}e2 (a2 | a8) | G2{g}BG {g}d2 (g2 | g8) |
+{AGAG}A2 {g}cA {g}ec{g}c{G}c | {g}Aa{g}ae {g}fe{g}fa | A8 | BABc defe | a8|]

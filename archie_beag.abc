@@ -1,0 +1,18 @@
+%abc-2.2
+I:abc-include ckstyle.abh
+%%landscape 1
+%%ceolkit:gracenotespacing 1.5
+X:2
+T:Archie Beag
+R:Jig
+C:Donald Morrison
+M:6/8
+L:1/8
+Q:3/8=114
+K:D
+[|: {g}A2 B {g}c{d}c{e}c | {g}dB{G}B {gef}e3 | {g}A2 B {g}c{d}c{e}c | {g}d2c {g}BGB |
+{g}A2 B {g}c{d}c{e}c | {g}dc{G}c {g}B2 f | {g}e2A  {g}dc{G}c | {g}B3 {G}A3 :|]
+[| {gcd}c2d {g}ec{G}c | {g}fd{G}d {gef}e3 | {gcd}c2 d {g}eAe | {g}dc{G}c {g}B3 |
+{gcd}c2d {g}ec{G}c | {g}fd{G}d {gef}e2f |  {g}e2A  {g}dc{G}c | {g}B3 {G}A3 |
+{gcd}c2d {g}ec{G}c | {g}fd{G}d {gef}e3 | {gcd}c2 d {g}eAe | {g}dc{G}c {g}B2 {g}A- |
+A2 B {g}c{d}c{e}c | {g}dc{G}c {g}B2 f | {g}e2A  {g}dc{G}c | {g}B3 {G}A3 |]

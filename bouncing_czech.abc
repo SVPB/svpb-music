@@ -1,0 +1,17 @@
+%abc-2.2
+I:abc-include ckstyle.abh
+%%landscape 1
+%%ceolkit:gracenotespacing 1.5
+X:6
+T:The Bouncing Czech
+R:Reel
+L:1/8
+C:Gerry Hanlon
+M:C|
+L:1/8
+Q:1/4 = 76
+K:D
+[| {g}fB{G}Bc {gBd}B2{g}ce | {g}f2{g}fe {g}faed | {g}c{d}A{e}A{d}B {g}A2{g}ce | {g}fa{g}ae {g}faec |
+{g}fB{G}Bc {gBd}B2{g}ce | {g}f2{g}fe {g}faed | {g}cA{g}ce {g}faec | {g}dB{G}Bc {gBd}B2{g}ce ||
+{g}f2{g}fe {g}fa{g}ae | {g}fa{g}ae {g}f2{g}ed | {g}c{d}A{e}A{d}B {g}A2{g}ce | {g}fa{g}ae {g}faec |
+{g}f2{g}fe {g}fa{g}ae | {g}fa{g}ae {g}f2{g}ed | {g}cA{g}ce {g}faec | {g}dB{G}Bc {gBd}B4 |]

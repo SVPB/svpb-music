@@ -1,0 +1,17 @@
+%abc-2.2
+I:abc-include ckstyle.abh
+%%landscape 1
+%%ceolkit:gracenotespacing 1.5
+X:3
+T:The Radar Racketeer
+C:Murray Blair & Adrian Melvin
+L:1/8
+R:Jig
+M:6/8
+K:D
+Q:1/4 = 114
+[|: {g}f2 B {g}fed | {g}AeA {g}edc | {g}Bf{e}f {g}fed | {g}e2 (f f)ed |
+{g}Bf{e}f {g}fed | {g}AeA {g}edc | {g}Bde {g}faf | {g}edc {g}B3 :|]
+[|:{g}faB {g}fed | {g}AeA {g}edc | B{e}B{G}B d{g}d{G}d | {gef}ede {g}f2 {e}f |
+[1{g}BfB {g}fed | {g}AeA {g}edc | {g}Bde {g}faf | {g}edc {g}B3 :|]
+[2 {g}BfB {g}fed [M:9/8] | {g}AeA {g}edc {g}Bde [M:6/8] | {g}f2 a2 c2 [Q:1/4=70] | {g}B6 |]

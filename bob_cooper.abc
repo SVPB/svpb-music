@@ -1,17 +1,18 @@
 %abc-2.2
-I:abc-include style.abh
+I:abc-include ckstyle.abh
 %%landscape 1
+%%ceolkit:gracenotespacing 1.5
 X:1
 T:Bob Cooper of Winnipeg
 R:March
-C:Bob Worrall, Arrangment by Jack Lee
+C:Bob Worrall, Arr. Malcolm Roux
 Z:abc-transcription Stephen Beitzel, <sbeitzel@pobox.com>, 2025-10-29
 M:4/4
 L:1/8
+Q:1/4 = 80
 K:D
-[|: {g}A{Gdc}d | {gfg}f2 {e}fa {e}f2 {g}ed | {gf}g2 {a}g<a {A}B2 {gde}d>B | {g}A2 {GAG}Ad {g}f<a df | {a}g>f d<{e}B {gef}e2 {g}A{Gdc}d |
-{gfg}f2 {e}fA {e}f2 {g}ef | {a}g>f a<g {A}B2 {gde}d>B | {g}A2 {GAG}Ad {g}f<a | {ef}eA {g}f/e/c [1 {gc}d2 :|[2 {gc}d3 |]
-[|: A | {ag}a2 {fg}f>e {Gdc}d2 {g}ed | {gf}g2 {a}g<a {A}B2 {gde}d>B | {g}A2 {GAG}Ad {g}f<a df |[1 {a}g>f d<{e}B {gef}e3 A |
-[1 {ag}a2 {fg}f>e {Gdc}d2 {g}ef | {gf}g2 {a}g<a {A}B2 {gde}d>B | {g}A2 {GAG}Ad {g}d<f {g}f<a | {ef}eA {g}f/e/c {gc}d3 :|
-[2 {a}g>f d<{e}B {gef}e2 A{Gdc}d | {gfg}f2 {e}fa {g}ef | {a}g>f a<g {A}B2 {gde}d>B | {g}A2 {GAG}Ad {g}d<f {g}f<a |
-[2 {ef}eA {g}f/e/c {gc}d4 |]
+ {g}Ad | {gfg}f2 {e}fa {e}f2 {g}ed | {gf}g2 {a}g<a {A}B2 {gde}d>B | {g}A2 {GAG}Ad {g}f<a df | {gf}g>f d<{e}B {gef}e2 {g}Ad |
+ {gfg}f2 {e}fa {e}f2 {g}ef | {gf}g>{a}f a<g {A}B2 {gde}d>B | {g}A2 {GAG}Ad {g}d<f {g}f<a | {ef}eA {g}f/e/c {gc}d3 |
+ A | {ag}a2 {fg}f>e {Gdc}d2 {g}ed | {gf}g2 {a}g<a {A}B2 {gde}d>B | {g}A2 {GAG}Ad {g}f<a df | {gf}g>f d<{e}B {gef}e2 {g}A/B/d |
+{ge}f2 {e}fA {g}f2 {gef}e/d/e/f/ [M:6/4] | {gf}g>{a}f a<g {A}(B2 B4) {gde}d>B [M:4/4] |
+ {g}A2 {GAG}Ad {g}d<f {g}f<a [M:2/4] | {ef}eA {g}f/e/c [M:6/8] |[Q:3/8=114] {g}d6 |]

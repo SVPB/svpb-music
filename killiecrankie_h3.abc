@@ -1,0 +1,16 @@
+%abc-2.2
+I:abc-include ckstyle.abh
+%%landscape 1
+X:4
+T:Killiecrankie
+T:Harmony 3
+C:arr Adam Blaine
+R:March
+M:4/4
+L:1/8
+Q:1/4=80
+K:D
+[| {g}f>g |{ag}a3 A {GAG}A2 {g}B{d}c | {Gdc}d2 {e}G2 {gGd}G3 {gf}g | {ag}a3 a {f}gf{g}ed |{gfg}f2 {g}e2 {geA}e2 {g}fg | 
+{ag}a3 A {GAG}A2 {g}B{d}c | {Gdc}d2 {e}G2 {gf}g2 {ag}a>g | {a}f4 {g}A3 B | {g}d2 {g}e2 {gdG}d2 {g}de |
+{ag}a2 a2 a2 ed | {g}B2 G2 {g}B4 | {ag}(a2 a2) {gf}gf{g}ed | {gfg}f2 a2 {g}a2 de | 
+{g}f3 {e}f {gfe}f2 {g}ed | {gf}g2 G/B/d/g/  {ag}a3 g | {a}f4 {g}A3 B | {g}d2 {g}e2 {gdG}d4 |]

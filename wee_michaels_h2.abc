@@ -1,0 +1,20 @@
+%abc-2.2
+I:abc-include ckstyle.abh
+%%landscape 0
+X:2
+T:Wee Michael's March
+T:Harmony 2
+R:March
+C:John McCusker
+M:3/4
+L:1/8
+Q:1/4=80
+K:D
+[|{gef}e d/e | {ge}f2 {g}fa {f}g{a}f | e<{g}G {dc}d2 {g}B<{d}G | {g}A3 f g<{a}f | {gef}e3 A {gef}e d/e | 
+{ge}f2 {g}fa {f}g{a}f | g<{a}G {dc}d2 {g}B/A/G | {g}A3 {ge}f {g}e>>{gef}e | d3 A {gef}e d/e |
+{ge}A6 | B4 d2 | {g}d3 B {c}A2 | A4 d2 | 
+c2 B2 B2 | B4 d/c/B | {a}d3 B A2 | A4 {Gdc}de/f/ ||
+B6 | A4 d(d [M:2/4] | d)d B2 [M:3/4] | A4 {Gdc}de/f/ |
+B6 | A2 cB (d2 [M:2/4] | d)d A2 [M:3/4] | A4 {Gdc}de/f/ |
+B6 | A2 cB B<(d [M:2/4] | d)d B2 [M:3/4] | A4 d2 | 
+c2 B2 B2 | B4 d/c/B | G4 G2 |  "Play full beat off on beat 2"A2 z4 |]

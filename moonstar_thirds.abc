@@ -1,0 +1,16 @@
+%abc-2.2
+I:abc-include ckstyle.abh
+%%landscape 1
+
+X:1
+T:Moonstar
+T:Thirds
+C:Adam Blaine
+R:March
+M:4/4
+L:1/8
+K:D
+[| {Gdc}d>f {ag}ad {gcd}c>f {ag}ac | {g}B>e {gf}gB {G}A2 {gde}dA | {g}B>e {gf}gB {G}Ad {g}fa | e>d {g}cB {g}A{d}A {g}Bc |
+{g}A8 | {g}G4 A4 | {g}G4 A2 {g}c>d | {g}A2 {g}d>B {G}A4 ||
+ {g}A8 | {g}G4 A4 | {g}G4 A4 | {g}B4 {g}c2 {g}dB | 
+ {g}A8 | {g}G4 A4 | {g}G4 A2 {g}c>d | {g}A2 {g}d>B {G}A4 |]

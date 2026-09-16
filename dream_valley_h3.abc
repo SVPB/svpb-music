@@ -1,0 +1,22 @@
+%abc-2.2
+I:abc-include ckstyle.abh
+%%landscape 1
+%%ceolkit:scale 0.85
+X:4
+T:Dream Valley of Glendaruel
+T:Harmony 3
+R:March
+C:John MacLellan
+O:Dunoon, UK
+M:3/4
+L:1/8
+Q:1/4=80
+K:D
+[| {g}A>B {Gdc}d2 {e}A2 | {g}f>g {ag}a2 {Gdc}d2 | {g}e>f {gf}(g2 g)B | {g}fd {gfg}f2 {g}e2 |
+{g}f>e {Gdc}df {AGAG}A2 | {ag}a>g {a}fa {Gdc}d2 | {gde}d>c {gBd}B2 {e}G{gf}g | {a}e>c {Gdc}d4 |
+{g}A>B {Gdc}d2 {e}A2 | {g}f>g {ag}a2 {Gdc}d2 | {g}e>f {gf}(g2 g)B | {g}fd {gfg}f2 {g}e2 |
+{g}f>e {Gdc}df {AGAG}A2 | {ag}a>g {a}fa {Gdc}d2 | {gde}d>e {g}(e4 | e4) d2 ||
+{g}f>g {ag}a2 {Gdc}d2 | {gf}gf {gfg}f2 {g}e2 | {g}f>g {ag}a2 {Gdc}d>c | {gBd}Be {gcd}c2 {e}A2 |
+{g}f>e {Gdc}df {AGAG}A2 | {ag}a>g {a}fa {Gdc}d2 | {gde}d>c {gBd}B2 {e}G{gf}g | {a}e>c {Gdc}d4 |
+{g}f>g {a}d4 | {gf}gf {gfg}f2 {g}e2 | {g}f>g {ag}a2 {Gdc}d>c | {gBd}Be {gcd}c2 {e}A2 |
+{g}f>e {Gdc}df {AGAG}A2 | {ag}a>g {a}fa {Gdc}d2 | {gde}d>e {g}(e4 | e4) d2  |]

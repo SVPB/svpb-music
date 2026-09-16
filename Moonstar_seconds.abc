@@ -1,10 +1,10 @@
 %abc-2.2
-I:abc-include style.abh
-%%scale 0.65
+I:abc-include ckstyle.abh
 %%landscape 1
 
 X:1
-T:Moonstar Seconds
+T:Moonstar
+T:Seconds
 C:Adam Blaine
 R:March
 M:4/4

@@ -1,69 +1,74 @@
 binders:
-  - name: "Full Binder"
-    output: "full_2027.pdf"
-    sections:
-      - title: "G4 M/S/R"
-        entries:
-          - tune: "detroit_highlanders"
-          - tune: "detroit_highlanders_alternate"
-          - tune: "archie_duncan"
-          - tune: "kalabakan"
-      - title: "G4 Medley"
-        entries:
-          - tune: "bob_cooper"
-          - tune: "archie_beag"
-          - tune: "radar_racketeer"
-          - tune: "radar_racketeer_h1"
-          - tune: "radar_racketeer_h2"
-          - tune: "radar_racketeer_h3"
-          - tune: "parting_glass"
-          - tune: "parting_glass_h1"
-          - tune: "parting_glass_h2"
-          - tune: "parting_glass_h3"
-          - tune: "parting_glass_h4"
-          - tune: "sandy_gordon"
-          - tune: "bouncing_czech"
-          - tune: "kelseys"
-          - tune: "kelseys_h1"
-          - tune: "kelseys_h2"
-          - tune: "kelseys_h3"
-          - tune: "kelseys_h4"
-      - title: "WUSPBA / Massed Bands"
-        entries:
-          - tune: "amazing_grace"
-          - tune: "bonnie_dundee"
-          - tune: "flower_of_scotland"
-          - tune: "green_hills"
-          - tune: "battles_oer"
-          - tune: "highland_laddie"
-          - tune: "scotland_the_brave"
-          - tune: "rowan_tree"
-          - tune: "no_awa"
-          - tune: "brown_haired_maiden"
-      - title: "Parade Tunes"
-        entries:
-          - tune: "banks_of_the_lossie"
-          - tune: "banks_of_the_lossie_h1"
-          - tune: "banks_of_the_lossie_h2"
-          - tune: "battle_waterloo"
-          - tune: "castle_dangerous"
-          - tune: "dawning_of_day"
-          - tune: "minstrel_boy"
-          - tune: "wearing_of_green"
-          - tune: "Killiecrankie"
-          - tune: "killiecrankie_h1"
-          - tune: "killiecrankie_h2"
-          - tune: "killiecrankie_h3"
-          - tune: "dream_valley"
-          - tune: "dream_valley_h1"
-          - tune: "dream_valley_h2"
-          - tune: "dream_valley_h3"
-          - tune: "MarchOfTheRBL"
-          - tune: "march_RBL_h1"
-          - tune: "march_RBL_h2"
-          - tune: "john_barclay"
-          - tune: "john_barclay_h1"
-          - tune: "john_barclay_h2"
-          - tune: "wee_michaels"
-          - tune: "wee_michaels_h1"
-          - tune: "wee_michaels_h2"
+- name: Full Binder
+  output: full_2027.pdf
+  pack: true
+  sections:
+  - title:
+    - SVPB Tunes
+    - '2027'
+  - toc: true
+  - title: G4 M/S/R
+    entries:
+    - tune: detroit_highlanders
+    - tune: detroit_highlanders_alternate
+    - tune: archie_duncan
+    - tune: kalabakan
+  - title: G4 Medley
+    entries:
+    - tune: bob_cooper
+    - tune: archie_beag
+    - tune: radar_racketeer
+    - tune: radar_racketeer_h1
+    - tune: radar_racketeer_h2
+    - tune: radar_racketeer_h3
+    - tune: parting_glass
+    - tune: parting_glass_h1
+    - tune: parting_glass_h2
+    - tune: parting_glass_h3
+    - tune: parting_glass_h4
+    - tune: sandy_gordon
+    - tune: bouncing_czech
+    - tune: kelseys
+    - tune: kelseys_h1
+    - tune: kelseys_h2
+    - tune: kelseys_h3
+    - tune: kelseys_h4
+  - title: WUSPBA / Massed Bands
+    entries:
+    - tune: amazing_grace
+    - tune: bonnie_dundee
+    - tune: flower_of_scotland
+    - tune: green_hills
+    - tune: battles_oer
+    - tune: highland_laddie
+    - tune: scotland_the_brave
+    - tune: rowan_tree
+    - tune: no_awa
+    - tune: brown_haired_maiden
+  - title: Parade Tunes
+    entries:
+    - tune: banks_of_the_lossie
+    - tune: banks_of_the_lossie_h1
+    - tune: banks_of_the_lossie_h2
+    - tune: battle_waterloo
+    - tune: castle_dangerous
+    - tune: dawning_of_day
+    - tune: minstrel_boy
+    - tune: wearing_of_green
+    - tune: Killiecrankie
+    - tune: killiecrankie_h1
+    - tune: killiecrankie_h2
+    - tune: killiecrankie_h3
+    - tune: dream_valley
+    - tune: dream_valley_h1
+    - tune: dream_valley_h2
+    - tune: dream_valley_h3
+    - tune: MarchOfTheRBL
+    - tune: march_RBL_h1
+    - tune: march_RBL_h2
+    - tune: john_barclay
+    - tune: john_barclay_h1
+    - tune: john_barclay_h2
+    - tune: wee_michaels
+    - tune: wee_michaels_h1
+    - tune: wee_michaels_h2

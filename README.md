@@ -7,25 +7,16 @@ sure to update the Makefile so it is included in the build.
 
 # Current Build Chain
 
-Checkins to the Github project trigger a web hook on the build server; that
-creates a file on the build server that records the branch and commit details. There is a periodic
-job on the build server that looks for these files; when it finds one, it pulls the changes
-from Github, builds the binder, syncs the files to Box (via [rclone](https://rclone.org))
-and sends a message to Slack.
-
-> *Note*
-> A different build system is under development. The author hopes it will supersede
-> this system sometime in 2026.
 
 ## Setting Up A New Year
 
 1. create the new branch and push it to Github
-1. log in to the build server and, in the `repos` directory, clone the new branch:
- `git clone --single-branch --branch <year> https://github.com/SVPB/svpb-music.git <year>`
-1. Update the year in `Makefile`
-1. On the build server, make a new build directory in the sheet_music folder
-1. On the build server, ensure that the www-data user owns both the branch and the
-build directories
+2. log in to the build service by sending a DM to its Slack bot; the bot will reply with a login link.
+3. Go to the "Binders" tab and select "Describe a binder"
+4. Assemble the tunes into the list you want to see.
+5. Click the "Generate YAML" button.
+6. Select the generated YAML and copy it. Paste that into a file named `binders.yaml` in the root of the new branch.
+7. Push the updated `binders.yaml` to GitHub.
 
 # Process and Tools
 
@@ -35,12 +26,6 @@ the current year.
 
 We save our tunes as ABC files. For details on ABC, refer to the [ABC standard](http://abcnotation.com/wiki/abc:standard:v2.2). Most graphical music programs understand ABC and can import it (e.g. [CelticPipes](https://www.celticpipes.net/), [MuseScore](https://musescore.org/en), &c) but since it is a text format and not binary, it compresses well and is much friendlier for revision control systems than their native binary formats. Also, since ABC is a text format, you don't need a particular application which may not be available on your platform - just edit the text.
 
-To produce PDF files which we print and put in our binders, we use a series of tools. First, we use [abcm2ps](https://github.com/sbeitzel/abcm2ps) to convert the ABC files to PostScript. Then, we convert the PostScript to PDF. MacOS used
-to ship with a tool, `pstopdf`, which could do this. macOS 26 (Tahoe) and later no longer includes this tool.
-[Ghostscript](https://www.ghostscript.com/) provides, `ps2pdf`, which does this.
+## Applications
 
-## abcm2ps
-
-Originally, we used a vanilla build of Jean-François Moine's `abcm2ps` to generate PostScript files. That tool
-has now been [archived](https://github.com/lewdlime/abcm2ps) as M. Moine has decided to go in the direction of JavaScript
-in the browser. Thus, we continue development on our own fork of the project.
+ * If you're on a macOS device, [ScoreEdit](https://www.coprosperitysphere.com/apps/ScoreEdit/) can edit ABC files and display a preview of how they will be rendered. It uses the same parsing and rendering engines as the build service.

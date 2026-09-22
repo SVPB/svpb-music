@@ -1,5 +1,5 @@
 %%writefields TRCQ true
-%%footer "	Page ${pagenumber}	Generated: $D"
+%%footer "Page ${pagenumber}	${label}	Generated: $D"
 %%straightflags false
 %%flatbeams true
 %%graceslurs false

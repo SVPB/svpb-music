@@ -1,0 +1,17 @@
+%abc-2.2
+I:abc-include ckstyle.abh
+%%landscape 1
+
+X:1
+T:Setting a Course for Lewis
+R:Air
+C:Trad
+M:6/8
+L:1/8
+Q:1/4=80
+K:D
+[| {g}f>g | {ag}a>gf {g}e<dA | {g}B<d{c}d {g}B<{G}A{g}f>g | {ag}a>gf {g}e<dA | {g}B<gf {gef}e2 {g}f>g | 
+{ag}a>gf {g}e<dA | {g}B<d{c}d {g}B<{G}A{GAG}A | {g}B>cd {g}A2 {g}f>g | afe ({Gdc}d2 d)>c || 
+{g}B2 {gc}d {g}A2 {GAG}A | {g}B<d{c}d {g}B<{G}A{GAG}A | {g}B>cd {gdc}d2 {g}e>f | {gf}g>fd {gef}e2 {gf}g | 
+{a}f>ed {g}f<af | {g}B<d{c}d {g}B<{G}A{GAG}A | {g}B>cd {g}A2 {g}f>g | afe {Gdc}d3 |]
+

@@ -7,9 +7,9 @@ R:Reel
 C:John McAskill
 M:C|
 L:1/8
-Q:"80 bpm"
+Q:1/4=80
 K:D
-[|: [2 a/ ] | {ef}e2 {A}e2 {g}d>e{A}e>d | {gef}e2 {g}d>B {g}G>{d}B{G}B>d | {gef}e2 {A}e2 {g}d>e{A}e>d | {g}e>g{a}f>d {gef}e2 {A}e3/2 :|]
+[|: [2  a/ | {ef}e2 {A}e2 {g}d>e{A}e>d | {gef}e2 {g}d>B {g}G>{d}B{G}B>d | {gef}e2 {A}e2 {g}d>e{A}e>d | {g}e>g{a}f>d {gef}e2 {A}e3/2 :|]
 [|: f/ | {gf}g2 {a}f2 {gef}e2 {g}d>B | {gAd}A2 {g}d>B {g}G>{d}B{G}B>e | {gf}g2 {a}f2 {gef}e2 {g}d>B | {g}e>g{a}f>d {gef}e2 {A}e3/2 :|]
 g/ | {ef}e2 {A}e2 {gef}e2 {g}d>B | {g}A>{d}A{e}A>{d}B {g}G>A{g}B<d | {gef}e2 {A}e2 {gef}e2 {g}d>B |  {g}e>g{a}f>d {gef}e2 {A}e>g |
 {ef}e2 {A}e2 {gef}e2 {g}d>B | {g}A>{d}A{e}A>{d}B {g}G>A{g}B<d | {gef}e2 {A}e2 {gef}e2 {g}d>B | {g}e>g{a}f>d {gef}e2 {gf}g2 ||

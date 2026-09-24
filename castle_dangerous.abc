@@ -11,8 +11,8 @@ C:J. Haugh, Arr. SVPB
 M:3/4
 L:1/8
 K:D
-[|: [1 {Gdc}d>e {g}f2 {ag}a2 |[2 {gdG}d>e {g}f2 {ag}a2 | {fg}fd {e}G2 {d}B2 | {gde}d2 {GBG}A2 {Gdc}d2 | {g}fa {ef}e4 |
+[|: "^1st time"{Gdc}d>e {g}f2 {ag}a2 | "^2nd time"{gdG}d>e {g}f2 {ag}a2 | {fg}fd {e}G2 {d}B2 | {gde}d2 {GBG}A2 {Gdc}d2 | {g}fa {ef}e4 |
 {Gdc}d>e {g}f2 {ag}a2 | {fg}fd {e}G2 {d}B2 | {gde}d2 {GBG}A2 {g}f2 | {gf}gc {Gdc}d4 :|] 
 [|:{g}f>g {ag}a2 {fg}fa | {fg}fd {e}G2 {d}B2 | {gde}d2 {GBG}A2 {Gdc}d2 | {g}fa {ef}e4 |
 [1 {g}f>g {ag}a2 {fg}fa | {fg}fd {e}G2 {d}B2 | {gde}d2 {GBG}A2 {g}f2 | {gf}gc {Gdc}d4 :|] 
-[2 {Gdc}d>e {g}f2 {ag}a2 | {fg}fd {e}G2 {d}B2 | {gde}d2 {GBG}A2 {g}f2 | {gf}gc {Gdc}d4 :|] 
+[2 {Gdc}d>e {g}f2 {ag}a2 | {fg}fd {e}G2 {d}B2 | {gde}d2 {GBG}A2 {g}f2 | {gf}gc {Gdc}d4 |]

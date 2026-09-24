@@ -1,6 +1,5 @@
 %abc-2.2
-I:abc-include style.abh
-%%scale 0.65
+I:abc-include ckstyle.abh
 %%landscape 0
 
 X:1
@@ -11,12 +10,11 @@ C:Ron Fleming
 M:6/8
 K:D
 [|: e | {g}A>e{A}e {gef}e2 d | {g}e<gf {gef}e2 d | {gBd}B>{g}A{d}G {gGd}G2 d | {g}B<{d}A{d}B {Gdc}d2 e |
-["2 of 2" {g}A>e{A}e {gef}e2 d | {g}e<gf {gef}e2 d | {gBd}B>{g}A{d}G {g}B<de | {g}A3 {GAG}A2 ] :|]
+[2 "^repeat of part 2"{g}A>e{A}e {gef}e2 d | {g}e<gf {gef}e2 d | {gBd}B>{g}A{d}G {g}B<de | {g}A3 {GAG}A2 :|]
 [|: {d}B | {g}A>a{g}a {g}a2 g | {a}e<ag {ef}e2 d | {gBd}B>{g}A{d}G {gGd}G2 d | {g}B<{d}A{d}B {Gdc}d2 e |
-["1"  {g}A>a{g}a {g}a2 g | {a}e<ag {ef}e2 d | {gBd}B>{g}A{d}G {g}B<de | {g}A3 {GAG}A2 ] :|]
+[1 {g}A>a{g}a {g}a2 g | {a}e<ag {ef}e2 d | {gBd}B>{g}A{d}G {g}B<de | {g}A3 {GAG}A2 ] :|]
 [|: e | {g}A>e{g}A {g}B>e{A}e | {g}e<gf {g}e>g{a}e | {gde}d>B{d}G {gGd}G2 d | {g}B<{d}A{d}B {Gdc}d2 e |
 {g}A>e{g}A {g}B>e{A}e | {g}e<gf {gef}e2 d | {gBd}B>{g}A{d}G {g}B<de | {g}A3 {GAG}A2 :|]
 [|: {d}B | {g}A>a{g}a e<a{g}a | g>ed {gef}e2 {gf}g | {Bd}B>{g}A{d}G {gGd}G2 d | {g}B<{d}A{d}B {Gdc}d2 e |
-["1" {g}A>a{g}a e<ae | {gf}g>ag {ef}e2 d |  {gBd}B>{g}A{d}G {g}B<de | {g}A3 {GAG}A2 ] :|]
-["2"  {g}A>e{g}A {g}B>e{A}e | {g}e<gf {g}e>d{G}d | {gBd}B>{g}A{d}G {g}B<de | {g}A3 {GAG}A2 ] :|]
-
+[1 {g}A>a{g}a e<ae | {gf}g>ag {ef}e2 d |  {gBd}B>{g}A{d}G {g}B<de | {g}A3 {GAG}A2 ] :|]
+[2 {g}A>e{g}A {g}B>e{A}e | {g}e<gf {g}e>d{G}d | {gBd}B>{g}A{d}G {g}B<de | {g}A3 {GAG}A2 |]

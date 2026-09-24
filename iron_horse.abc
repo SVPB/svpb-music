@@ -1,8 +1,8 @@
 %abc-2.2
-I:abc-include style.abh
+I:abc-include ckstyle.abh
 %%footer "Page $P	SVPB G3 Medley 2023	Generated: $D"
 %%landscape 1
-%%scale 0.65
+%%ceolkit:scale 0.75
 X:1
 T:Bruce Gandy's Farewell to the Iron Hornpipe
 R:Hornpipe

@@ -1,6 +1,7 @@
 %abc-2.2
-I:abc-include style.abh
+I:abc-include ckstyle.abh
 %%landscape 0
+%%ceolkit:scale 0.85
 
 X:1
 T:Pipe Major Donald MacLean of Lewis

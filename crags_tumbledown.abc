@@ -1,0 +1,17 @@
+%abc-2.2
+I:abc-include ckstyle.abh
+%%landscape 1
+
+X:1
+T:Crags of Tumbledown Mountain
+M:4/4
+L:1/8
+C:Pipe Major J. K. G. Stutt
+R:March
+K:D
+[| {g}A2 {GAG}A{d}c {gef}e2 | {g}f<a {g}a>f {gef}e4 | {g}A {GAG}A>{d}c {gef}e>c ac | {gcd}c3 {g}d/>c/ {gBd}B4 |
+{g}A {GAG}A{d}c {gef}e2 {gcd}ce | {g}f<a {g}a>f {gef}e2 {g}A>B | {GdG}ce {A}e {g}f>e {gde}dc | {gBd}B4 {G}A4 |]
+[| {gef}e2 {gcd}ce {g}f<a {g}ae | {g}f>g {fg}fd {gef}e4 | {gef}e2 {gcd}ce a3 c | {gcd}c3 {g}d>c {gBd}B4 |
+{gef}e2 {gcd}ce {g}f<a {g}ae | {g}f>g af {gef}e2 {g}A>B | {GdG}ce {A}e2 {g}f>e {gde}dc | {gBd}B4 {G}A4 |]
+[| {g}A>{d}c {gef}e2 {g}A{d}c {g}c<e | {g}A {GAG}Af {gef}e4 | {g}A>{d}c {gef}e2 {g}A{d}c {g}c<e | {gcd}c3 {g}d>c {gBd}B4 |
+{g}A>{d}c {gef}e2 {g}A{d}c {g}c<e | {g}f>g af {gef}e2 {g}A>B | {GdG}ce {A}e {g}f>e {gdc}dc | {gBd}B4 {G}A4 |]

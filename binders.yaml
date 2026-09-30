@@ -18,17 +18,17 @@ binders:
     - tune: bob_cooper
     - tune: archie_beag
     - tune: radar_racketeer
+    - tune: parting_glass
+    - tune: sandy_gordon
+    - tune: bouncing_czech
+    - tune: kelseys
     - tune: radar_racketeer_h1
     - tune: radar_racketeer_h2
     - tune: radar_racketeer_h3
-    - tune: parting_glass
     - tune: parting_glass_h1
     - tune: parting_glass_h2
     - tune: parting_glass_h3
     - tune: parting_glass_h4
-    - tune: sandy_gordon
-    - tune: bouncing_czech
-    - tune: kelseys
     - tune: kelseys_h1
     - tune: kelseys_h2
     - tune: kelseys_h3
@@ -72,3 +72,16 @@ binders:
     - tune: wee_michaels
     - tune: wee_michaels_h1
     - tune: wee_michaels_h2
+- name: Christmas Concert
+  output: christmas_2026.pdf
+  sections:
+  - title:
+    - Christmas Concert
+    - '2027'
+    entries:
+    - tune: highland_cathedral
+    - tune: amazing_grace_church
+    - tune: jingle_bells
+    - tune: o_come_all_ye_faithful
+    - tune: we_wish_merry
+    - tune: auld_lang_syne

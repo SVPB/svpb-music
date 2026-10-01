@@ -5,7 +5,7 @@ binders:
   sections:
   - title:
     - SVPB Tunes
-    - '2027'
+    - '2026'
   - toc: true
   - title: G4 M/S/R
     entries:
@@ -77,7 +77,7 @@ binders:
   sections:
   - title:
     - Christmas Concert
-    - '2027'
+    - '2026'
     entries:
     - tune: highland_cathedral
     - tune: amazing_grace_church

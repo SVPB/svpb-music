@@ -1,6 +1,6 @@
 binders:
 - name: Full Binder
-  output: full_2027.pdf
+  output: full_2026.pdf
   pack: true
   sections:
   - title:

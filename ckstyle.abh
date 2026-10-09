@@ -5,5 +5,5 @@
 %%graceslurs false
 %%dateformat "%e %B %Y %H:%M"
 %%ceolkit:pipeformat true
-%%ceolkit:justifylast true
 %%ceolkit:gracenotespacing 1.5
+%%stretchlast 1

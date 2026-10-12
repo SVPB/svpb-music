@@ -73,7 +73,7 @@ binders:
     - tune: wee_michaels_h1
     - tune: wee_michaels_h2
 - name: Christmas Concert
-  output: christmas_2026.pdf
+  output: christmas_2027.pdf
   sections:
   - title:
     - Christmas Concert

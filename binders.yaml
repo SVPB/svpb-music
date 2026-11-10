@@ -97,6 +97,7 @@ binders:
     - tune: parting_glass_h3
     - tune: parting_glass_h4
     - tune: setting_course_for_lewis
+    - tune: skylarks_ascension
     - tune: o_come_all_ye_faithful
     - tune: green_hills
     - tune: battles_oer
@@ -108,8 +109,9 @@ binders:
     - tune: banks_of_the_lossie
     - tune: banks_of_the_lossie_h1
     - tune: banks_of_the_lossie_h2
+    - tune: megan_harrington
     - tune: amazing_grace
     - tune: amazing_grace_church
     - tune: auld_lang_syne
-    - tune: jingle_bells
     - tune: scotland_the_brave
+    - tune: jingle_bells
